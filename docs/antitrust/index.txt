@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","antitrust",""],"i":false,"f":[[["",{"children":[["slug","antitrust","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","antitrust","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T345d,
+<div class="wp-block-columns alignfull is-not-stacked-on-mobile practice-top-bnr is-layout-flex wp-container-core-columns-is-layout-21 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover" style="min-height:250px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img loading="lazy" decoding="async" width="1024" height="688" class="wp-block-cover__image-background wp-image-446" alt="" src="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-gavel-1-1024x688.jpg" data-object-fit="cover" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-gavel-1-1024x688.jpg 1024w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-gavel-1-300x202.jpg 300w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-gavel-1-768x516.jpg 768w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-gavel-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"><a href="https://www.gawpoe.com/trial-work/" data-type="page" data-id="440">Trial Work<strong>Trial Work</strong></a> <a href="https://www.gawpoe.com/trial-work/" data-type="page" data-id="440"><span style="color: inherit; font-size: 1.85rem; background-color: rgb(35, 44, 97); font-family: var(--wp--preset--font-family--open-sans);"><strong>Trial Wor</strong> Trial Work</span></a></p>
+
+
+
+<figure class="wp-block-image alignright size-full is-resized"><a href="https://www.gawpoe.com/trial-work/"><img loading="lazy" decoding="async" width="240" height="1812" src="https://www.gawpoe.com/wp-content/uploads/2024/07/h2-trial-work.png" alt="" class="wp-image-1086" style="width:46px;height:auto"/></a></figure>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover is-light" style="min-height:250px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img loading="lazy" decoding="async" width="1024" height="688" class="wp-block-cover__image-background wp-image-448" alt="" src="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-justice-scales-statue-1-1024x688.jpg" data-object-fit="cover" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-justice-scales-statue-1-1024x688.jpg 1024w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-justice-scales-statue-1-300x202.jpg 300w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-justice-scales-statue-1-768x516.jpg 768w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-justice-scales-statue-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"><a href="https://www.gawpoe.com/business-litigation/" data-type="page" data-id="507">Business LitigationBusiness LitigationCommercial Litigation</a></p>
+
+
+
+<figure class="wp-block-image alignright size-full is-resized"><a href="https://www.gawpoe.com/business-litigation/"><img loading="lazy" decoding="async" width="240" height="1812" src="https://www.gawpoe.com/wp-content/uploads/2024/08/h2-business-litigation.png" alt="" class="wp-image-1138" style="width:46px;height:auto"/></a></figure>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover is-light" style="min-height:250px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img loading="lazy" decoding="async" width="1024" height="688" class="wp-block-cover__image-background wp-image-449" alt="" src="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-looking-up-at-columns-1-1024x688.jpg" data-object-fit="cover" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-looking-up-at-columns-1-1024x688.jpg 1024w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-looking-up-at-columns-1-300x202.jpg 300w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-looking-up-at-columns-1-768x516.jpg 768w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-looking-up-at-columns-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"><a href="https://www.gawpoe.com/antitrust/" data-type="page" data-id="510">AntitrustAntitrustAntitr<span style="color: inherit; font-size: 1.85rem; background-color: rgb(35, 44, 97); font-family: var(--wp--preset--font-family--open-sans);"> Antitrust</span></a></p>
+
+
+
+<figure class="wp-block-image alignright size-large is-resized"><a href="https://www.gawpoe.com/antitrust/"><img loading="lazy" decoding="async" width="136" height="1024" src="https://www.gawpoe.com/wp-content/uploads/2024/07/h2-antitrust-136x1024.png" alt="" class="wp-image-1091" style="width:46px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/h2-antitrust-136x1024.png 136w, https://www.gawpoe.com/wp-content/uploads/2024/07/h2-antitrust-40x300.png 40w" sizes="(max-width: 136px) 100vw, 136px" /></a></figure>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover" style="min-height:250px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img loading="lazy" decoding="async" width="1024" height="688" class="wp-block-cover__image-background wp-image-445" alt="" src="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-ambulance-1-1024x688.jpg" data-object-fit="cover" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-ambulance-1-1024x688.jpg 1024w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-ambulance-1-300x202.jpg 300w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-ambulance-1-768x516.jpg 768w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-ambulance-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"><a href="https://www.gawpoe.com/catastrophic-injury/" data-type="page" data-id="514">Catastrophic InjuryCatastrophic<span style="color: inherit; font-size: 1.85rem; background-color: rgb(35, 44, 97); font-family: var(--wp--preset--font-family--open-sans);">Catastrophic Injury</span></a></p>
+
+
+
+<figure class="wp-block-image alignright size-large is-resized"><a href="https://www.gawpoe.com/catastrophic-injury/"><img loading="lazy" decoding="async" width="136" height="1024" src="https://www.gawpoe.com/wp-content/uploads/2024/07/h2-catastrophic-injury-136x1024.png" alt="" class="wp-image-1093" style="width:46px;height:auto" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/h2-catastrophic-injury-136x1024.png 136w, https://www.gawpoe.com/wp-content/uploads/2024/07/h2-catastrophic-injury-40x300.png 40w" sizes="(max-width: 136px) 100vw, 136px" /></a></figure>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover is-light" style="min-height:250px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img loading="lazy" decoding="async" width="1024" height="688" class="wp-block-cover__image-background wp-image-447" alt="" src="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1-1024x688.jpg" data-object-fit="cover" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1-1024x688.jpg 1024w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1-300x202.jpg 300w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1-768x516.jpg 768w, https://www.gawpoe.com/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size"><a href="https://www.gawpoe.com/appeals/" data-type="page" data-id="517">Appeals </a></p>
+
+
+
+<figure class="wp-block-image alignright size-large is-resized"><a href="https://www.gawpoe.com/appeals/"><img loading="lazy" decoding="async" width="136" height="1024" src="https://www.gawpoe.com/wp-content/uploads/2024/07/h2-appeals-136x1024.png" alt="" class="wp-image-1092" style="width:46px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/h2-appeals-136x1024.png 136w, https://www.gawpoe.com/wp-content/uploads/2024/07/h2-appeals-40x300.png 40w" sizes="(max-width: 136px) 100vw, 136px" /></a></figure>
+</div></div>
+</div>
+</div>
+
+
+
+<div class="practice-heading-with-badge" style="display:flex;align-items:center;justify-content:center;gap:2rem;margin:0 auto 1.2rem;">
+  <a class="chambers-badge" href="https://chambers.com/law-firm/gaw-poe-5:23824568" target="_blank" rel="noopener" style="display:block;flex:0 0 96px;">
+    <img loading="lazy" decoding="async" width="96" height="81" style="width:100%;height:auto;max-width:96px;display:block;" src="https://cms.chambers.com/Logo/4/1262/23824568/0/large" alt="Chambers badge" />
+  </a>
+  <h2 class="wp-block-heading has-text-align-center h-standard dlrg" style="margin:0;">Antitrust</h2>
+</div>
+
+
+
+<p>Fair business competition is a crucial American value.&nbsp; The history of American enterprise is that of new businesses succeeding in the marketplace through innovation and lowering costs to consumers.&nbsp; The federal and state antitrust laws exist to promote such healthy business competition, and we represent clients bringing antitrust claims like:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Sherman Act</strong> claims for monopolization and attempted monopolization.&nbsp; This is when a business with dominant market power unlawfully uses underhanded business tactics against its less powerful competitors.</li>
+
+
+
+<li><strong>Robinson-Patman Act</strong> claims for federal price discrimination.&nbsp; Suppliers are lawfully supposed to offer the same price to all wholesalers or retailers operating at the same level in the distribution chain, but some suppliers illegally favor certain buyers over others by giving them exclusive discounts, promotions, or other benefits.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading has-text-align-center h-in-pg">GAW | POE LLP’s Successes at Antitrust Litigation Include:</h3>
+
+
+
+<div class="wp-block-columns is-not-stacked-on-mobile call-out-number call-out-left is-layout-flex wp-container-core-columns-is-layout-22 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<h4 class="wp-block-heading has-text-align-center"><strong>$44M</strong> Jury Verdict</h4>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p>On Sherman Act claims brought by our client, a small cigarillo manufacturer, against the largest cigarillo manufacturer in the United States. This verdict was recognized as the largest antitrust verdict in the state of California for the year 2016. (Trendsettah, et al. v. Swisher Int’l)</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-not-stacked-on-mobile call-out-number call-out-right is-layout-flex wp-container-core-columns-is-layout-23 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p>We represented several wholesalers that sued an energy drink manufacturer for illegal price discrimination under the federal Robinson-Patman Act and the California Unfair Practices Act.&nbsp; The case settled shortly before trial.&nbsp; (Confidential)</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<h4 class="wp-block-heading has-text-align-center"><strong>$2.8M</strong> Settlement</h4>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-not-stacked-on-mobile call-out-number call-out-left is-layout-flex wp-container-core-columns-is-layout-24 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<h4 class="wp-block-heading has-text-align-center"><strong>$4.2M</strong> Judgment</h4>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p>On federal Robinson-Patman Act claims, and California Unfair Practices Act claims, by our wholesaler clients against the manufacturers of the Clear Eyes® product for engaging in illegal price discrimination against them in favor of Costco and Sam’s Club.&nbsp; (L.A. International, et al. v. Prestige Brands, et al.)</p>
+</div>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"Antitrust"}],null,["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Antitrust | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Antitrust Fair business competition is a crucial American value.  The history of American enterprise is that of new businesses succeeding in the marketplace through innovation and lowering costs to consumers.  The federa"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/antitrust/"}],["$","meta","3",{"property":"og:title","content":"Antitrust"}],["$","meta","4",{"property":"og:description","content":"Antitrust Fair business competition is a crucial American value.  The history of American enterprise is that of new businesses succeeding in the marketplace through innovation and lowering costs to consumers.  The federa"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/antitrust/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Antitrust"}],["$","meta","9",{"name":"twitter:description","content":"Antitrust Fair business competition is a crucial American value.  The history of American enterprise is that of new businesses succeeding in the marketplace through innovation and lowering costs to consumers.  The federa"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

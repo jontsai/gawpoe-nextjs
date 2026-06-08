@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work",""],"i":false,"f":[[["",{"children":[["slug","dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T60b,
+<p>“Lawyers are risk-averse by nature, but I knew if I didn’t give this a try, I’d regret it for the rest of my life,” said Randolph Gaw, whose litigation boutique Gaw Poe celebrated its fourth birthday with a pair of wins.</p>
+
+
+
+<p>By Jenna Greene | Updated on June 06, 2018</p>
+
+
+
+<p>The original version of this story was published on&nbsp;<a href="https://www.law.com/litigationdaily/litigationdaily/">Litigationdaily/litigationdaily</a></p>
+
+
+
+<p>Four years ago, Mark Poe left the security—and confines—of&nbsp;<a href="https://www.law.com/law-firm-profile?id=216&amp;name=Morrison-Foerster" target="_blank" rel="noreferrer noopener">Morrison &amp; Foerster</a>, where he’d just been promoted to of counsel, to open a litigation boutique with his old Stanford Law classmate Randolph Gaw, a former associate at&nbsp;<a href="https://www.law.com/law-firm-profile?id=499&amp;name=O%27Melveny" target="_blank" rel="noreferrer noopener">O’Melveny &amp; Myers</a>.</p>
+
+
+
+<p>Last week, their&nbsp;<a href="https://www.gawpoe.com/">San Francisco-based firm</a>&nbsp;got a birthday present of sorts: Poe on May 31 had two different eight-figure appeals affirmed by two different appellate courts. Sweeter still, these were literally his first and second cases after leaving MoFo to launch Gaw Poe.</p>
+
+
+
+<p><a href="https://www.law.com/therecorder/2018/06/06/daily-dicta-dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work-403-16507/" target="_blank" rel="noreferrer noopener">Read more</a></p>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"June 6, 2018"}],["$","h1",null,{"children":"Dream of Leaving Big Law to Launch a Litigation Boutique? These Two Lawyers Made it Work"}],["$","img",null,{"className":"featured-image","src":"https://www.gawpoe.com/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash.jpg","alt":""}],["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Dream of Leaving Big Law to Launch a Litigation Boutique? These Two Lawyers Made it Work | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"“Lawyers are risk-averse by nature, but I knew if I didn’t give this a try, I’d regret it for the rest of my life,” said Randolph Gaw, whose litigation boutique Gaw Poe celebrated its fourth birthday with a pair of wins."}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work/"}],["$","meta","3",{"property":"og:title","content":"Dream of Leaving Big Law to Launch a Litigation Boutique? These Two Lawyers Made it Work"}],["$","meta","4",{"property":"og:description","content":"“Lawyers are risk-averse by nature, but I knew if I didn’t give this a try, I’d regret it for the rest of my life,” said Randolph Gaw, whose litigation boutique Gaw Poe celebrated its fourth birthday with a pair of wins."}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work/"}],["$","meta","6",{"property":"og:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash.jpg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Dream of Leaving Big Law to Launch a Litigation Boutique? These Two Lawyers Made it Work"}],["$","meta","10",{"name":"twitter:description","content":"“Lawyers are risk-averse by nature, but I knew if I didn’t give this a try, I’d regret it for the rest of my life,” said Randolph Gaw, whose litigation boutique Gaw Poe celebrated its fourth birthday with a pair of wins."}],["$","meta","11",{"name":"twitter:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash.jpg"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

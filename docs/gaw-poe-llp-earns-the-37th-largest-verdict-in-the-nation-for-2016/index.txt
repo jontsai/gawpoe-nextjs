@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016",""],"i":false,"f":[[["",{"children":[["slug","gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T7a2,
+<p>NEWS PROVIDED BY <strong>Gaw | Poe LLP</strong></p>
+
+
+
+<p>Apr 28, 2017, 08:00 ET</p>
+
+
+
+<p>San Francisco, CA (PRWEB) April 28, 2017 &#8212; Gaw | Poe LLP has been recognized by The National Law Journal for obtaining the 37th largest verdict in the country for 2016. This achievement was recognized in the publication’s Top 100 Verdicts for 2016 list published in its May 2017 edition.</p>
+
+
+
+<p>Orange County usually isn&#8217;t known for awarding big verdicts, but&#8230; we were able to turn what otherwise would have been a close call into a slam dunk at trial. &#8212; Mark Poe<a>Post this</a></p>
+
+
+
+<p>As reflected in its March 30, 2016 verdict, a federal jury awarded Gaw | Poe LLP client Trendsettah USA $44.4 million in its antitrust and breach of contract lawsuit against Swisher International, Inc., the largest cigarillo manufacturer in the country. Following less than 3 hours of deliberation, the jury agreed with Trendsettah that Swisher had deliberately breached the parties’ manufacturing contract in order to stifle the growth of Splitarillos, the Trendsettah-labeled cigarillo, which was becoming a popular challenger to Swisher’s market-leading cigarillo brands. The lawsuit is captioned Trendsettah USA, Inc. v. Swisher International, Inc., No. 8:14-CV-01664-JVS-DFM and is pending in the United States District Court for the Central District of California.</p>
+
+
+
+<p>“Orange County usually isn’t known for awarding big verdicts, but with the help of a crack team of trial techs, well-prepared witnesses, and 100% commitment by our firm’s trial team, we were able to turn what otherwise would have been a close call into a slam dunk at trial,” said lead counsel Mark Poe. “We couldn’t be more pleased.”</p>
+
+
+
+<p><a href="https://www.prweb.com/releases/gaw_poe_llp_earns_the_37th_largest_verdict_in_the_nation_for_2016/prweb14286812.htm" target="_blank" rel="noreferrer noopener">Read more</a></p>
+
+
+
+<p></p>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"April 28, 2017"}],["$","h1",null,{"children":"Gaw | Poe LLP Earns the 37th Largest Verdict in the Nation for 2016"}],["$","img",null,{"className":"featured-image","src":"https://www.gawpoe.com/wp-content/uploads/2024/07/bonnie-kittle-2ERdMv4LGm8-unsplash-1.jpg","alt":""}],["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Gaw | Poe LLP Earns the 37th Largest Verdict in the Nation for 2016 | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"NEWS PROVIDED BY Gaw | Poe LLP Apr 28, 2017, 08:00 ET San Francisco, CA (PRWEB) April 28, 2017 - Gaw | Poe LLP has been recognized by The National Law Journal for obtaining the 37th largest verdict in the country for 201"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016/"}],["$","meta","3",{"property":"og:title","content":"Gaw | Poe LLP Earns the 37th Largest Verdict in the Nation for 2016"}],["$","meta","4",{"property":"og:description","content":"NEWS PROVIDED BY Gaw | Poe LLP Apr 28, 2017, 08:00 ET San Francisco, CA (PRWEB) April 28, 2017 - Gaw | Poe LLP has been recognized by The National Law Journal for obtaining the 37th largest verdict in the country for 201"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016/"}],["$","meta","6",{"property":"og:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/bonnie-kittle-2ERdMv4LGm8-unsplash-1.jpg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Gaw | Poe LLP Earns the 37th Largest Verdict in the Nation for 2016"}],["$","meta","10",{"name":"twitter:description","content":"NEWS PROVIDED BY Gaw | Poe LLP Apr 28, 2017, 08:00 ET San Francisco, CA (PRWEB) April 28, 2017 - Gaw | Poe LLP has been recognized by The National Law Journal for obtaining the 37th largest verdict in the country for 201"}],["$","meta","11",{"name":"twitter:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/bonnie-kittle-2ERdMv4LGm8-unsplash-1.jpg"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment",""],"i":false,"f":[[["",{"children":[["slug","gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Teba,
+<p>March 28, 2022 05:30 PM Eastern Daylight Time</p>
+
+
+
+<p>SAN FRANCISCO&#8211;(<a href="https://www.businesswire.com/">BUSINESS WIRE</a>)</p>
+
+
+
+<p>The San Francisco-based law firm of Gaw | Poe LLP today filed a class action lawsuit against CMB Export, LLC, the general partner of CMB Infrastructure Investment Group VII, L.P.—an EB-5 Limited Partnership—on behalf of 57 of its 179 limited partners. The lawsuit alleges that CMB Export breached its fiduciary duties to the limited partners by engaging in self-dealing transactions in connection with the partnership’s $90 million investment in the Ivanpah solar plant project, thereby depriving those limited partners of tens of millions of dollars.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p id="pull-quote">“Our clients instead have had basic information withheld from them, and we invite other limited partners from EB-5 partnerships managed by CMB Export to reach out to us at contact@gawpoe.com to share what they know about CMB Export’s activities.”</p>
+</blockquote>
+
+
+
+<p>The lawsuit alleges that by December 2016, CMB had internally determined that it was unlikely that any of its limited partner investors would recover the principal that each of them had invested with CMB, which had in turn been lent to the Ivanpah project. The lawsuit further alleges that CMB concealed such information from the limited partner investors and engaged in a series of self-dealing loan transactions to modify its loan agreements for the Ivanpah project so that principal repayments owed to the limited partner investors were deferred in exchange for CMB getting priority treatment on interest payments—which it would then appropriate in their entirety as deferred compensation purportedly owed to it by the limited partner investors.</p>
+
+
+
+<p>“Our clients each invested $500,000 into the partnership with the expectation that CMB Export would treat them with good faith and honor its fiduciary duties,” said Randolph Gaw, an attorney for the plaintiffs and a partner at Gaw | Poe LLP. Added fellow attorney Mark Poe, “Our clients instead have had basic information withheld from them, and we invite other limited partners from EB-5 partnerships managed by CMB Export to reach out to us at&nbsp;<a target="_blank" href="mailto:contact@gawpoe.com" rel="noreferrer noopener">contact@gawpoe.com</a>&nbsp;to share what they know about CMB Export’s activities.”</p>
+
+
+
+<p>The lawsuit alleges claims for breach of fiduciary duty and breach of contract against CMB. The case is captioned&nbsp;<em>Hui Cai, et al. v. CMB Export LLC</em>, No. 2:22-cv-02025 and is filed in the United States District Court for the Central District of California.</p>
+
+
+
+<p>About Gaw | Poe LLP</p>
+
+
+
+<p>Gaw | Poe LLP is a San Francisco Bay Area boutique law firm focusing on business litigation, antitrust litigation, and appeals. Founders Randolph Gaw and Mark Poe are nationally recognized litigators who graduated from the same class at Stanford Law School. The firm has been recognized by&nbsp;<em>The National Law Journal</em>&nbsp;for obtaining the 37<sup>th</sup>&nbsp;largest verdict in the country for 2016. For more information, please visit&nbsp;<a target="_blank" href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fwww.gawpoe.com&amp;esheet=52626718&amp;newsitemid=20220328005875&amp;lan=en-US&amp;anchor=http%3A%2F%2Fwww.gawpoe.com&amp;index=1&amp;md5=64eb917e594d41fb3a0aa935d5d66cee" rel="noreferrer noopener">http://www.gawpoe.com</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Contacts</h2>
+
+
+
+<p>Randolph Gaw (<a target="_blank" href="mailto:rgaw@gawpoe.com" rel="noreferrer noopener">rgaw@gawpoe.com</a>); 415-766-7451<br>Gaw | Poe LLP</p>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"March 28, 2022"}],["$","h1",null,{"children":"Gaw | Poe LLP Files Class Action Lawsuit Against CMB Export, LLC for Breach of Fiduciary Duties in Connection With Ivanpah Solar Plant Investment"}],["$","img",null,{"className":"featured-image","src":"https://www.gawpoe.com/wp-content/uploads/2024/07/zbynek-burival-V4ZYJZJ3W4M-unsplash.jpg","alt":""}],["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Gaw | Poe LLP Files Class Action Lawsuit Against CMB Export, LLC for Breach of Fiduciary Duties in Connection With Ivanpah Solar Plant Investment | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"March 28, 2022 05:30 PM Eastern Daylight Time SAN FRANCISCO-(BUSINESS WIRE) The San Francisco-based law firm of Gaw | Poe LLP today filed a class action lawsuit against CMB Export, LLC, the general partner of CMB Infrast"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment/"}],["$","meta","3",{"property":"og:title","content":"Gaw | Poe LLP Files Class Action Lawsuit Against CMB Export, LLC for Breach of Fiduciary Duties in Connection With Ivanpah Solar Plant Investment"}],["$","meta","4",{"property":"og:description","content":"March 28, 2022 05:30 PM Eastern Daylight Time SAN FRANCISCO-(BUSINESS WIRE) The San Francisco-based law firm of Gaw | Poe LLP today filed a class action lawsuit against CMB Export, LLC, the general partner of CMB Infrast"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment/"}],["$","meta","6",{"property":"og:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/zbynek-burival-V4ZYJZJ3W4M-unsplash.jpg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Gaw | Poe LLP Files Class Action Lawsuit Against CMB Export, LLC for Breach of Fiduciary Duties in Connection With Ivanpah Solar Plant Investment"}],["$","meta","10",{"name":"twitter:description","content":"March 28, 2022 05:30 PM Eastern Daylight Time SAN FRANCISCO-(BUSINESS WIRE) The San Francisco-based law firm of Gaw | Poe LLP today filed a class action lawsuit against CMB Export, LLC, the general partner of CMB Infrast"}],["$","meta","11",{"name":"twitter:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/zbynek-burival-V4ZYJZJ3W4M-unsplash.jpg"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

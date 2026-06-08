@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","flora-vigo",""],"i":false,"f":[[["",{"children":[["slug","flora-vigo","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","flora-vigo","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T20cc,
+<div class="wp-block-columns alignwide team-pg-content is-layout-flex wp-container-core-columns-is-layout-36 wp-block-columns-is-layout-flex">
+<div class="wp-block-column sidebar is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="552" height="720" src="https://www.gawpoe.com/wp-content/uploads/2024/07/hs-flora-vigo.png" alt="" class="wp-image-113" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/hs-flora-vigo.png 552w, https://www.gawpoe.com/wp-content/uploads/2024/07/hs-flora-vigo-230x300.png 230w" sizes="(max-width: 552px) 100vw, 552px" /></figure>
+
+
+
+<div class="wp-block-group nav-contents has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<h4 class="wp-block-heading">Contents</h4>
+
+
+
+<ul class="wp-block-list">
+<li><a href="#summary">Summary</a></li>
+
+
+
+<li><a href="#credentials">Credentials</a></li>
+
+
+
+<li><a href="#rep">Representative Engagements</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-group blk-contact has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<h4 class="wp-block-heading h-standard">Contact</h4>
+
+
+
+<p class="contact-point phone"><strong>P</strong> +1 415-862-0579</p>
+
+
+
+<p class="contact-point fax"><strong>F</strong> +1 415-737-0642</p>
+
+
+
+<p class="contact-point email"><strong>E</strong> fvigo@gawpoe.com</p>
+
+
+
+<div class="wp-block-group social has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<p class="ic li"><a href="https://www.linkedin.com/company/gaw-poe-llp/" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
+
+
+
+<p class="ic fb"><a href="https://www.facebook.com/profile.php?id=61560638781599" target="_blank" rel="noreferrer noopener">Facebook</a></p>
+</div>
+
+
+
+<p class="address">One Embarcadero<br>Suite 1200<br>San Francisco, CA 94111</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading h-standard dlrg">Flora Vigo</h2>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-17 wp-block-group-is-layout-flex">
+<h3 class="wp-block-heading team-title">Of Counsel</h3>
+</div>
+
+
+
+<h4 class="wp-block-heading h-in-pg" id="summary">Summary</h4>
+
+
+
+<p>Flora Vigo is Of Counsel with Gaw | Poe LLP and has been with the firm since 2018. She is a litigator with a diverse background ranging from prosecution and defense of class actions to trade secret and complex business disputes. Ms. Vigo has been trial counsel of record on several jury trials.</p>
+
+
+
+<p>Prior to joining Gaw | Poe LLP, Ms. Vigo was Counsel at the international law firm of O’Melveny &amp; Myers LLP, where she successfully represented clients in class actions, breach of fiduciary duty suits, and commercial litigation.</p>
+
+
+
+<p>Ms. Vigo has been recognized as a Rising Star™ for Northern California for 2013 and 2014, by Super Lawyers magazine. Ms. Vigo graduated with distinction from UC Hastings College of the Law, where she was elected to the Thurston Society and earned the Witkin Award for Excellence. Ms. Vigo received her undergraduate degree from the University of California, Santa Cruz.</p>
+
+
+
+<h4 class="wp-block-heading sm-standard" id="credentials">Education</h4>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-33 wp-block-columns-is-layout-flex">
+<div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="248" height="70" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-uc-santa-cruz.png" alt="University of California Santa Cruz Logo
+" class="wp-image-198" style="width:185px"/></figure>
+
+
+
+<p class="has-text-align-center">Santa Cruz B.A., 1998</p>
+</div>
+
+
+
+<div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="150" height="158" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-uc-hastings.png" alt="University of California Hastings College of the Law Logo" class="wp-image-197" style="width:106px"/></figure>
+
+
+
+<p class="has-text-align-center">J. D., cum laude, 2005</p>
+</div>
+
+
+
+<div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="136" height="150" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-thurston-honor-society.png" alt="Honor Society Emblem Logo" class="wp-image-196" style="width:100px;height:auto"/></figure>
+
+
+
+<p class="has-text-align-center">Thurston Honor Society</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-34 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+
+
+
+<h3 class="wp-block-heading sm-standard">Professional Activities</h3>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-35 wp-block-columns-is-layout-flex">
+<div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="166" height="166" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit.png" alt="US Courts Ninth Circuit Emblem Logo" class="wp-image-192" style="width:106px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit.png 166w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit-150x150.png 150w" sizes="(max-width: 166px) 100vw, 166px" /></figure>
+
+
+
+<p class="has-text-align-center">Admitted, California; Ninth Circuit Court of Appeals</p>
+</div>
+
+
+
+<div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="602" height="87" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-super-lawyers.png" alt="" class="wp-image-15" style="width:185px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-super-lawyers.png 602w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-super-lawyers-300x43.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></figure>
+
+
+
+<p class="has-text-align-center">2013, 2014 Northern California Rising Star</p>
+</div>
+</div>
+
+
+
+<h4 class="wp-block-heading h-in-pg" id="rep">Representative Engagements</h4>
+
+
+
+<ul class="wp-block-list">
+<li>(Confidential). Counsel in a breach of contract and fraud lawsuit brought by our clients who were defrauded into purchasing an information technology staffing company based on inflated financial and customer data. The case was resolved via a settlement worth $3.15 million to the clients.</li>
+
+
+
+<li>Galic v. Goodenbour (S.F. Sup.) Second-chair in a nationally publicized personal injury jury trial involving claims brought by former college basketball players against their coach and school for persistent emotional and verbal abuse. Unanimous jury verdict awarded our client $750,000 in compensatory and punitive damages.</li>
+
+
+
+<li>Counsel for publicly traded conditional access software developer in a $1.6 billion trade secrets litigation concerning satellite television technology. Following a 5-week jury trial in federal court, the client prevailed on 25 of 29 claims and was ordered to pay only $1,500 on the remaining four claims. The client was also subsequently awarded attorney’s fees of nearly $18 million. The verdict was named one of the “Top Ten Defense Verdicts of 2008” by The Daily Journal.</li>
+
+
+
+<li>Sellers v. JustAnswer (S.D. Sup.) Counsel for subscription service that was sued in a California class action for alleged violations of California’s Automatic Renewal Law. The case was resolved via a settlement that was worth only a faction of the client’s potential liability under the claims at issue.</li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+</div>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"Flora Vigo"}],null,["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Flora Vigo | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Contact P +1 415-862-0579 F +1 415-737-0642 E fvigo@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Flora Vigo Of Counsel Summary Flora Vigo is Of Counsel with Gaw | Poe LLP and has been wit"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/flora-vigo/"}],["$","meta","3",{"property":"og:title","content":"Flora Vigo"}],["$","meta","4",{"property":"og:description","content":"Contact P +1 415-862-0579 F +1 415-737-0642 E fvigo@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Flora Vigo Of Counsel Summary Flora Vigo is Of Counsel with Gaw | Poe LLP and has been wit"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/flora-vigo/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Flora Vigo"}],["$","meta","9",{"name":"twitter:description","content":"Contact P +1 415-862-0579 F +1 415-737-0642 E fvigo@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Flora Vigo Of Counsel Summary Flora Vigo is Of Counsel with Gaw | Poe LLP and has been wit"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

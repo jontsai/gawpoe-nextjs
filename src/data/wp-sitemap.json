@@ -1,0 +1,985 @@
+{
+  "generatedAt": "2026-06-08T21:35:55.186Z",
+  "source": "https://www.gawpoe.com/wp-sitemap.xml",
+  "childSitemaps": [
+    "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+    "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+    "https://www.gawpoe.com/wp-sitemap-taxonomies-category-1.xml",
+    "https://www.gawpoe.com/wp-sitemap-users-1.xml"
+  ],
+  "routeCount": 108,
+  "routes": [
+    {
+      "path": "/",
+      "sourceUrl": "https://www.gawpoe.com/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "",
+      "title": "Gaw | Poe LLP"
+    },
+    {
+      "path": "/3d-printing-company-plans-to-challenge-arbitrators-11-million-award/",
+      "sourceUrl": "https://www.gawpoe.com/3d-printing-company-plans-to-challenge-arbitrators-11-million-award/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "3d-printing-company-plans-to-challenge-arbitrators-11-million-award",
+      "title": "3d Printing Company Plans To Challenge Arbitrators 11 Million Award"
+    },
+    {
+      "path": "/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/",
+      "sourceUrl": "https://www.gawpoe.com/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit",
+      "title": "9th Circ Grants Atty Fee Appeal In Eye Drop Pricing Suit"
+    },
+    {
+      "path": "/9th-circ-partially-kicks-back-5-hour-energy-antitrust-suit/",
+      "sourceUrl": "https://www.gawpoe.com/9th-circ-partially-kicks-back-5-hour-energy-antitrust-suit/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "9th-circ-partially-kicks-back-5-hour-energy-antitrust-suit",
+      "title": "9th Circ Partially Kicks Back 5 Hour Energy Antitrust Suit"
+    },
+    {
+      "path": "/9th-circ-partly-revives-44-4m-jury-verdict-against-swisher/",
+      "sourceUrl": "https://www.gawpoe.com/9th-circ-partly-revives-44-4m-jury-verdict-against-swisher/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "9th-circ-partly-revives-44-4m-jury-verdict-against-swisher",
+      "title": "9th Circ Partly Revives 44 4m Jury Verdict Against Swisher"
+    },
+    {
+      "path": "/9th-circ-urged-to-revive-5-hour-energy-price-bias-suit/",
+      "sourceUrl": "https://www.gawpoe.com/9th-circ-urged-to-revive-5-hour-energy-price-bias-suit/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "9th-circ-urged-to-revive-5-hour-energy-price-bias-suit",
+      "title": "9th Circ Urged To Revive 5 Hour Energy Price Bias Suit"
+    },
+    {
+      "path": "/9th-circuit-restores-attorney-fees-slashed-over-firm-size/",
+      "sourceUrl": "https://www.gawpoe.com/9th-circuit-restores-attorney-fees-slashed-over-firm-size/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "9th-circuit-restores-attorney-fees-slashed-over-firm-size",
+      "title": "9th Circuit Restores Attorney Fees Slashed Over Firm Size"
+    },
+    {
+      "path": "/about/",
+      "sourceUrl": "https://www.gawpoe.com/about/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "about",
+      "title": "About"
+    },
+    {
+      "path": "/antitrust/",
+      "sourceUrl": "https://www.gawpoe.com/antitrust/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "antitrust",
+      "title": "Antitrust"
+    },
+    {
+      "path": "/appeals-court-awards-500k-to-ex-san-francisco-player-marija-galic/",
+      "sourceUrl": "https://www.gawpoe.com/appeals-court-awards-500k-to-ex-san-francisco-player-marija-galic/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "appeals-court-awards-500k-to-ex-san-francisco-player-marija-galic",
+      "title": "Appeals Court Awards 500k To Ex San Francisco Player Marija Galic"
+    },
+    {
+      "path": "/appeals-court-restores-punitive-damages-award-in-usf-womens-basketball-case/",
+      "sourceUrl": "https://www.gawpoe.com/appeals-court-restores-punitive-damages-award-in-usf-womens-basketball-case/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "appeals-court-restores-punitive-damages-award-in-usf-womens-basketball-case",
+      "title": "Appeals Court Restores Punitive Damages Award In Usf Womens Basketball Case"
+    },
+    {
+      "path": "/appeals/",
+      "sourceUrl": "https://www.gawpoe.com/appeals/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "appeals",
+      "title": "Appeals"
+    },
+    {
+      "path": "/are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors/",
+      "sourceUrl": "https://www.gawpoe.com/are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors",
+      "title": "Are The Critics Wrong How The Robinson Patman Act Has Been Misunderstood By Its Detractors"
+    },
+    {
+      "path": "/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/",
+      "sourceUrl": "https://www.gawpoe.com/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out",
+      "title": "As The Ftc Hints At Renewed Enforcement Of Therobinson Patman Act The Usual Dull Knives Come Out"
+    },
+    {
+      "path": "/author/jgreenwalt/",
+      "sourceUrl": "https://www.gawpoe.com/author/jgreenwalt/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-users-1.xml",
+      "kind": "user",
+      "kindLabel": "Author",
+      "slug": "jgreenwalt",
+      "title": "Author / Jgreenwalt"
+    },
+    {
+      "path": "/author/nick/",
+      "sourceUrl": "https://www.gawpoe.com/author/nick/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-users-1.xml",
+      "kind": "user",
+      "kindLabel": "Author",
+      "slug": "nick",
+      "title": "Author / Nick"
+    },
+    {
+      "path": "/big-law-rates-for-small-firms-us-appeals-court-takes-up-fee-fight/",
+      "sourceUrl": "https://www.gawpoe.com/big-law-rates-for-small-firms-us-appeals-court-takes-up-fee-fight/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "big-law-rates-for-small-firms-us-appeals-court-takes-up-fee-fight",
+      "title": "Big Law Rates For Small Firms Us Appeals Court Takes Up Fee Fight"
+    },
+    {
+      "path": "/business-litigation/",
+      "sourceUrl": "https://www.gawpoe.com/business-litigation/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "business-litigation",
+      "title": "Business Litigation"
+    },
+    {
+      "path": "/cannabis-drink-maker-cant-get-rivals-product-blocked/",
+      "sourceUrl": "https://www.gawpoe.com/cannabis-drink-maker-cant-get-rivals-product-blocked/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "cannabis-drink-maker-cant-get-rivals-product-blocked",
+      "title": "Cannabis Drink Maker Cant Get Rivals Product Blocked"
+    },
+    {
+      "path": "/catastrophic-injury/",
+      "sourceUrl": "https://www.gawpoe.com/catastrophic-injury/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "catastrophic-injury",
+      "title": "Catastrophic Injury"
+    },
+    {
+      "path": "/category/uncategorized/",
+      "sourceUrl": "https://www.gawpoe.com/category/uncategorized/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-taxonomies-category-1.xml",
+      "kind": "category",
+      "kindLabel": "Category",
+      "slug": "uncategorized",
+      "title": "Category / Uncategorized"
+    },
+    {
+      "path": "/christopher-wimmer/",
+      "sourceUrl": "https://www.gawpoe.com/christopher-wimmer/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "christopher-wimmer",
+      "title": "Christopher Wimmer"
+    },
+    {
+      "path": "/christopher-wimmer1/",
+      "sourceUrl": "https://www.gawpoe.com/christopher-wimmer1/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "christopher-wimmer1",
+      "title": "Christopher Wimmer1"
+    },
+    {
+      "path": "/contact-us/",
+      "sourceUrl": "https://www.gawpoe.com/contact-us/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "contact-us",
+      "title": "Contact Us"
+    },
+    {
+      "path": "/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/",
+      "sourceUrl": "https://www.gawpoe.com/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination",
+      "title": "Convenience Stores Sue Pepsi And Frito Lay Alleging Price Discrimination"
+    },
+    {
+      "path": "/dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work/",
+      "sourceUrl": "https://www.gawpoe.com/dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work",
+      "title": "Dream Of Leaving Big Law To Launch A Litigation Boutique These Two Lawyers Made It Work"
+    },
+    {
+      "path": "/drugmaker-gilead-alleges-counterfeiting-ring-sold-its-hiv-drugs/",
+      "sourceUrl": "https://www.gawpoe.com/drugmaker-gilead-alleges-counterfeiting-ring-sold-its-hiv-drugs/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "drugmaker-gilead-alleges-counterfeiting-ring-sold-its-hiv-drugs",
+      "title": "Drugmaker Gilead Alleges Counterfeiting Ring Sold Its Hiv Drugs"
+    },
+    {
+      "path": "/emotional-abuse-in-college-sports/",
+      "sourceUrl": "https://www.gawpoe.com/emotional-abuse-in-college-sports/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "emotional-abuse-in-college-sports",
+      "title": "Emotional Abuse In College Sports"
+    },
+    {
+      "path": "/ex-usf-basketball-player-awarded-750000-in-case-against-school-head-coach-molly-goodenbour/",
+      "sourceUrl": "https://www.gawpoe.com/ex-usf-basketball-player-awarded-750000-in-case-against-school-head-coach-molly-goodenbour/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "ex-usf-basketball-player-awarded-750000-in-case-against-school-head-coach-molly-goodenbour",
+      "title": "Ex Usf Basketball Player Awarded 750000 In Case Against School Head Coach Molly Goodenbour"
+    },
+    {
+      "path": "/eye-drops-must-sell-on-even-terms-under-rare-antitrust-win/",
+      "sourceUrl": "https://www.gawpoe.com/eye-drops-must-sell-on-even-terms-under-rare-antitrust-win/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "eye-drops-must-sell-on-even-terms-under-rare-antitrust-win",
+      "title": "Eye Drops Must Sell On Even Terms Under Rare Antitrust Win"
+    },
+    {
+      "path": "/flood-of-outlaw-sex-pill-lawsuits-draws-posse-of-defense-lawyers-ready-to-fight/",
+      "sourceUrl": "https://www.gawpoe.com/flood-of-outlaw-sex-pill-lawsuits-draws-posse-of-defense-lawyers-ready-to-fight/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "flood-of-outlaw-sex-pill-lawsuits-draws-posse-of-defense-lawyers-ready-to-fight",
+      "title": "Flood Of Outlaw Sex Pill Lawsuits Draws Posse Of Defense Lawyers Ready To Fight"
+    },
+    {
+      "path": "/flora-vigo/",
+      "sourceUrl": "https://www.gawpoe.com/flora-vigo/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "flora-vigo",
+      "title": "Flora Vigo"
+    },
+    {
+      "path": "/fractional-general-counsel/",
+      "sourceUrl": "https://www.gawpoe.com/fractional-general-counsel/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "fractional-general-counsel",
+      "title": "Fractional General Counsel"
+    },
+    {
+      "path": "/galic-v-goodenbour/",
+      "sourceUrl": "https://www.gawpoe.com/galic-v-goodenbour/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "galic-v-goodenbour",
+      "title": "Galic V Goodenbour"
+    },
+    {
+      "path": "/gaw-poe-llp-assists-in-sending-real-estate-investor-to-prison/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-assists-in-sending-real-estate-investor-to-prison/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-assists-in-sending-real-estate-investor-to-prison",
+      "title": "Gaw Poe Llp Assists In Sending Real Estate Investor To Prison"
+    },
+    {
+      "path": "/gaw-poe-llp-attorney-mark-poe-wins-two-different-10-million-appeals-on-the-same-day/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-attorney-mark-poe-wins-two-different-10-million-appeals-on-the-same-day/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-attorney-mark-poe-wins-two-different-10-million-appeals-on-the-same-day",
+      "title": "Gaw Poe Llp Attorney Mark Poe Wins Two Different 10 Million Appeals On The Same Day"
+    },
+    {
+      "path": "/gaw-poe-llp-awarded-over-895000-in-attorneys-fees-and-costs-in-civil-rico-lawsuit/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-awarded-over-895000-in-attorneys-fees-and-costs-in-civil-rico-lawsuit/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-awarded-over-895000-in-attorneys-fees-and-costs-in-civil-rico-lawsuit",
+      "title": "Gaw Poe Llp Awarded Over 895000 In Attorneys Fees And Costs In Civil Rico Lawsuit"
+    },
+    {
+      "path": "/gaw-poe-llp-completely-prevails-on-behalf-of-plaintiff-in-breach-of-contract-and-alter-ego-lawsuit/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-completely-prevails-on-behalf-of-plaintiff-in-breach-of-contract-and-alter-ego-lawsuit/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-completely-prevails-on-behalf-of-plaintiff-in-breach-of-contract-and-alter-ego-lawsuit",
+      "title": "Gaw Poe Llp Completely Prevails On Behalf Of Plaintiff In Breach Of Contract And Alter Ego Lawsuit"
+    },
+    {
+      "path": "/gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016",
+      "title": "Gaw Poe Llp Earns The 37th Largest Verdict In The Nation For 2016"
+    },
+    {
+      "path": "/gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment",
+      "title": "Gaw Poe Llp Files Class Action Lawsuit Against Cmb Export Llc For Breach Of Fiduciary Duties In Connection With Ivanpah Solar Plant Investment"
+    },
+    {
+      "path": "/gaw-poe-llp-files-class-action-lawsuit-against-onlyfans-for-automatically-billing-customers-credit-cards/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-files-class-action-lawsuit-against-onlyfans-for-automatically-billing-customers-credit-cards/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-files-class-action-lawsuit-against-onlyfans-for-automatically-billing-customers-credit-cards",
+      "title": "Gaw Poe Llp Files Class Action Lawsuit Against Onlyfans For Automatically Billing Customers Credit Cards"
+    },
+    {
+      "path": "/gaw-poe-llp-obtains-11-28-million-arbitration-award-against-3d-systems-corp/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-11-28-million-arbitration-award-against-3d-systems-corp/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-11-28-million-arbitration-award-against-3d-systems-corp",
+      "title": "Gaw Poe Llp Obtains 11 28 Million Arbitration Award Against 3d Systems Corp"
+    },
+    {
+      "path": "/gaw-poe-llp-obtains-4-4-million-judgment-against-one-of-the-worlds-largest-pencilmakers/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-4-4-million-judgment-against-one-of-the-worlds-largest-pencilmakers/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-4-4-million-judgment-against-one-of-the-worlds-largest-pencilmakers",
+      "title": "Gaw Poe Llp Obtains 4 4 Million Judgment Against One Of The Worlds Largest Pencilmakers"
+    },
+    {
+      "path": "/gaw-poe-llp-obtains-44-4-million-jury-verdict-against-swisher-international-inc/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-44-4-million-jury-verdict-against-swisher-international-inc/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-44-4-million-jury-verdict-against-swisher-international-inc",
+      "title": "Gaw Poe Llp Obtains 44 4 Million Jury Verdict Against Swisher International Inc"
+    },
+    {
+      "path": "/gaw-poe-llp-obtains-a-civil-rico-jury-verdict-against-law-firm-that-filed-sex-pills-lawsuits/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-a-civil-rico-jury-verdict-against-law-firm-that-filed-sex-pills-lawsuits/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-a-civil-rico-jury-verdict-against-law-firm-that-filed-sex-pills-lawsuits",
+      "title": "Gaw Poe Llp Obtains A Civil Rico Jury Verdict Against Law Firm That Filed Sex Pills Lawsuits"
+    },
+    {
+      "path": "/gaw-poe-llp-obtains-class-certification-and-defeats-motion-for-summary-judgment-in-lawsuit-concerning-ivanpah-solar-plant-investment/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-class-certification-and-defeats-motion-for-summary-judgment-in-lawsuit-concerning-ivanpah-solar-plant-investment/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-class-certification-and-defeats-motion-for-summary-judgment-in-lawsuit-concerning-ivanpah-solar-plant-investment",
+      "title": "Gaw Poe Llp Obtains Class Certification And Defeats Motion For Summary Judgment In Lawsuit Concerning Ivanpah Solar Plant Investment"
+    },
+    {
+      "path": "/gaw-poe-llp-obtains-class-certification-for-adwords-advertisers/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-class-certification-for-adwords-advertisers/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-class-certification-for-adwords-advertisers",
+      "title": "Gaw Poe Llp Obtains Class Certification For Adwords Advertisers"
+    },
+    {
+      "path": "/gaw-poe-llp-obtains-seven-figure-robinson-patman-act-jury-verdict-against-manufacturer-of-clear-eyes-wins-third-of-three-jury-trials-held-in-2023/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-seven-figure-robinson-patman-act-jury-verdict-against-manufacturer-of-clear-eyes-wins-third-of-three-jury-trials-held-in-2023/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-seven-figure-robinson-patman-act-jury-verdict-against-manufacturer-of-clear-eyes-wins-third-of-three-jury-trials-held-in-2023",
+      "title": "Gaw Poe Llp Obtains Seven Figure Robinson Patman Act Jury Verdict Against Manufacturer Of Clear Eyes Wins Third Of Three Jury Trials Held In 2023"
+    },
+    {
+      "path": "/gaw-poe-llp-obtains-six-figure-settlement-for-client/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-six-figure-settlement-for-client/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-six-figure-settlement-for-client",
+      "title": "Gaw Poe Llp Obtains Six Figure Settlement For Client"
+    },
+    {
+      "path": "/gaw-poe-llp-partner-mark-poe-discusses-new-adsense-lawsuit-filed-against-google/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partner-mark-poe-discusses-new-adsense-lawsuit-filed-against-google/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partner-mark-poe-discusses-new-adsense-lawsuit-filed-against-google",
+      "title": "Gaw Poe Llp Partner Mark Poe Discusses New Adsense Lawsuit Filed Against Google"
+    },
+    {
+      "path": "/gaw-poe-llp-partner-randolph-gaw-again-named-a-rising-star/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partner-randolph-gaw-again-named-a-rising-star/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partner-randolph-gaw-again-named-a-rising-star",
+      "title": "Gaw Poe Llp Partner Randolph Gaw Again Named A Rising Star"
+    },
+    {
+      "path": "/gaw-poe-llp-partner-randolph-gaw-again-selected-to-list-of-super-lawyers/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partner-randolph-gaw-again-selected-to-list-of-super-lawyers/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partner-randolph-gaw-again-selected-to-list-of-super-lawyers",
+      "title": "Gaw Poe Llp Partner Randolph Gaw Again Selected To List Of Super Lawyers"
+    },
+    {
+      "path": "/gaw-poe-llp-partner-randolph-gaw-named-a-rising-star/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partner-randolph-gaw-named-a-rising-star/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partner-randolph-gaw-named-a-rising-star",
+      "title": "Gaw Poe Llp Partner Randolph Gaw Named A Rising Star"
+    },
+    {
+      "path": "/gaw-poe-llp-partner-randolph-gaw-quoted-by-business-insider-concerning-googles-practice-of-withholding-payments-from-adsense-publishers/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partner-randolph-gaw-quoted-by-business-insider-concerning-googles-practice-of-withholding-payments-from-adsense-publishers/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partner-randolph-gaw-quoted-by-business-insider-concerning-googles-practice-of-withholding-payments-from-adsense-publishers",
+      "title": "Gaw Poe Llp Partner Randolph Gaw Quoted By Business Insider Concerning Googles Practice Of Withholding Payments From Adsense Publishers"
+    },
+    {
+      "path": "/gaw-poe-llp-partner-randolph-gaw-selected-to-list-of-super-lawyers/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partner-randolph-gaw-selected-to-list-of-super-lawyers/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partner-randolph-gaw-selected-to-list-of-super-lawyers",
+      "title": "Gaw Poe Llp Partner Randolph Gaw Selected To List Of Super Lawyers"
+    },
+    {
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-again-selected-to-list-of-super-lawyers/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-again-selected-to-list-of-super-lawyers/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partners-randolph-gaw-and-mark-poe-again-selected-to-list-of-super-lawyers",
+      "title": "Gaw Poe Llp Partners Randolph Gaw And Mark Poe Again Selected To List Of Super Lawyers"
+    },
+    {
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fifth-straight-year/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fifth-straight-year/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fifth-straight-year",
+      "title": "Gaw Poe Llp Partners Randolph Gaw And Mark Poe Both Selected To List Of Super Lawyers For Fifth Straight Year"
+    },
+    {
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fourth-straight-year/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fourth-straight-year/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fourth-straight-year",
+      "title": "Gaw Poe Llp Partners Randolph Gaw And Mark Poe Both Selected To List Of Super Lawyers For Fourth Straight Year"
+    },
+    {
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-third-straight-year/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-third-straight-year/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-third-straight-year",
+      "title": "Gaw Poe Llp Partners Randolph Gaw And Mark Poe Both Selected To List Of Super Lawyers For Third Straight Year"
+    },
+    {
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-selected-to-list-of-super-lawyers/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-selected-to-list-of-super-lawyers/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partners-randolph-gaw-and-mark-poe-selected-to-list-of-super-lawyers",
+      "title": "Gaw Poe Llp Partners Randolph Gaw And Mark Poe Selected To List Of Super Lawyers"
+    },
+    {
+      "path": "/gaw-poe-llp-prevails-at-trial-again/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-prevails-at-trial-again/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-prevails-at-trial-again",
+      "title": "Gaw Poe Llp Prevails At Trial Again"
+    },
+    {
+      "path": "/gaw-poe-llp-recognized-for-largest-antitrust-verdict-in-california-for-2016/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-recognized-for-largest-antitrust-verdict-in-california-for-2016/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-recognized-for-largest-antitrust-verdict-in-california-for-2016",
+      "title": "Gaw Poe Llp Recognized For Largest Antitrust Verdict In California For 2016"
+    },
+    {
+      "path": "/gaw-poe-llp-represents-inventor-in-lawsuit-against-scotts-miracle-gro/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-represents-inventor-in-lawsuit-against-scotts-miracle-gro/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-represents-inventor-in-lawsuit-against-scotts-miracle-gro",
+      "title": "Gaw Poe Llp Represents Inventor In Lawsuit Against Scotts Miracle Gro"
+    },
+    {
+      "path": "/gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction",
+      "title": "Gaw Poe Llp Stella Systems Prevail On Medeanalytics Motion For Preliminary Injunction"
+    },
+    {
+      "path": "/gaw-poe-llp-successfully-defends-client-at-arbitration-against-leading-hawaii-law-firm/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-successfully-defends-client-at-arbitration-against-leading-hawaii-law-firm/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-successfully-defends-client-at-arbitration-against-leading-hawaii-law-firm",
+      "title": "Gaw Poe Llp Successfully Defends Client At Arbitration Against Leading Hawaii Law Firm"
+    },
+    {
+      "path": "/gaw-poe-llp-successfully-defends-jury-verdict-on-appeal/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-successfully-defends-jury-verdict-on-appeal/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-successfully-defends-jury-verdict-on-appeal",
+      "title": "Gaw Poe Llp Successfully Defends Jury Verdict On Appeal"
+    },
+    {
+      "path": "/gaw-poe-llp-wins-another-jury-trial/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-wins-another-jury-trial/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-wins-another-jury-trial",
+      "title": "Gaw Poe Llp Wins Another Jury Trial"
+    },
+    {
+      "path": "/gaw-poe-partners-randolph-gaw-and-mark-poe-admitted-to-practice-before-u-s-supreme-court/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-partners-randolph-gaw-and-mark-poe-admitted-to-practice-before-u-s-supreme-court/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-partners-randolph-gaw-and-mark-poe-admitted-to-practice-before-u-s-supreme-court",
+      "title": "Gaw Poe Partners Randolph Gaw And Mark Poe Admitted To Practice Before U S Supreme Court"
+    },
+    {
+      "path": "/getaround-early-investor-sues-car-sharing-startup-for-1-79-million/",
+      "sourceUrl": "https://www.gawpoe.com/getaround-early-investor-sues-car-sharing-startup-for-1-79-million/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "getaround-early-investor-sues-car-sharing-startup-for-1-79-million",
+      "title": "Getaround Early Investor Sues Car Sharing Startup For 1 79 Million"
+    },
+    {
+      "path": "/getarounds-alleged-earliest-investor-files-suit-for-alleged-fraud-against-the-carsharing-company-ceo-sam-zaid-cfo-adam-kosmicki/",
+      "sourceUrl": "https://www.gawpoe.com/getarounds-alleged-earliest-investor-files-suit-for-alleged-fraud-against-the-carsharing-company-ceo-sam-zaid-cfo-adam-kosmicki/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "getarounds-alleged-earliest-investor-files-suit-for-alleged-fraud-against-the-carsharing-company-ceo-sam-zaid-cfo-adam-kosmicki",
+      "title": "Getarounds Alleged Earliest Investor Files Suit For Alleged Fraud Against The Carsharing Company Ceo Sam Zaid Cfo Adam Kosmicki"
+    },
+    {
+      "path": "/google-advertisers-7m-deal-in-false-traffic-suit-okd/",
+      "sourceUrl": "https://www.gawpoe.com/google-advertisers-7m-deal-in-false-traffic-suit-okd/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "google-advertisers-7m-deal-in-false-traffic-suit-okd",
+      "title": "Google Advertisers 7m Deal In False Traffic Suit Okd"
+    },
+    {
+      "path": "/google-to-refund-advertisers-after-suit-over-fraud-scheme/",
+      "sourceUrl": "https://www.gawpoe.com/google-to-refund-advertisers-after-suit-over-fraud-scheme/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "google-to-refund-advertisers-after-suit-over-fraud-scheme",
+      "title": "Google To Refund Advertisers After Suit Over Fraud Scheme"
+    },
+    {
+      "path": "/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/",
+      "sourceUrl": "https://www.gawpoe.com/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm",
+      "title": "How A Legal Brawl Over Male Enhancement Pills Led To A Rico Verdict Against This La Firm"
+    },
+    {
+      "path": "/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/",
+      "sourceUrl": "https://www.gawpoe.com/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic",
+      "title": "In Battle Over Booze Pricing Is The Ftc Out Of Touch Or Retro Chic"
+    },
+    {
+      "path": "/inside-the-44-million-lawsuit-jacksonville-based-swisher-international-lost/",
+      "sourceUrl": "https://www.gawpoe.com/inside-the-44-million-lawsuit-jacksonville-based-swisher-international-lost/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "inside-the-44-million-lawsuit-jacksonville-based-swisher-international-lost",
+      "title": "Inside The 44 Million Lawsuit Jacksonville Based Swisher International Lost"
+    },
+    {
+      "path": "/is-1314-per-hour-too-much-for-a-small-firm-court-says-no/",
+      "sourceUrl": "https://www.gawpoe.com/is-1314-per-hour-too-much-for-a-small-firm-court-says-no/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "is-1314-per-hour-too-much-for-a-small-firm-court-says-no",
+      "title": "Is 1314 Per Hour Too Much For A Small Firm Court Says No"
+    },
+    {
+      "path": "/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/",
+      "sourceUrl": "https://www.gawpoe.com/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law",
+      "title": "Its Not The Size Of The Firm Its How You Use It Ninth Circuit Smacks Down Fee Shaming Of Small Law"
+    },
+    {
+      "path": "/judge-challenges-onlyfans-dismissal-bid-in-subscription-renewal-class-action/",
+      "sourceUrl": "https://www.gawpoe.com/judge-challenges-onlyfans-dismissal-bid-in-subscription-renewal-class-action/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "judge-challenges-onlyfans-dismissal-bid-in-subscription-renewal-class-action",
+      "title": "Judge Challenges Onlyfans Dismissal Bid In Subscription Renewal Class Action"
+    },
+    {
+      "path": "/judge-rules-in-epic-battle-over-prominent-market-and-castro-site/",
+      "sourceUrl": "https://www.gawpoe.com/judge-rules-in-epic-battle-over-prominent-market-and-castro-site/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "judge-rules-in-epic-battle-over-prominent-market-and-castro-site",
+      "title": "Judge Rules In Epic Battle Over Prominent Market And Castro Site"
+    },
+    {
+      "path": "/judge-who-took-axe-to-lawyers-rates-says-size-of-firm-matters/",
+      "sourceUrl": "https://www.gawpoe.com/judge-who-took-axe-to-lawyers-rates-says-size-of-firm-matters/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "judge-who-took-axe-to-lawyers-rates-says-size-of-firm-matters",
+      "title": "Judge Who Took Axe To Lawyers Rates Says Size Of Firm Matters"
+    },
+    {
+      "path": "/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/",
+      "sourceUrl": "https://www.gawpoe.com/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "justices-reject-5-hour-energys-attack-on-unfair-pricing-test",
+      "title": "Justices Reject 5 Hour Energys Attack On Unfair Pricing Test"
+    },
+    {
+      "path": "/justices-wont-hear-appeal-of-long-running-swisher-case/",
+      "sourceUrl": "https://www.gawpoe.com/justices-wont-hear-appeal-of-long-running-swisher-case/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "justices-wont-hear-appeal-of-long-running-swisher-case",
+      "title": "Justices Wont Hear Appeal Of Long Running Swisher Case"
+    },
+    {
+      "path": "/khurrams-quorum-podcase/",
+      "sourceUrl": "https://www.gawpoe.com/khurrams-quorum-podcase/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "khurrams-quorum-podcase",
+      "title": "Khurrams Quorum Podcase"
+    },
+    {
+      "path": "/la-international-corp-v-prestige-brands-holdings/",
+      "sourceUrl": "https://www.gawpoe.com/la-international-corp-v-prestige-brands-holdings/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "la-international-corp-v-prestige-brands-holdings",
+      "title": "La International Corp V Prestige Brands Holdings"
+    },
+    {
+      "path": "/law-firm-must-face-rico-claims-over-sex-pill-litigation-scheme-judge-rules/",
+      "sourceUrl": "https://www.gawpoe.com/law-firm-must-face-rico-claims-over-sex-pill-litigation-scheme-judge-rules/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "law-firm-must-face-rico-claims-over-sex-pill-litigation-scheme-judge-rules",
+      "title": "Law Firm Must Face Rico Claims Over Sex Pill Litigation Scheme Judge Rules"
+    },
+    {
+      "path": "/lawsuit-based-on-a-surreptitiously-recorded-phone-call-claims-google-doesnt-refund-advertisers-who-spend-money-on-fraudulent-clicks/",
+      "sourceUrl": "https://www.gawpoe.com/lawsuit-based-on-a-surreptitiously-recorded-phone-call-claims-google-doesnt-refund-advertisers-who-spend-money-on-fraudulent-clicks/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "lawsuit-based-on-a-surreptitiously-recorded-phone-call-claims-google-doesnt-refund-advertisers-who-spend-money-on-fraudulent-clicks",
+      "title": "Lawsuit Based On A Surreptitiously Recorded Phone Call Claims Google Doesnt Refund Advertisers Who Spend Money On Fraudulent Clicks"
+    },
+    {
+      "path": "/mark-poe/",
+      "sourceUrl": "https://www.gawpoe.com/mark-poe/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "mark-poe",
+      "title": "Mark Poe"
+    },
+    {
+      "path": "/ninth-circuit-orders-reinstatement-of-44-million-jury-verdict-against-maker-of-swisher-sweets-cigars/",
+      "sourceUrl": "https://www.gawpoe.com/ninth-circuit-orders-reinstatement-of-44-million-jury-verdict-against-maker-of-swisher-sweets-cigars/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "ninth-circuit-orders-reinstatement-of-44-million-jury-verdict-against-maker-of-swisher-sweets-cigars",
+      "title": "Ninth Circuit Orders Reinstatement Of 44 Million Jury Verdict Against Maker Of Swisher Sweets Cigars"
+    },
+    {
+      "path": "/ninth-circuit-snuffs-out-gibson-dunns-44m-save-in-fight-over-cigarillos/",
+      "sourceUrl": "https://www.gawpoe.com/ninth-circuit-snuffs-out-gibson-dunns-44m-save-in-fight-over-cigarillos/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "ninth-circuit-snuffs-out-gibson-dunns-44m-save-in-fight-over-cigarillos",
+      "title": "Ninth Circuit Snuffs Out Gibson Dunns 44m Save In Fight Over Cigarillos"
+    },
+    {
+      "path": "/okay-for-jury-to-hear-anti-japanese-remarks-at-federal-fraud-trial/",
+      "sourceUrl": "https://www.gawpoe.com/okay-for-jury-to-hear-anti-japanese-remarks-at-federal-fraud-trial/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "okay-for-jury-to-hear-anti-japanese-remarks-at-federal-fraud-trial",
+      "title": "Okay For Jury To Hear Anti Japanese Remarks At Federal Fraud Trial"
+    },
+    {
+      "path": "/paul-martin/",
+      "sourceUrl": "https://www.gawpoe.com/paul-martin/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "paul-martin",
+      "title": "Paul Martin"
+    },
+    {
+      "path": "/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/",
+      "sourceUrl": "https://www.gawpoe.com/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices",
+      "title": "Pepsi Frito Lay Accused Of Favoring Chains With Chip Prices"
+    },
+    {
+      "path": "/practice-areas/",
+      "sourceUrl": "https://www.gawpoe.com/practice-areas/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "practice-areas",
+      "title": "Practice Areas"
+    },
+    {
+      "path": "/press/",
+      "sourceUrl": "https://www.gawpoe.com/press/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "press",
+      "title": "Press"
+    },
+    {
+      "path": "/randolph-gaw-named-fellow-of-litigation-counsel-of-america/",
+      "sourceUrl": "https://www.gawpoe.com/randolph-gaw-named-fellow-of-litigation-counsel-of-america/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "randolph-gaw-named-fellow-of-litigation-counsel-of-america",
+      "title": "Randolph Gaw Named Fellow Of Litigation Counsel Of America"
+    },
+    {
+      "path": "/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/",
+      "sourceUrl": "https://www.gawpoe.com/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america",
+      "title": "Randolph Gaw Named Senior Fellow Of Litigation Counsel Of America"
+    },
+    {
+      "path": "/randolph-gaw/",
+      "sourceUrl": "https://www.gawpoe.com/randolph-gaw/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "randolph-gaw",
+      "title": "Randolph Gaw"
+    },
+    {
+      "path": "/small-businesses-claim-unfair-snack-pricing-by-frito-lay/",
+      "sourceUrl": "https://www.gawpoe.com/small-businesses-claim-unfair-snack-pricing-by-frito-lay/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "small-businesses-claim-unfair-snack-pricing-by-frito-lay",
+      "title": "Small Businesses Claim Unfair Snack Pricing By Frito Lay"
+    },
+    {
+      "path": "/swisher-accused-of-anti-competitive-cigarillo-sabotage/",
+      "sourceUrl": "https://www.gawpoe.com/swisher-accused-of-anti-competitive-cigarillo-sabotage/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "swisher-accused-of-anti-competitive-cigarillo-sabotage",
+      "title": "Swisher Accused Of Anti Competitive Cigarillo Sabotage"
+    },
+    {
+      "path": "/team/",
+      "sourceUrl": "https://www.gawpoe.com/team/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "team",
+      "title": "Team"
+    },
+    {
+      "path": "/the-elevator-pitch/",
+      "sourceUrl": "https://www.gawpoe.com/the-elevator-pitch/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "the-elevator-pitch",
+      "title": "The Elevator Pitch"
+    },
+    {
+      "path": "/tobacco-co-calls-rivals-10m-fee-bid-a-waste-of-time/",
+      "sourceUrl": "https://www.gawpoe.com/tobacco-co-calls-rivals-10m-fee-bid-a-waste-of-time/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "tobacco-co-calls-rivals-10m-fee-bid-a-waste-of-time",
+      "title": "Tobacco Co Calls Rivals 10m Fee Bid A Waste Of Time"
+    },
+    {
+      "path": "/tobacco-co-gets-10-8m-in-fees-for-breach-of-contract-win/",
+      "sourceUrl": "https://www.gawpoe.com/tobacco-co-gets-10-8m-in-fees-for-breach-of-contract-win/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "tobacco-co-gets-10-8m-in-fees-for-breach-of-contract-win",
+      "title": "Tobacco Co Gets 10 8m In Fees For Breach Of Contract Win"
+    },
+    {
+      "path": "/trendsettah-v-swisher/",
+      "sourceUrl": "https://www.gawpoe.com/trendsettah-v-swisher/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "trendsettah-v-swisher",
+      "title": "Trendsettah V Swisher"
+    },
+    {
+      "path": "/trial-work/",
+      "sourceUrl": "https://www.gawpoe.com/trial-work/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "trial-work",
+      "title": "Trial Work"
+    },
+    {
+      "path": "/united-airlines-passenger-files-lawsuit-over-alleged-mechanic-mishap-in-flight-931-usa-english/",
+      "sourceUrl": "https://www.gawpoe.com/united-airlines-passenger-files-lawsuit-over-alleged-mechanic-mishap-in-flight-931-usa-english/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "united-airlines-passenger-files-lawsuit-over-alleged-mechanic-mishap-in-flight-931-usa-english",
+      "title": "United Airlines Passenger Files Lawsuit Over Alleged Mechanic Mishap In Flight 931 Usa English"
+    },
+    {
+      "path": "/us-appeals-court-says-law-firms-size-doesnt-limit-legal-fees/",
+      "sourceUrl": "https://www.gawpoe.com/us-appeals-court-says-law-firms-size-doesnt-limit-legal-fees/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "us-appeals-court-says-law-firms-size-doesnt-limit-legal-fees",
+      "title": "Us Appeals Court Says Law Firms Size Doesnt Limit Legal Fees"
+    },
+    {
+      "path": "/victor-meng/",
+      "sourceUrl": "https://www.gawpoe.com/victor-meng/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "victor-meng",
+      "title": "Victor Meng"
+    }
+  ]
+}

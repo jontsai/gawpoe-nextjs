@@ -1,0 +1,37 @@
+{
+  "name": "gawpoe-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static Next.js migration for Gaw/Poe LLP",
+  "scripts": {
+    "dev": "next dev",
+    "import:wp": "node src/scripts/import-wordpress.mjs",
+    "sync:sitemap": "node scripts/sync-wp-sitemap.mjs",
+    "prebuild": "npm run import:wp && npm run sync:sitemap",
+    "build": "next build && node scripts/sync-export-to-docs.mjs && npm run check:coverage",
+    "check:coverage": "node scripts/check-content-coverage.mjs",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "@hacktoolkit/nextjs-htk": "^0.2.0",
+    "classnames": "^2.5.1",
+    "next": "^15.5.14",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^15.5.14",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

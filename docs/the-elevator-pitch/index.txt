@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","the-elevator-pitch",""],"i":false,"f":[[["",{"children":[["slug","the-elevator-pitch","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","the-elevator-pitch","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T1c04,
+<p>The concept of the “elevator pitch” is familiar to anyone in the business world. The basic idea is to prepare as if one expects to share an elevator ride with an important decision-maker. During the duration of that imaginary ride (i.e., a minute or two), one would explain what they do and why it is important to that decision-maker in a manner that captures that decision-maker’s present and future interest. An elevator pitch recognizes that every decision-maker (and really, every person) has limited time and multiple demands on their attention. Thus, it is necessary to find a way to concisely articulate about one’s product/service/company/idea in a manner that seizes the decision-maker’s attention during that brief window of opportunity.</p>
+
+
+
+<p>Entrepreneurs constantly practice and refine their elevator pitch like a daily exercise routine. Many small firm lawyers, however, do not even have an elevator pitch. This is ironic as such lawyers are entrepreneurs in the truest sense of the word. A small firm lawyer not only has to focus upon the practice of law but also upon the business of law as well. A business needs customers (i.e., clients) to survive, and a small firm lawyer with an effective elevator pitch has a better chance of landing quality clients compared to their pitch-less competition.</p>
+
+
+
+<p><strong>Why Does A Small Firm Lawyer Even Need An Elevator Pitch?</strong></p>
+
+
+
+<p>Because small firm lawyers typically charge lower rates, or have more flexibility with fee arrangements compared to their big firm brethren, it is realistic for them to assume that anyone they meet can be a source of future work. This does not just refer to contacts that become clients. This includes contacts that are in a position to refer potential clients. And as any person may be unexpectedly asked by a friend, family member or colleague if “they know a good lawyer,” small firm lawyers with foresight realize that <em><strong>every person they meet is potentially a source of future referrals.</strong></em> An elevator pitch helps these lawyers stand out in the memories of these potential referrers and thus results in more business. (As for big firm lawyers, elevator pitches are certainly useful, but the reality is that few individuals are in a position to refer a Fortune 500 client and the average Fortune 500 client likely gives legal work based upon<br>exhaustive and substantive marketing presentations rather than two minute pitches).</p>
+
+
+
+<p>The advantages of having an elevator pitch are readily apparent. For example, consider the typical networking event sponsored by a bar association. Scores of lawyers mingle by the appetizers table looking to meet other lawyers. A business litigator introducing herself to a tax lawyer can describe themselves and their practice in any number of ways. A non-elevator pitch approach would have the business litigator simply say that she does “business litigation.” To the<br>tax lawyer unfamiliar with litigation, there is nothing about that presentation that stands out compared to all the other business litigators he meets later that night. It may be a pleasant enough conversation, but whether the tax lawyer remembers the business litigator several weeks later is largely a function of serendipity. An effective elevator pitch greatly increases the odds that the tax attorney remembers the business litigator for substantive reasons as opposed to random chance.</p>
+
+
+
+<p><strong>What Makes A Good Elevator Pitch For A Small Firm Lawyer?</strong></p>
+
+
+
+<p>To the average person, small firm lawyers are likely a dime a dozen. Most people without legal training (and even many who have such training) are challenged in their ability to meaningfully distinguish between lawyers in the same general practice area. Thus, a good elevator pitch highlights the distinctions between the speaker and the hordes of other faceless lawyers out there and gives that potential client a substantive, persuasive reason to choose the speaker for any immediate or future legal needs.</p>
+
+
+
+<p>The specific contents of a good elevator pitch necessarily vary by lawyer as no practice is identical and each lawyer differs in what they want to accomplish. In addition, a good lawyer will tailor pitches to address the different kinds of audiences they face. What good pitches often have in common, however, is that they communicate information that (1) is memorable, (2) clearly identifies the specific type of client the lawyer wants to acquire and (3) clearly articulates<br>why the lawyer is a better option than the competition. After all, elevator pitches that result in a lawyer receiving numerous inquiries are not particularly helpful if that lawyer ends up referring away most of those inquiries due to a lack of fit and has to spend considerable time in the filtering process without a productive return.</p>
+
+
+
+<p>In demonstrating the effectiveness of a good elevator pitch, consider the following two hypotheticals about the aforementioned introduction made during a bar association event.</p>
+
+
+
+<ol class="wp-block-list">
+<li>The business litigator introducing herself to a tax lawyer states that she does<br>“business litigation.”</li>
+
+
+
+<li>The business litigator introducing herself to a tax lawyer states that she is a “trial lawyer with a focus on aggressively defending companies accused of false advertising.”</li>
+</ol>
+
+
+
+<p>Most lawyers likely introduce themselves in a manner similar to the first hypothetical (this author certainly has on numerous occasions). The mini-speech in the second hypothetical is quite a mouthful and describing oneself as a “business litigator” undoubtedly feels more natural, more authentic and less pretentious. But its unassuming approach ultimately also means that it is<br>banal and uninteresting and the follow up questions to that introduction are more likely to be pro forma.</p>
+
+
+
+<p>By contrast, an introduction similar to the second hypothetical grabs attention. It leads to focused follow-up questions that allow the speaker to go further into her elevator pitch – what makes them a trial lawyer, what does she mean by an aggressive defense, what types of companies does she represent, what is false advertising, etc. By the end of that conversation, the lawyer has increased her odds of getting future meaningful referrals.</p>
+
+
+
+<p>It is important to note that an elevator pitch is not about advertising oneself as a narrow specialist (though it certainly can be if that is what the lawyer wants to do). The elevator pitch is about quickly capturing attention for being better than one’s competition. Perhaps that business litigator’s edge is that she is a former big law firm partner with far more experience in complex litigation than the typical small firm attorney. Maybe her edge is her rates are far lower than<br>other attorneys of comparable skill and background. Or it could be that her edge is that she has handled considerably more trials than other attorneys in her field. In the end, it is up to each lawyer to determine what they bring to potential clients that other lawyers do not.</p>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"December 4, 2024"}],["$","h1",null,{"children":"The Elevator Pitch"}],["$","img",null,{"className":"featured-image","src":"https://www.gawpoe.com/wp-content/uploads/2024/12/Elevator-pitch.jpeg","alt":""}],["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"The Elevator Pitch | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"The concept of the “elevator pitch” is familiar to anyone in the business world. The basic idea is to prepare as if one expects to share an elevator ride with an important decision-maker. During the duration of that imag"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/the-elevator-pitch/"}],["$","meta","3",{"property":"og:title","content":"The Elevator Pitch"}],["$","meta","4",{"property":"og:description","content":"The concept of the “elevator pitch” is familiar to anyone in the business world. The basic idea is to prepare as if one expects to share an elevator ride with an important decision-maker. During the duration of that imag"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/the-elevator-pitch/"}],["$","meta","6",{"property":"og:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/12/Elevator-pitch.jpeg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"The Elevator Pitch"}],["$","meta","10",{"name":"twitter:description","content":"The concept of the “elevator pitch” is familiar to anyone in the business world. The basic idea is to prepare as if one expects to share an elevator ride with an important decision-maker. During the duration of that imag"}],["$","meta","11",{"name":"twitter:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/12/Elevator-pitch.jpeg"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

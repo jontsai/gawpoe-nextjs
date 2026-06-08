@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","christopher-wimmer1",""],"i":false,"f":[[["",{"children":[["slug","christopher-wimmer1","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","christopher-wimmer1","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T2445,
+<div class="wp-block-cover alignfull" style="margin-top:0;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw;min-height:50vh;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-50 has-background-dim" style="background-color:#586475"></span><img loading="lazy" decoding="async" width="2560" height="1467" class="wp-block-cover__image-background wp-image-18" alt="" src="https://www.gawpoe.com/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-scaled.jpg" data-object-fit="cover" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-scaled.jpg 2560w, https://www.gawpoe.com/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-300x172.jpg 300w, https://www.gawpoe.com/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-1024x587.jpg 1024w, https://www.gawpoe.com/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-768x440.jpg 768w, https://www.gawpoe.com/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-1536x880.jpg 1536w" sizes="(max-width: 2560px) 100vw, 2560px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-9 wp-block-group-is-layout-flow">
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-columns alignwide team-pg-content is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
+<div class="wp-block-column sidebar is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<div class="wp-block-group nav-contents has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<h4 class="wp-block-heading">Contents</h4>
+
+
+
+<ul class="wp-block-list">
+<li><a href="#summary">Summary</a></li>
+
+
+
+<li><a href="#credentials">Credentials</a></li>
+
+
+
+<li><a href="#rep">Representative Engagements</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-group blk-contact has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<h4 class="wp-block-heading h-standard">Contact</h4>
+
+
+
+<p class="contact-point phone"><strong>P</strong> +1 415-326-3957</p>
+
+
+
+<p class="contact-point fax"><strong>F</strong> +1 415-737-0642</p>
+
+
+
+<p class="contact-point email"><strong>E</strong> cwimmer@gawpoe.com</p>
+
+
+
+<div class="wp-block-group social has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<p class="ic li"><a href="https://www.linkedin.com/company/gaw-poe-llp/" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
+
+
+
+<p class="ic fb"><a href="https://www.facebook.com/profile.php?id=61560638781599" target="_blank" rel="noreferrer noopener">Facebook</a></p>
+</div>
+
+
+
+<p class="address">One Embarcadero<br>Suite 1200<br>San Francisco, CA 94111</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading h-standard dlrg"><a href="https://www.linkedin.com/in/cawimmer/" data-type="link" data-id="https://www.linkedin.com/in/cawimmer/">Christopher Wimmer</a></h2>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-13 wp-block-group-is-layout-flex">
+<h3 class="wp-block-heading team-title">Partner  </h3>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button ic li"><a class="wp-block-button__link wp-element-button" href="https://www.linkedin.com/in/cawimmer/" target="_blank" rel="noreferrer noopener">LinkedIn</a></div>
+</div>
+</div>
+
+
+
+<h4 class="wp-block-heading h-in-pg" id="summary">Summary</h4>
+
+
+
+<p>Christopher Wimmer joined Gaw | Poe LLP in August 2025 and has been practicing law since graduating in 2005 from Columbia Law School. He has first-chaired eight trials and arbitrations, argued appeals in the California Courts of Appeal and the U.S. Court of Appeals for the Ninth Circuit, and filed briefs with the Supreme Court of California (as lead merits counsel) and the Supreme Court of the United States (as lead amicus counsel). He has also been lead transactional counsel on commercial, financing, and M&amp;A contracts in the cannabis industry cumulatively worth over $850 million.</p>
+
+
+
+<p><br>Prior to joining Gaw | Poe LLP, Mr. Wimmer spent thirteen years at elite commercial litigation firms in New York and San Francisco and seven years as in-house and external litigation, transactional, and regulatory counsel in the cannabis industry. </p>
+
+
+
+<p>While at Columbia Law School, Mr. Wimmer received the Paul R. Hays Prize for civil procedure along with numerous other honors and served as a teaching assistant for the late Jack Greenberg. He also clerked for the late Hon. Jack B. Weinstein. Before attending Columbia, Mr. Wimmer graduated from U.C. Berkeley with a dual degree in Rhetoric (with Honors) and Molecular &amp; Cell Biology. He has been published academically and professionally on a range of topics including litigation publicity and California’s Anti-SLAPP statute, the history of criminal sentencing in the U.S. from the colonial era to present, the Supreme Court’s Seventh Amendment jurisprudence, legal and ethical issues in correctional psychiatry and guardianships, and the Russian novelist Vladimir Nabokov.</p>
+
+
+
+<h3 class="wp-block-heading sm-standard">Education</h3>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center org is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="524" height="140" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-uc-berkeley.png" alt="" class="wp-image-16" style="width:213px;height:auto" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-uc-berkeley.png 524w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-uc-berkeley-300x80.png 300w" sizes="(max-width: 524px) 100vw, 524px" /></figure>
+
+
+
+<p class="has-text-align-center">B.A., Rhetoric and Molecular<br>&amp; Cell Biology</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-top org is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="396" height="252" src="https://www.gawpoe.com/wp-content/uploads/2025/08/Columbia_Law_School_logo.png" alt="" class="wp-image-1329" style="width:160px;height:auto" srcset="https://www.gawpoe.com/wp-content/uploads/2025/08/Columbia_Law_School_logo.png 396w, https://www.gawpoe.com/wp-content/uploads/2025/08/Columbia_Law_School_logo-300x191.png 300w" sizes="(max-width: 396px) 100vw, 396px" /></figure>
+
+
+
+<p class="has-text-align-center">J. D., 2005</p>
+</div>
+</div>
+
+
+
+<h3 class="wp-block-heading sm-standard">Professional Activities</h3>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-top org is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="166" height="166" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-district-court-n-california.png" alt="US District Court Northern District of California Emblem Logo" class="wp-image-188" style="width:106px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-district-court-n-california.png 166w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-district-court-n-california-150x150.png 150w" sizes="(max-width: 166px) 100vw, 166px" /></figure>
+
+
+
+<p class="has-text-align-center">Admitted, California; U.S District Courts for the Northern and Eastern Districts of California, 2nd Circuit Court of Appeals &amp; Ninth Circuit Court of Appeals; United States Supreme Court</p>
+</div>
+</div>
+
+
+
+<h4 class="wp-block-heading h-in-pg" id="rep">Representative Engagements</h4>
+
+
+
+<ul class="wp-block-list">
+<li>As lead counsel, represented Ukrainian IT services company in breach of contract and employee solicitation claims against its largest customer, a healthcare analytics provider. The claims, valued at over $20 million, settled before trial.</li>
+
+
+
+<li>As sole counsel, successfully represented owners of a cannabis dispensary business through summary judgment in breach of contract claims against their former partners for theft of a license and licensing deal worth over $15 million.</li>
+
+
+
+<li>As senior in-house counsel to a publicly traded ancillary cannabis company, developed SaaS, construction financing, equipment leasing, trademark licensing, and consulting contracts.</li>
+
+
+
+<li>As sole in-house counsel to a publicly traded cannabis multistate operator, led internal investigation into anti-money laundering issues that uncovered significant violations by a competitor, and directed outside counsel in litigation against the competitor that led to a federal indictment of the competitor’s CEO.</li>
+</ul>
+
+
+
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+</div>
+
+
+</p>5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"Christopher Wimmer1"}],null,["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Christopher Wimmer1 | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Contact P +1 415-326-3957 F +1 415-737-0642 E cwimmer@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Christopher Wimmer Partner Summary Christopher Wimmer joined Gaw | Poe LLP in August 202"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/christopher-wimmer1/"}],["$","meta","3",{"property":"og:title","content":"Christopher Wimmer1"}],["$","meta","4",{"property":"og:description","content":"Contact P +1 415-326-3957 F +1 415-737-0642 E cwimmer@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Christopher Wimmer Partner Summary Christopher Wimmer joined Gaw | Poe LLP in August 202"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/christopher-wimmer1/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Christopher Wimmer1"}],["$","meta","9",{"name":"twitter:description","content":"Contact P +1 415-326-3957 F +1 415-737-0642 E cwimmer@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Christopher Wimmer Partner Summary Christopher Wimmer joined Gaw | Poe LLP in August 202"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

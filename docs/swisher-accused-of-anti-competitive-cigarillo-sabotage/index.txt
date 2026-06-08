@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","swisher-accused-of-anti-competitive-cigarillo-sabotage",""],"i":false,"f":[[["",{"children":[["slug","swisher-accused-of-anti-competitive-cigarillo-sabotage","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","swisher-accused-of-anti-competitive-cigarillo-sabotage","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Tf55,
+<p>Reposted from original:&nbsp;<a href="https://www.law360.com/articles/587108/print?section=competition">https://www.law360.com/articles/587108/print?section=competition</a></p>
+
+
+
+<p>By Joe Van Acker</p>
+
+
+
+<p>Law360, New York (October 15, 2014, 4:32 PM ET) — Swisher International Inc. has used its market power to lure would-be rivals into contracts in order to sabotage their supply of small cigars called cigarillos, a tobacco company claimed in California federal court on Tuesday.</p>
+
+
+
+<p>Trendsettah USA Inc. said that in 2010 it entered into an agreement with Swisher, which would produce Trendsettah’s “Splitarillo” line of flavored cigarillos, but the business relationship soured as the brand became increasingly popular and threatened Swisher’s control of the market.</p>
+
+
+
+<p>Trendsettah said it had no choice but to contract with Swisher due to the cigar industry’s high barriers to entry, namely the high cost of purchasing the requisite machinery and the difficulty in fostering relationships with tobacco growers.</p>
+
+
+
+<p>“This pattern of conduct was designed to quash competition by doing just enough to help a fledgling company get off the ground, and then crush it, with Swisher’s expectation that it would be harder for a failed company to grow into an effective competitor than it would have been otherwise — had the new company built its business from scratch rather than being under Swisher’s thumb,” the complaint said.</p>
+
+
+
+<p>Trendsettah claimed that Swisher’s first step in eliminating it from the marketplace was to restrict supplies by continually refusing to fill purchase orders completely, sending hundreds of cases when it received orders for thousands.</p>
+
+
+
+<p>The plaintiff said it opted to sign a new contract with Swisher after the conclusion of their initial two-year agreement despite the supply issues, again due to the high costs and complexity of proceeding on its own. The complaint said that this second contract differed from the first in that it limited the maximum monthly production of Splitarillos rather than the minimum.</p>
+
+
+
+<p>Mark Poe of Gaw Poe LLP, which represents Trendsettah, said Swisher proceeded to take additional steps to destroy its business.</p>
+
+
+
+<p>“In addition to directly limiting production, contrary to the terms of its production contract, we have learned that Swisher’s sales reps actively spread false information about our client’s product among the competitors’ mutual customers, and otherwise sabotaged the product placement and marketing of Splitarillos,” Poe said.</p>
+
+
+
+<p>According to the complaint, Trendsettah received word from Swisher in 2013 that the contract would not be renewed, prompting Trendsettah employees to visit Swisher’s manufacturing plants in the Dominican Republic, where it evaluated Swisher’s production capacity. Trendsettah said the employees were able to determine that Swisher was more than capable of satisfying its product orders but deliberately chose not to do so.</p>
+
+
+
+<p>Trendsettah claimed it has lost millions of dollars as a result of Swisher’s conduct, and said the defendant has repeated this same pattern of behavior against other prospective competitors, causing further injury to competition and to the American consumer.</p>
+
+
+
+<p>Trendsettah has requested punitive, compensatory and treble damages for Swisher’s alleged violation of the Sherman Act as well as competition statutes from Florida and California.</p>
+
+
+
+<p>Swisher did not immediately to requests for comment on Wednesday.</p>
+
+
+
+<p>Trendsettah is represented by Randolph Gaw of Gaw Poe LLP.</p>
+
+
+
+<p>Counsel information for the defendants was not available.</p>
+
+
+
+<p>The case is Trendsettah USA Inc. et al v Swisher International Inc., case number 2:14-CV- 07956., in the U.S. District Court for the Central District of California</p>
+
+
+
+<p>–Editing by Stephen Berg.</p>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"October 15, 2014"}],["$","h1",null,{"children":"Swisher Accused Of Anti-Competitive Cigarillo Sabotage"}],["$","img",null,{"className":"featured-image","src":"https://www.gawpoe.com/wp-content/uploads/2024/07/siwawut-phoophinyo-2RX7AMnKK_k-unsplash.jpg","alt":""}],["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Swisher Accused Of Anti-Competitive Cigarillo Sabotage | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Reposted from original: https://www.law360.com/articles/587108/print?section=competition By Joe Van Acker Law360, New York (October 15, 2014, 4:32 PM ET) — Swisher International Inc. has used its market power to lure wou"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/swisher-accused-of-anti-competitive-cigarillo-sabotage/"}],["$","meta","3",{"property":"og:title","content":"Swisher Accused Of Anti-Competitive Cigarillo Sabotage"}],["$","meta","4",{"property":"og:description","content":"Reposted from original: https://www.law360.com/articles/587108/print?section=competition By Joe Van Acker Law360, New York (October 15, 2014, 4:32 PM ET) — Swisher International Inc. has used its market power to lure wou"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/swisher-accused-of-anti-competitive-cigarillo-sabotage/"}],["$","meta","6",{"property":"og:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/siwawut-phoophinyo-2RX7AMnKK_k-unsplash.jpg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Swisher Accused Of Anti-Competitive Cigarillo Sabotage"}],["$","meta","10",{"name":"twitter:description","content":"Reposted from original: https://www.law360.com/articles/587108/print?section=competition By Joe Van Acker Law360, New York (October 15, 2014, 4:32 PM ET) — Swisher International Inc. has used its market power to lure wou"}],["$","meta","11",{"name":"twitter:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/siwawut-phoophinyo-2RX7AMnKK_k-unsplash.jpg"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

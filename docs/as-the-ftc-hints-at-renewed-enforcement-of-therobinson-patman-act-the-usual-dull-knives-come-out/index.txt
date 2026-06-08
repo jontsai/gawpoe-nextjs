@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out",""],"i":false,"f":[[["",{"children":[["slug","as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T49a6,
+<p>By&nbsp;<a href="https://www.thesling.org/author/markpoe/">Mark Poe</a><br>January 9, 2023</p>
+
+
+
+<p>Over the last year, three of the four current FTC Commissioners (one seat is vacant) have indicated an interest in renewed enforcement of the Robinson-Patman Act as a potential means of policing anticompetitive conduct. The most robust support has been voiced by Commissioner Alvaro Bedoya, who delivered a speech on the subject on September 22, 2022 at a Minneapolis event titled: “Midwest Forum on Fair Markets: What the New Antimonopoly Vision Means for Main Street.” Commissioner Bedoya titled his speech “Returning to Fairness,” and through three anecdotal case studies, expressed skepticism of the prevailing paradigm that “efficiency” is (or should be) the paramount goal of the antitrust laws. As Commissioner Bedoya pointed out, none of the Congresses that enacted any of the familiar antitrust acts invoked “efficiency” as their central purpose; indeed, none of them even mentions “efficiency” as a goal. Rather, he explained, those Congresses targeted “unfairness.” He summarized his views thusly:</p>
+
+
+
+<p>Certain laws that were clearly passed under what you could call a fairness mandate – laws like Robinson-Patman – directly spell out specific legal prohibitions. Congress’s intent in those laws is clear. We should enforce them.</p>
+
+
+
+<p>With Commissioners Khan and Slaughter having previously expressed similar sentiments, it is not surprising that opponents of a resurgent RPA have been quick to respond. On October 11, 2022, the American Action Forum published a “primer” titled “<em>FTC to Use Robinson-Patman Act as an Antitrust Tool to Target Large Retailers</em>,”<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn1">[1]</a>&nbsp;and a week later the Cato Institute published an article titled “<em>The Zombie Robinson‐​Patman Act Doesn’t Deserve Revival</em>.”<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn2">[2]</a></p>
+
+
+
+<p>These articles repeat a series of criticisms that will be familiar to anyone who has spent time with the Robinson-Patman Act (the “RPA”). For example, the article from the Cato Institute proclaims that “[b]y inhibiting more efficient firms from receiving wholesale discounts, the RPA therefore denied retail consumer savings in the form of lower prices,” and that “[i]f enforced again it would no doubt smother efficiencies once more, resulting in higher prices for customers.” The piece from the American Action Forum likewise expresses the concern that “expansion of the use of the RPA as an antitrust tool could have major implications for consumers,” because “[a]n RPA claim may ignore the efficiencies firms generate that come with scale,” such that “consumers will likely pay higher prices.” These criticisms echo those from former FTC Commissioner Noah Phillips, who testified to the House Judiciary Committee of the last Congress that an “unfortunate result [of the RPA] was that American consumers paid more money for groceries and household products that they use every day.”<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn3">[3]</a></p>
+
+
+
+<p>These recurrent criticisms of the RPA have echoed since the “Chicago School” of economic theory gained ascendance in the Reagan administration and have been repeated with such frequency and certainty that they have become truisms. One may then be surprised to learn that despite 40+ years of repetition, these familiar criticisms are entirely lacking in empirical support. As Commissioner Bedoya recognized, “some 86 years after its passage, there is not one empirical analysis showing that Robinson-Patman actually raised consumer prices.” Indeed, when one traces the lineage of these familiar criticisms back through the literature, he finds that the supporting citations (where citations are offered at all) are only to prior works voicing the same criticisms. And if one delves even further back, he will find that the criticisms did not originate in the work of economists at all, but in the works of laissez faire&nbsp;<em>legal</em>&nbsp;scholars. That is, the familiar criticisms largely originated in the writings of Judges Bork and Posner, and Professor Hovenkamp, all of whom stated the criticisms as axiomatic.<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn4">[4]</a>&nbsp;Perhaps now when a potential revival of the RPA is at hand, it is finally time to query whether the generally accepted condemnations of the RPA are valid to begin with.</p>
+
+
+
+<h3 class="wp-block-heading">1. Are the companies that receive discriminatory pricing “more efficient”?</h3>
+
+
+
+<p>One might begin with the criticism that the Act prevents suppliers from giving favorable pricing to “larger, more efficient businesses.”<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn5">[5]</a>&nbsp;This criticism contains two (apparently unrecognized) assumptions: (1) that “larger” businesses obtain discriminatory pricing because they are more “efficient” and (2) that the Act prohibits discounts associated with actual efficiency.</p>
+
+
+
+<p>As to the first, what evidence is there that suppliers grant preferential pricing to customers based on their “efficiency”? It’s a rhetorical question; the answer is “none.” Perhaps the proponents of this criticism don’t really mean demonstrated “efficiency,” but instead use “larger” as a proxy for “more efficient.” But if that’s what they mean, why do they feel the need to cloak bigness in the garb of “efficiency”? Surely they recognize that a customer like Walmart or Amazon is able to demand preferential pricing based purely on its largeness, with no regard to its “efficiency.” This same criticism of the RPA has been leveled for more than forty years, but I have read volumes of RPA literature and caselaw, and am not aware of any empirical study showing that big businesses are more efficient than small businesses in the only metric that is relevant to the RPA—the cost to the supplier of making sales to its customers.</p>
+
+
+
+<p>In the real world, we have substantial reason to doubt whether it is more efficient for a supplier to sell to big businesses than to their smaller competitors. Our firm has litigated only two RPA cases where cost information as to the favored and disfavored purchasers has been produced in discovery. In these two matters, we learned (from the defendants’ own calculations) that because of Costco and Walmart’s exacting packaging and delivery requirements, it was&nbsp;<em>more</em>&nbsp;costly for the supplier to supply those giants than it was to supply their independent competitors. Nevertheless, both suppliers gave Costco and Walmart better pricing merely because the behemoths demanded it. While two is admittedly a tiny sample, it is also two-out-of-two. Before we adopt economic and public policy around the assumption that big businesses should be entitled to discriminatory pricing because they are “more efficient,” we at least ought to know whether it’s true.</p>
+
+
+
+<p>Moreover, the RPA includes a specific provision that protects sales to firms that are&nbsp;<em>actually</em>&nbsp;more efficient. Under the “cost-justification” defense, “nothing herein contained shall prevent differentials which make only due allowance for differences in the cost of manufacture, sale, or delivery resulting from the differing methods or quantities in which such commodities are to such purchasers sold or delivered.”<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn6">[6]</a>&nbsp;In other words, where it is&nbsp;<em>actually</em>&nbsp;demonstrably cheaper for a supplier to sell to Walmart or Costco than to their smaller competitors, the RPA permits a lower price offer. The Act only prohibits discounts that&nbsp;<em>cannot</em>&nbsp;be justified as more efficient.</p>
+
+
+
+<p>The response that the cost-justification defense is “virtually impossible” to meet is unconvincing.<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn7">[7]</a>&nbsp;&nbsp;In all of my RPA reading, I have yet to see a cogent explanation of&nbsp;<em>why</em>&nbsp;it would be so hard for a supplier to demonstrate its cost savings to the recipient of a discriminatory price. After all, cost-of-goods-sold calculations represent a fundamental component of business accounting. The reason why the defense has been “virtually impossible” to meet in practice almost certainly rests with the challenged price having no supporting cost calculation as a basis in the first place. Where a supplier offers an arbitrary 20% discount to a favored customer, for example, no one should be surprised to find that it is “virtually impossible” for the supplier to cobble together data to show that it was cost-justified. But that does not condemn the defense; rather, it demonstrates that the supplier engaged in unjustified price discrimination.</p>
+
+
+
+<h3 class="wp-block-heading">2. Does the RPA prohibit “discounting,” resulting in higher prices to consumers?</h3>
+
+
+
+<p>The Cato Institute article proclaims that the RPA “inhibit[s] more efficient firms from receiving wholesale discounts,” and that “[i]f enforced again it would no doubt . . . result[] in higher prices for customers.” These are two familiar and related criticisms—that the RPA prohibits “discounts,” and that the result is higher prices to end consumers.</p>
+
+
+
+<p>The notion that the RPA “prohibits discounts” is merely a framing device to support the criticism. Section 2(a) says nothing about “discounts;” what it prohibits is “discriminating in price.” The RPA can only be framed as prohibiting discounts if one assumes that the supplier’s baseline price is the&nbsp;<em>higher</em>&nbsp;price it charges its disfavored customers. But why should the price that the supplier unilaterally sets be deemed the baseline? One can just as easily declare that the baseline price is the one that the supplier negotiates with a strong buyer; Walmart or Costco for example. Under that framing device, what the Act prohibits is charging illegally&nbsp;<em>higher</em>&nbsp;prices to smaller businesses.</p>
+
+
+
+<p>The effect on prices to end consumers follows suit. As Commissioner Bedoya noted, it has never been empirically demonstrated that prohibiting price discrimination results in higher prices to end consumers. But even with the lack of empirical support, the assumption that RPA enforcement “would no doubt . . . result[] in higher prices for customers” depends on supposing that if suppliers are forced to sell to competing purchasers at a single price, it would be their higher list-price, rather than their “Walmart price.” But surely a supplier’s largest customers aren’t mere price-takers, who will settle for whatever list price the supplier announces. Undoubtedly they would bargain for a lower price, and when that bargaining process is complete, the smaller purchasers would benefit from the same lower price. This is because “[i]f the bargaining is done by the stronger of two buyers, then the lower price becomes the price paid by everyone.”<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn8">[8]</a>&nbsp;If that is true, then prohibiting price discrimination gives all buyers access to the&nbsp;<em>favored</em>&nbsp;price, and “would no doubt” result in&nbsp;<em>lower</em>&nbsp;consumer prices to more people.</p>
+
+
+
+<p>Of course there are numerous complications to a simplistic view that the proper “but for” price is the one given to the favored purchaser, and that all purchasers would get that price if the RPA were rigorously enforced. Most obviously, it seems likely that a supplier uses the higher prices it charges to its disfavored purchasers to subsidize the low prices it gives to the favored. But that is hardly a reason to suspect that the RPA results in higher prices to consumers on average. Rather, it seems consistent with the RPA’s fears: that in a world that permits price discrimination, smaller businesses will find themselves subsidizing the profitability of their larger competitors. More to the point of this article, however, is that I have yet to see any of the RPA’s legal critics even&nbsp;<em>consider</em>&nbsp;any of these issues, let alone attempt to rigorously analyze them.</p>
+
+
+
+<p>Nevertheless, real world observation of RPA litigation supports the view that the proper baseline price is the one given to the big buyer. While I cannot speak as knowledgeably about the FTC’s historic enforcement actions, I can say that out of the hundreds of private-enforcement RPA cases I have read, the plaintiff has&nbsp;<em>always</em>&nbsp;demanded to be given the lower favored price, not demanded that its competitor be required to pay the plaintiff’s own higher price. In other words, success in those cases “would no doubt” result in&nbsp;<em>lower</em>&nbsp;prices, not higher ones, as the critics proclaim. That pattern is supported by the cases our firm has brought where the settlement has included a price component. Never once has the lower price given to the favored purchaser been taken away; it has always been the case that that lower price has been extended to our client.</p>
+
+
+
+<p>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *</p>
+
+
+
+<p>In his September speech, Commissioner Bedoya quite rightly observed that nothing in the RPA or its legislative history suggested that Congress was concerned with promoting “efficiency.” Indeed (and while Commissioner Bedoya sagely refrained from making the point) the Congress that passed the RPA did not even express the purpose of ensuring the lowest possible prices to consumers. The Supreme Court has recently reiterated that the judiciary “is not free to substitute its preferred economic policies for those chosen by the people’s representatives.”<a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftn9">[9]</a>&nbsp;But since the Supreme Court has&nbsp;<em>already</em>&nbsp;largely substituted its preferred economic policies for those chosen by Congress in the antitrust realm, I fear that Commissioner Bedoya is ceding unnecessary ground in exhorting “a return to fairness,” as if fairness and efficiency are antipodes. While Commissioner Bedoya’s reading of congressional intent is undoubtedly correct, I sense that the FTC will have better luck in any future enforcement actions if—in addition to emphasizing the plain language of the Act—it pushes back strongly on the familiar condemnations of the Act, by pointing out that despite their endless repetition, they lack any empirical support.</p>
+
+
+
+<p><em>Mark Poe is a co-founder of San Francisco-based Gaw | Poe LLP. Mr. Poe and his co-founder Randolph Gaw are classmates of the 2002 class of Stanford Law School, who worked at Morrison &amp; Foerster, Wilson Sonsini, and O’Melveny &amp; Myers prior to founding their own firm in 2014. The firm frequently litigates Robinson-Patman Act cases on behalf of “disfavored” wholesalers who cater to convenience stores and independent grocers.</em></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref1">[1]</a>&nbsp;<em>See</em>&nbsp;<a href="https://www.americanactionforum.org/insight/ftc-to-use-robinson-patman-act-as-an-antitrust-tool-to-target-large-retailer/#ixzz7otMtpJl0">https://www.americanactionforum.org/insight/ftc-to-use-robinson-patman-act-as-an-antitrust-tool-to-target-large-retailer/#ixzz7otMtpJl0</a>.</p>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref2">[2]</a>&nbsp;<em>See</em>&nbsp;<a href="https://www.cato.org/blog/zombie-robinson-patman-act-doesnt-deserve-revival">https://www.cato.org/blog/zombie-robinson-patman-act-doesnt-deserve-revival</a>.</p>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref3">[3]</a>&nbsp;<em>See</em>&nbsp;<a href="https://www.congress.gov/event/117th-congress/house-event/LC68134/text?s=1&amp;r=91">https://www.congress.gov/event/117th-congress/house-event/LC68134/text?s=1&amp;r=91</a>.</p>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref4">[4]</a>&nbsp;<em>See</em>&nbsp;Robert Bork, The Antitrust Paradox (1978); Richard A. Posner, The Robinson-Patman Act, Federal Regulation of Price Differences, American Enterprise Institute (1976); Herbert Hovenkamp, Federal Antitrust Policy: The Law of Competition and Its Practice (3d ed. 2005).</p>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref5">[5]</a>&nbsp;Hovenkamp, n.5, § 14.6a1.</p>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref6">[6]</a>&nbsp;15 U.S.C. § 13(a).</p>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref7">[7]</a>&nbsp;<em>See</em>&nbsp;n.5, Posner at 41.</p>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref8">[8]</a>&nbsp;Daniel P. O’Brien,&nbsp;<em>The welfare effects of third-degree price discrimination in intermediate good markets: the case of bargaining</em>, 45 RAND J. OF ECON. 92, 100 (2014).</p>
+
+
+
+<p><a href="https://www.thesling.org/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/#_ftnref9">[9]</a>&nbsp;<em>Epic Systems Corp. v. Lewis</em>, 138 S. Ct. 1612, 1632 (2018) (Gorsuch, J.)</p>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"January 9, 2023"}],["$","h1",null,{"children":"As the FTC Hints at Renewed Enforcement of theRobinson-Patman Act, the Usual (Dull) Knives Come Out"}],["$","img",null,{"className":"featured-image","src":"https://www.gawpoe.com/wp-content/uploads/2024/07/mathieu-turle-uJm-hfuCHm4-unsplash.jpg","alt":""}],["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"As the FTC Hints at Renewed Enforcement of theRobinson-Patman Act, the Usual (Dull) Knives Come Out | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"By Mark PoeJanuary 9, 2023 Over the last year, three of the four current FTC Commissioners (one seat is vacant) have indicated an interest in renewed enforcement of the Robinson-Patman Act as a potential means of policin"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/"}],["$","meta","3",{"property":"og:title","content":"As the FTC Hints at Renewed Enforcement of theRobinson-Patman Act, the Usual (Dull) Knives Come Out"}],["$","meta","4",{"property":"og:description","content":"By Mark PoeJanuary 9, 2023 Over the last year, three of the four current FTC Commissioners (one seat is vacant) have indicated an interest in renewed enforcement of the Robinson-Patman Act as a potential means of policin"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/"}],["$","meta","6",{"property":"og:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/mathieu-turle-uJm-hfuCHm4-unsplash.jpg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"As the FTC Hints at Renewed Enforcement of theRobinson-Patman Act, the Usual (Dull) Knives Come Out"}],["$","meta","10",{"name":"twitter:description","content":"By Mark PoeJanuary 9, 2023 Over the last year, three of the four current FTC Commissioners (one seat is vacant) have indicated an interest in renewed enforcement of the Robinson-Patman Act as a potential means of policin"}],["$","meta","11",{"name":"twitter:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/mathieu-turle-uJm-hfuCHm4-unsplash.jpg"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

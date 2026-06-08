@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/_next/static/css/17edfbecd72172ca.css","style"]
+0:{"P":null,"b":"bZbND-OcSap9EooGzw0-Q","p":"","c":["","gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction",""],"i":false,"f":[[["",{"children":[["slug","gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17edfbecd72172ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Tae8,
+<p>Gaw | Poe LLP client Stella Systems Not Enjoined Into Surrendering Its Computer Equipment</p>
+
+
+
+<p>SAN FRANCISCO—November 11, 2014—Gaw | Poe LLP today announced it has prevailed in the U.S. District Court’s decision to deny a motion for a preliminary injunction against client and health care industry software provider Stella Systems, LLC. Stella has filed a breach of a non- solicitation agreement lawsuit against health care analytics company MedeAnalytics, Inc. alleging that the latter has surreptitiously poached its employees over the course of several years while Stella was providing analytics and engineering services to MedeAnalytics. Acting as co- counsel on behalf of Stella Systems is Christopher Wimmer and Greg Demirchyan of Emergent Legal, while MedeAnalytics is represented by Keker &amp; Van Nest LLP. Trial is set for October 15, 2015.</p>
+
+
+
+<p>The order in Stella Systems’ favor was issued by United States Magistrate Judge Laurel Beeler of the U.S. District Court for the Northern District of California. The decision in favor of Stella came on the heels of a last-minute flurry of activity in the case last month, including a 700-page request filed by Keker &amp; Van Nest LLP, asking the court to issue an immediate temporary restraining order that would have essentially shut down Stella’s operations by forcing it to immediately surrender a substantial portion of its computer equipment.</p>
+
+
+
+<p>“We were pleased to see that the court, rather than being steamrolled by the volume of MedeAnalytic’s filing, took the time to really dig into the issues to see that there was no merit in those 700 pages,” said Gaw | Poe LLP partner Mark Poe.</p>
+
+
+
+<p>“MedeAnalytics has clearly attempted to distract the court away from its wrongful conduct towards Stella that engendered this lawsuit. Thankfully, that effort has not had much success thus far,” added Gaw | Poe LLP partner Randolph Gaw. “Even clearer is the message to technology companies that engage in these kind of underhanded, non-competitive tactics: you cannot exploit tricks in the system to intimidate other companies into choosing justice or survival, and you will not get away with this sort of wrongdoing.”</p>
+
+
+
+<p>This motion victory is just the latest win for Gaw | Poe LLP’s legal team. Clients historically represented by firm attorneys—ranging from a Big Three auto manufacturer and a Fortune 500</p>
+
+
+
+<p>homebuilder to publicly traded software developers — have prevailed at trial or on appeal in matters collectively approaching $4 billion.</p>
+
+
+
+<p>The lawsuit is Stella Systems, LLC, et al. v. MedeAnalytics, Inc., No. 3:14-cv-00880. Those interested in learning more about this action or Gaw | Poe LLP’s services may visit http://www.gawpoe.com.</p>
+5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"November 11, 2014"}],["$","h1",null,{"children":"Gaw | Poe LLP, Stella Systems Prevail on MedeAnalytics’ Motion for Preliminary Injunction"}],["$","img",null,{"className":"featured-image","src":"https://www.gawpoe.com/wp-content/uploads/2024/07/austin-distel-744oGeqpxPQ-unsplash.jpg","alt":""}],["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Gaw | Poe LLP, Stella Systems Prevail on MedeAnalytics’ Motion for Preliminary Injunction | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Gaw | Poe LLP client Stella Systems Not Enjoined Into Surrendering Its Computer Equipment SAN FRANCISCO—November 11, 2014—Gaw | Poe LLP today announced it has prevailed in the U.S. District Court’s decision to deny a mot"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction/"}],["$","meta","3",{"property":"og:title","content":"Gaw | Poe LLP, Stella Systems Prevail on MedeAnalytics’ Motion for Preliminary Injunction"}],["$","meta","4",{"property":"og:description","content":"Gaw | Poe LLP client Stella Systems Not Enjoined Into Surrendering Its Computer Equipment SAN FRANCISCO—November 11, 2014—Gaw | Poe LLP today announced it has prevailed in the U.S. District Court’s decision to deny a mot"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction/"}],["$","meta","6",{"property":"og:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/austin-distel-744oGeqpxPQ-unsplash.jpg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Gaw | Poe LLP, Stella Systems Prevail on MedeAnalytics’ Motion for Preliminary Injunction"}],["$","meta","10",{"name":"twitter:description","content":"Gaw | Poe LLP client Stella Systems Not Enjoined Into Surrendering Its Computer Equipment SAN FRANCISCO—November 11, 2014—Gaw | Poe LLP today announced it has prevailed in the U.S. District Court’s decision to deny a mot"}],["$","meta","11",{"name":"twitter:image","content":"https://www.gawpoe.com/wp-content/uploads/2024/07/austin-distel-744oGeqpxPQ-unsplash.jpg"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
