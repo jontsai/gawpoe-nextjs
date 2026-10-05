@@ -45,6 +45,30 @@ Refresh captures anonymous public rendered HTML and styles, crawls internal page
 
 `compare:live` compares anonymous source and preview pages at desktop/mobile widths, recording computed typography, colors, geometry and full-page screenshots. Start the preview first. The fixture in `tests/fixtures/live-style-baseline.json` pins the October 4 source measurements for offline regression checks. Animated ticker/carousel frames can differ across screenshots.
 
+## Shared fragments (DRY authoring)
+
+Edit shared markup once under `src/content/fragments/`:
+
+- `header.html` and `footer.html`: one layout source used by all 131 rendered pages.
+- `about-firm.html`: the complete **About Gaw | Poe LLP** heading/blurb, referenced by 92 pages, including all 91 articles.
+- `latest-press*.html` and `sidebar-contact*.html`: shared sidebar blocks. Named variants preserve source differences; attorney-specific contact information is not replaced with the general firm contact.
+
+The per-page snapshot stores fragment references, unique page bodies and the original active-link/layout bindings. `src/lib/fragments.mjs` expands these during the static build without adding DOM wrappers. Static HTML necessarily repeats the rendered header/footer for independent page loads; the **authoring source does not**. The page snapshot is 56% smaller after extraction. The retained legacy snapshot now contains only the one retired page actually needed.
+
+`npm run import:wp` recaptures the public source and extracts shared fragments. Ordinary `npm run build` renders existing fragments, so a shared-fragment edit propagates to every referencing page. An explicit WordPress refresh can overwrite local fragment edits; review that diff. Source-text hashes are fidelity baselines, so intentional content changes also require a reviewed update to the expected content contract.
+
+## Exhaustive page review
+
+```sh
+npm run preview
+# Separate terminal; contacts the public source and takes several minutes:
+npm run audit:pages
+```
+
+The audit visits every rendered page at 1440px and 390px widths (262 page/viewport cases), scrolls through images, checks status/runtime errors/image loading, compares full primary content and links against the live source, records computed font/color/position/geometry, and writes paired full-page screenshots with pixel-difference measurements. The retired page is checked locally against its retained snapshot because its former live URL returns 404. Reviews are masked only in screenshot comparisons because they animate; dedicated interaction tests cover the widget. The ticker is frozen only for comparison screenshots; interaction tests verify that it moves normally.
+
+Results and screenshots are in ignored `artifacts/page-audit/`. A reviewed route-by-route summary is kept in `verification/page-audit.md`. The earlier `<main>`-only text test was insufficient for 92 original templates; the current content contract checks the full primary site region and explicitly covers all 91 article bodies.
+
 ## Redirects and hosting
 
 The preview serves captured redirects as HTTP 301s. The export includes `_redirects` path rules for compatible hosts, HTML fallback redirects for attachment paths, and a browser fallback for WordPress query-ID aliases. A static host such as GitHub Pages does **not** automatically apply `_redirects`, nor can static HTML alone issue HTTP 301 query redirects. A production cutover must install/verify the manifest's path and query rules on the selected host before changing DNS. The migration is prepared for review, not deployed.

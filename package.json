@@ -5,7 +5,7 @@
   "description": "Static Next.js migration for Gaw/Poe LLP",
   "scripts": {
     "dev": "next dev",
-    "import:wp": "node scripts/capture-live-site.mjs",
+    "import:wp": "node scripts/capture-live-site.mjs && node scripts/extract-fragments.mjs",
     "sync:sitemap": "node scripts/sync-wp-sitemap.mjs",
     "build": "next build && node scripts/write-redirects.mjs && node scripts/sync-export-to-docs.mjs && npm run check:coverage",
     "check:coverage": "node scripts/check-content-coverage.mjs",
@@ -13,12 +13,13 @@
     "lint": "eslint src --ext .ts,.tsx",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "refresh:content": "npm run sync:sitemap && node scripts/capture-media.mjs && node scripts/capture-live-site.mjs",
+    "refresh:content": "npm run sync:sitemap && node scripts/capture-media.mjs && npm run import:wp",
     "test": "node --test tests/*.test.mjs",
     "test:browser": "playwright test",
     "typecheck": "tsc --noEmit",
     "preview": "node scripts/preview.mjs",
-    "compare:live": "node scripts/compare-live.mjs"
+    "compare:live": "node scripts/compare-live.mjs",
+    "audit:pages": "node scripts/audit-pages.mjs"
   },
   "dependencies": {
     "@hacktoolkit/nextjs-htk": "^0.2.0",
@@ -36,6 +37,7 @@
     "eslint": "^8.57.0",
     "eslint-config-next": "^15.5.14",
     "prettier": "^3.5.3",
+    "sharp": "^0.35.5",
     "typescript": "^5.8.2"
   },
   "engines": {

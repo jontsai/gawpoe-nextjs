@@ -1,11 +1,26 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { readFileSync, existsSync } from "node:fs";
+import { primaryContract } from "../scripts/content-contract.mjs";
+import { renderPageHtml } from "../src/lib/fragments.mjs";
+import { readFileSync, existsSync, readdirSync } from "node:fs";
 import path from "node:path";
 import { load } from "cheerio";
 const capture = JSON.parse(
   readFileSync("src/content/generated/live-site.json", "utf8"),
 );
+const fragments = Object.fromEntries(
+  readdirSync("src/content/fragments")
+    .filter((f) => f.endsWith(".html"))
+    .map((f) => [
+      f.slice(0, -5),
+      readFileSync("src/content/fragments/" + f, "utf8"),
+    ]),
+);
+const sourcePages = capture.pages;
+capture.pages = capture.pages.map((page) => ({
+  ...page,
+  html: renderPageHtml(page, fragments),
+}));
 const original = JSON.parse(
   readFileSync("tests/fixtures/legacy-routes.json", "utf8"),
 );
@@ -27,12 +42,12 @@ test("every crawled live route, live sitemap route and original snapshot route e
     );
   }
 });
-test("complete original main content and links survive on every captured page", () => {
+test("complete original content and links survive, including templates without main", () => {
   for (const page of capture.pages) {
     const $ = load(readFileSync(filename(page.path), "utf8"));
     assert.equal(
-      normalize($("main").text()),
-      page.sourceText,
+      primaryContract($).sourceTextHash,
+      page.sourceTextHash,
       page.path + " text",
     );
     assert.equal($("title").text(), page.title, page.path + " title");
@@ -42,9 +57,7 @@ test("complete original main content and links survive on every captured page", 
         ? u.pathname + u.search + u.hash
         : u.href;
     };
-    const actual = $("main a[href]")
-      .map((_, e) => normalizeLink($(e).attr("href")))
-      .get();
+    const actual = primaryContract($).sourceLinks.map(normalizeLink);
     for (const href of page.sourceLinks) {
       const expected = normalizeLink(href);
       assert.ok(
@@ -101,7 +114,7 @@ test("all discovered archive pagination pages are included, not just sitemap ent
   assert.equal(pagination.length, 16);
   for (const page of pagination) {
     assert.ok(existsSync(filename(page.path)));
-    assert.ok(page.sourceText.length > 100);
+    assert.ok(page.sourceTextLength > 100);
   }
 });
 
@@ -128,6 +141,34 @@ test("entire public media library and responsive sizes are mirrored at original 
     assert.ok(
       readFileSync("out/_redirects", "utf8").includes(`${from} ${to} 301`),
       from,
+    );
+  }
+});
+
+test("shared layout and firm blurb have one source fragment, with content on every applicable page", () => {
+  assert.equal(capture.fragmentUsage.header, 131);
+  assert.equal(capture.fragmentUsage.footer, 131);
+  assert.equal(capture.fragmentUsage["about-firm"], 92);
+  for (const page of sourcePages) {
+    assert.ok(page.html.includes("<!--fragment:header-->"));
+    assert.ok(page.html.includes("<!--fragment:footer-->"));
+    assert.ok(!page.html.includes("blk-about-gaw-poe"));
+  }
+  assert.equal(
+    Object.keys(fragments).filter((k) => k === "about-firm").length,
+    1,
+  );
+  const articles = capture.pages.filter(
+    (p) => /\bpostid-/.test(p.bodyClass) && !p.path.startsWith("/attachment/"),
+  );
+  assert.equal(articles.length, 91);
+  for (const article of articles) {
+    assert.ok(article.sourceTextLength > 100, article.path);
+    const $ = load(readFileSync(filename(article.path), "utf8"));
+    assert.equal($(".blk-about-gaw-poe").length, 1);
+    assert.ok(
+      $(".wp-block-post-content").text().trim().length > 30,
+      article.path,
     );
   }
 });

@@ -19,3 +19,11 @@ Capture rendered public page markup and CSS in source order, mirror assets at or
 ## Review evidence
 
 131 rendered pages (including the query-only attachment), 166 attachment permalink redirects and 757 media-library file URLs; all 108 baseline URLs covered. Ten live/preview desktop/mobile comparisons have matching recorded typography, colors and geometry. Offline regression, interaction and route/media tests run in PR CI.
+
+## Expanded acceptance from review
+
+- One editable header, footer and About firm source fragment; no N copied authoring blocks.
+- Shared sidebar fragments where source blocks match, retaining genuine variants.
+- All 131 pages visited at both desktop and mobile widths with route-by-route evidence.
+- Full original text/link checks for article templates without a main tag.
+- Header position checked in browser regression, not just its dimensions.

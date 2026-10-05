@@ -21,3 +21,9 @@ The expanded crawl found 129 live content/archive pages plus one retired baselin
 ## Release boundary
 
 No merge, deployment, DNS change or live WordPress edit. At a separately approved production cutover, configure HTTP path/query redirects from the captured manifest and verify on the actual host. HTML/browser fallback navigation is not equivalent to an HTTP 301. Existing source layout quirks are retained instead of silently redesigned.
+
+## Follow-up: exhaustive review and shared fragments
+
+Jonathan requested a walkthrough of every page and DRY shared header/footer/About content. Extract a single header and footer with per-page active-link/layout bindings, a single About firm fragment across 92 pages, and shared sidebar blocks with explicit source-specific variants. Keep unique article content and attorney contact details distinct. Do not add wrapper elements that alter WordPress layout selectors. Ordinary builds expand source fragments; public refresh explicitly regenerates them.
+
+The exhaustive review exposed a `<main>`-only test gap (92 source templates have no main element) and a skip-link insertion that shifted the absolute header down. Replace the text contract with complete primary-region hashes/links from anonymous originals and place the skip link before the site root as WordPress does. Verify every page at desktop/mobile widths with full screenshots and element positions, not just typography and box sizes.

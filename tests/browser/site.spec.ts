@@ -14,6 +14,7 @@ for (const viewport of [
       "/kristin-menon/",
       "/business-litigation/",
       "/about/",
+      "/3d-printing-company-plans-to-challenge-arbitrators-11-million-award/",
       "/press/",
       "/contact-us/",
       "/category/uncategorized/page/9/",
@@ -23,7 +24,12 @@ for (const viewport of [
         page.on("pageerror", (e) => errors.push(e.message));
         await page.goto(path);
         await page.evaluate(() => document.fonts.ready);
-        await expect(page.locator("main")).toBeVisible();
+        await expect(page.locator(".wp-site-blocks")).toBeVisible();
+        expect(
+          await page
+            .locator("header")
+            .evaluate((e) => Math.round(e.getBoundingClientRect().y)),
+        ).toBe(0);
         expect(
           await page.evaluate(() => getComputedStyle(document.body).fontFamily),
         ).toBe('"Open Sans", sans-serif');

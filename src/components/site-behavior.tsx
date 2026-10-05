@@ -80,7 +80,7 @@ export function SiteBehavior({ bodyClass }: { bodyClass: string }) {
       a.className = "skip-link screen-reader-text";
       a.href = "#" + main.id;
       a.textContent = "Skip to content";
-      document.querySelector(".wp-site-blocks")?.prepend(a);
+      document.querySelector(".wp-site-blocks")?.before(a);
       cleanups.push(() => a.remove());
     }
     return () => cleanups.forEach((fn) => fn());
