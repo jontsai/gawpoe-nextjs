@@ -24,3 +24,8 @@ if (missing.length > 0) {
 }
 
 console.log(`Verified ${routes.length} WordPress sitemap routes in docs/.`);
+
+const { checkSitemapParity } = await import("./check-sitemap-parity.mjs");
+console.log(
+  `Verified exact sitemap parity: ${checkSitemapParity()} URLs, zero missing or extra.`,
+);

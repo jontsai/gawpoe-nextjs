@@ -125,7 +125,7 @@ test("entire public media library and responsive sizes are mirrored at original 
   );
   const urls = [...new Set(catalog.flatMap((x) => [x.source, ...x.variants]))];
   assert.equal(catalog.length, 167);
-  assert.equal(urls.length, 757);
+  assert.equal(urls.length, 762);
   for (const url of urls)
     assert.ok(
       existsSync(path.join("out", decodeURIComponent(new URL(url).pathname))),

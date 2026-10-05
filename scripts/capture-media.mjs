@@ -15,9 +15,12 @@ const catalog = all.map((p) => ({
   id: p.id,
   link: p.link,
   source: p.source_url,
-  variants: Object.values(p.media_details?.sizes || {})
-    .map((x) => x.source_url)
-    .filter(Boolean),
+  variants: [
+    ...Object.values(p.media_details?.sizes || {}).map((x) => x.source_url),
+    ...(p.media_details?.original_image
+      ? [new URL(p.media_details.original_image, p.source_url).href]
+      : []),
+  ].filter(Boolean),
 }));
 const redirects = {},
   attachmentPages = [],

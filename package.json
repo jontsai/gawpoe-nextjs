@@ -19,7 +19,9 @@
     "typecheck": "tsc --noEmit",
     "preview": "node scripts/preview.mjs",
     "compare:live": "node scripts/compare-live.mjs",
-    "audit:pages": "node scripts/audit-pages.mjs"
+    "audit:pages": "node scripts/audit-pages.mjs",
+    "audit:media": "node scripts/audit-media.mjs",
+    "audit:sitemaps": "node scripts/audit-sitemaps.mjs"
   },
   "dependencies": {
     "@hacktoolkit/nextjs-htk": "^0.2.0",

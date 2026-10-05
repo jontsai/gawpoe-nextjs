@@ -26,7 +26,7 @@ For a persistent review session, run the preview and your tunnel in separate tmu
 - All 108 original snapshot URLs remain available.
 - 113 live sitemap URLs, plus 16 linked archive-pagination pages: 129 live HTML pages.
 - The retired `/christopher-wimmer1/` baseline body is retained in the current theme shell (the live source now returns 404), for 130 content pages. One additional query-only attachment page is preserved at `/attachment/1344/`, with its original `/?attachment_id=1344` alias, for 131 rendered pages total.
-- The full public media catalog: 167 entries, 757 original/resized file URLs, preserved at original upload paths.
+- The full public media catalog: 167 entries, 762 original/resized file URLs, preserved at original upload paths.
 - 166 attachment permalinks retain their original redirect destinations. Legacy page/post/media query-ID aliases are captured in `public/legacy-redirects.json`.
 - All six RSS feed URLs advertised by the original site, page-specific feed-discovery links, and original browser/Apple-touch icons are preserved.
 - Original sitemap-family URLs, canonical page URLs, full primary text and source links are checked.
@@ -85,3 +85,9 @@ RSS documents are exported at each original `/.../feed/` route as `index.html` (
 Tests cover every preserved route, full primary-text/link fidelity, local asset/font resolution, the entire media catalog, attachment redirects, archive pagination, original desktop/mobile style measurements, mobile menu, moving ticker and reviews controls. CI validates the PR; it does not deploy. Source site, domain and production remain untouched.
 
 Next.js is updated within 15.x and PostCSS is overridden to a patched compatible 8.x version. Production dependency audit is clean; the ESLint development dependency chain retains the upstream braces advisory. Do not apply automatic major-version downgrades from audit suggestions.
+
+## Exact sitemap and image-source audits
+
+The generated `/sitemap.xml` and preserved WordPress sitemap family contain exactly the same **113 published source URLs**. The broader **131 rendered routes** remain served; archive pagination, the retained retired profile, and the query-only attachment are not additional sitemap entries. Build-time checks reject missing **or extra** sitemap entries.
+
+After building, run `npm run audit:sitemaps` and `npm run audit:media` for fresh public-source comparisons. The media audit covers 762 library files plus theme/review images (788 assets total), verifies source/public/export SHA-256 equality, and fully decodes raster images. Ordinary offline tests enforce the verified media hashes. See [sitemap/image review](verification/sitemap-and-media-review.md) and [permanent dev-site plan](verification/dev-host-plan.md). RSS remains optional; existing captured feeds are preserved without further feature work.
