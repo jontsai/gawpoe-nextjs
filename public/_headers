@@ -1,0 +1,53 @@
+/feed/
+  Content-Type: application/rss+xml; charset=utf-8
+
+/feed/index.xml
+  Content-Type: application/rss+xml; charset=utf-8
+
+/feed/index.html
+  Content-Type: application/rss+xml; charset=utf-8
+
+/comments/feed/
+  Content-Type: application/rss+xml; charset=utf-8
+
+/comments/feed/index.xml
+  Content-Type: application/rss+xml; charset=utf-8
+
+/comments/feed/index.html
+  Content-Type: application/rss+xml; charset=utf-8
+
+/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/feed/
+  Content-Type: application/rss+xml; charset=utf-8
+
+/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/feed/index.xml
+  Content-Type: application/rss+xml; charset=utf-8
+
+/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/feed/index.html
+  Content-Type: application/rss+xml; charset=utf-8
+
+/author/jgreenwalt/feed/
+  Content-Type: application/rss+xml; charset=utf-8
+
+/author/jgreenwalt/feed/index.xml
+  Content-Type: application/rss+xml; charset=utf-8
+
+/author/jgreenwalt/feed/index.html
+  Content-Type: application/rss+xml; charset=utf-8
+
+/author/nick/feed/
+  Content-Type: application/rss+xml; charset=utf-8
+
+/author/nick/feed/index.xml
+  Content-Type: application/rss+xml; charset=utf-8
+
+/author/nick/feed/index.html
+  Content-Type: application/rss+xml; charset=utf-8
+
+/category/uncategorized/feed/
+  Content-Type: application/rss+xml; charset=utf-8
+
+/category/uncategorized/feed/index.xml
+  Content-Type: application/rss+xml; charset=utf-8
+
+/category/uncategorized/feed/index.html
+  Content-Type: application/rss+xml; charset=utf-8

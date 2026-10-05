@@ -15,6 +15,10 @@ const types = {
   ".pdf": "application/pdf",
   ".xml": "application/xml",
   ".txt": "text/plain",
+  ".woff": "font/woff",
+  ".woff2": "font/woff2",
+  ".ttf": "font/ttf",
+  ".ico": "image/x-icon",
 };
 http
   .createServer(async (req, res) => {
@@ -52,8 +56,18 @@ http
       if (!file.startsWith(root + path.sep) && file !== root) throw Error();
       if ((await stat(file)).isDirectory())
         file = path.join(file, "index.html");
+      const feedManifest = JSON.parse(
+        await readFile(path.join(root, "feed-manifest.json"), "utf8").catch(
+          () => '{"feeds":[]}',
+        ),
+      );
+      const feed = feedManifest.feeds.find((item) =>
+        [item.path, item.file, item.path + "index.html"].includes(url.pathname),
+      );
       res.writeHead(200, {
-        "Content-Type": types[path.extname(file)] || "application/octet-stream",
+        "Content-Type": feed
+          ? "application/rss+xml; charset=utf-8"
+          : types[path.extname(file)] || "application/octet-stream",
         "X-Robots-Tag": "noindex, nofollow",
       });
       res.end(await readFile(file));

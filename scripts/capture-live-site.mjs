@@ -1,4 +1,12 @@
-import { mkdir, readFile, writeFile, access } from "node:fs/promises";
+import { validateCapture } from "./capture-validation.mjs";
+import {
+  mkdir,
+  readFile,
+  writeFile,
+  access,
+  readdir,
+  rename,
+} from "node:fs/promises";
 import path from "node:path";
 import { createHash } from "node:crypto";
 import { load } from "cheerio";
@@ -274,13 +282,25 @@ for (const row of missing.filter(
     sourceLinks: [],
   });
 }
+validateCapture({
+  pages,
+  requiredPaths: [
+    ...sitemap.routes.map((p) => p.path),
+    ...legacy,
+    ...Object.values(mediaCapture.queryPages || {}),
+  ],
+  missing,
+  redirects,
+});
 const payload = {
   capturedAt: new Date().toISOString(),
   source: origin,
   pages: pages.sort((a, b) => a.path.localeCompare(b.path)),
   redirects,
   missing,
-  assets: Object.fromEntries(assets),
+  assets: Object.fromEntries(
+    [...assets].sort(([a], [b]) => a.localeCompare(b)),
+  ),
 };
 await writeFile(
   "src/content/generated/live-site.json",
@@ -322,6 +342,17 @@ await writeFile(
     2,
   ) + "\n",
 );
+// Archive obsolete generated CSS only after the complete capture has been saved.
+// This prevents repeated refreshes accumulating duplicate, unreferenced exports.
+const referencedCss = new Set(pages.map((page) => path.basename(page.cssPath)));
+await mkdir("artifacts/retired-site-css", { recursive: true });
+for (const file of await readdir("public/site-css")) {
+  if (/^[a-f0-9]{16}\.css$/.test(file) && !referencedCss.has(file))
+    await rename(
+      path.join("public/site-css", file),
+      path.join("artifacts/retired-site-css", file),
+    );
+}
 console.log(
   JSON.stringify({
     pages: pages.length,

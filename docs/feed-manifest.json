@@ -1,0 +1,53 @@
+{
+  "capturedAt": "2026-10-05T04:07:30.539Z",
+  "feeds": [
+    {
+      "path": "/feed/",
+      "title": "Gaw Poe » Feed",
+      "type": "application/rss+xml",
+      "file": "/feed/index.xml",
+      "sha256": "64fc2cd315ee80b9a067c978228d107d5c113d5abe083ddd6cefbcdd1bc86c19",
+      "items": 10
+    },
+    {
+      "path": "/comments/feed/",
+      "title": "Gaw Poe » Comments Feed",
+      "type": "application/rss+xml",
+      "file": "/comments/feed/index.xml",
+      "sha256": "0ad68a9dd50ac367feb2cffddaf92acda1cd8aa3a7159b8aca56f468c255dfb5",
+      "items": 0
+    },
+    {
+      "path": "/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/feed/",
+      "title": "Gaw Poe » 9th Circ. Won’t Rehear Eye Drop Antitrust Suit Despite Dissent Comments Feed",
+      "type": "application/rss+xml",
+      "file": "/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/feed/index.xml",
+      "sha256": "79e3ef918efa0b9fd0983b1d2c4e82f551b6edfb09e45144db99ad12adfb33d0",
+      "items": 0
+    },
+    {
+      "path": "/author/jgreenwalt/feed/",
+      "title": "Gaw Poe » Posts by JGREENWALT Feed",
+      "type": "application/rss+xml",
+      "file": "/author/jgreenwalt/feed/index.xml",
+      "sha256": "3a86418af609f6f11603844bfd28e763be8febfed6bf7306dca6da6f84ea98b3",
+      "items": 10
+    },
+    {
+      "path": "/author/nick/feed/",
+      "title": "Gaw Poe » Posts by Nick Riseman Feed",
+      "type": "application/rss+xml",
+      "file": "/author/nick/feed/index.xml",
+      "sha256": "de24b40e3cdf7581b160ffd02d2dd324cf1627e326a68da288571a9e16cdfb93",
+      "items": 10
+    },
+    {
+      "path": "/category/uncategorized/feed/",
+      "title": "Gaw Poe » Uncategorized Category Feed",
+      "type": "application/rss+xml",
+      "file": "/category/uncategorized/feed/index.xml",
+      "sha256": "78ad5ff4d55a6cfeb13a7a1feb8b5cddcc344fec091f4bd740e2333e1128a9c7",
+      "items": 10
+    }
+  ]
+}

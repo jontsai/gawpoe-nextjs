@@ -178,3 +178,42 @@ test("desktop/mobile typography, palette and hero geometry match the anonymous l
     }
   }
 });
+
+test("all six legacy feed endpoints return RSS XML with the correct MIME type", async ({
+  request,
+}) => {
+  const { readFileSync } = await import("node:fs");
+  const manifest = JSON.parse(
+    readFileSync("public/feed-manifest.json", "utf8"),
+  );
+  for (const feed of manifest.feeds) {
+    for (const route of [feed.path, feed.file]) {
+      const response = await request.get(route);
+      expect(response.status(), route).toBe(200);
+      expect(response.headers()["content-type"]).toContain(
+        "application/rss+xml",
+      );
+      expect(await response.text()).toBe(
+        readFileSync("public" + feed.file, "utf8"),
+      );
+    }
+  }
+});
+
+test("mobile menu keeps keyboard focus inside until Escape restores the opener", async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/team/", { waitUntil: "networkidle" });
+  const open = page.getByRole("button", { name: "Open menu", exact: true });
+  await open.click();
+  const close = page.getByRole("button", { name: "Close menu", exact: true });
+  await expect(close).toBeFocused();
+  await page.keyboard.press("Shift+Tab");
+  const phone = page.locator("nav .phone-number a");
+  await expect(phone).toBeFocused();
+  await page.keyboard.press("Tab");
+  await expect(close).toBeFocused();
+  await page.keyboard.press("Escape");
+  await expect(open).toBeFocused();
+});

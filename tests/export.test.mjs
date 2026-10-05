@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { primaryContract } from "../scripts/content-contract.mjs";
@@ -169,6 +170,59 @@ test("shared layout and firm blurb have one source fragment, with content on eve
     assert.ok(
       $(".wp-block-post-content").text().trim().length > 30,
       article.path,
+    );
+  }
+});
+
+test("original feed-discovery links and local browser/touch icons survive every page head", () => {
+  const head = JSON.parse(readFileSync("src/data/head-metadata.json", "utf8"));
+  for (const page of capture.pages) {
+    const $ = load(readFileSync(filename(page.path), "utf8"));
+    for (const id of head.pageFeeds[page.path]) {
+      const feed = head.feeds[id];
+      assert.equal(
+        $(`head link[rel=alternate][href="${feed.path}"]`).attr("type"),
+        feed.type,
+        page.path,
+      );
+    }
+    for (const meta of head.meta)
+      assert.equal(
+        $(`head meta[name="${meta.name}"]`).attr("content"),
+        meta.content,
+        page.path,
+      );
+    for (const icon of head.icons) {
+      assert.equal(
+        $(`head link[rel="${icon.rel}"][href="${icon.url}"]`).length,
+        1,
+        page.path,
+      );
+      assert.ok(existsSync("out" + icon.url));
+    }
+  }
+});
+
+test("all advertised public RSS feeds are preserved as complete XML documents with host MIME rules", () => {
+  const manifest = JSON.parse(
+    readFileSync("public/feed-manifest.json", "utf8"),
+  );
+  assert.equal(manifest.feeds.length, 6);
+  for (const feed of manifest.feeds) {
+    const xml = readFileSync("out" + feed.file, "utf8");
+    assert.equal(
+      createHash("sha256").update(xml).digest("hex"),
+      feed.sha256,
+      feed.path,
+    );
+    const $ = load(xml, { xml: true });
+    assert.equal($("rss > channel").length, 1);
+    assert.equal($("channel > item").length, feed.items);
+    assert.equal(readFileSync("out" + feed.path + "index.html", "utf8"), xml);
+    assert.ok(
+      readFileSync("out/_headers", "utf8").includes(
+        feed.path + "\n  Content-Type: application/rss+xml",
+      ),
     );
   }
 });
