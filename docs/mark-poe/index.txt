@@ -1,88 +1,24 @@
 1:"$Sreact.fragment"
-2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+2:I[6560,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-453d92cc9b03c835.js"],"Header"]
 3:I[9766,[],""]
 4:I[8924,[],""]
-6:I[4431,[],"OutletBoundary"]
-8:I[5278,[],"AsyncMetadataOutlet"]
-a:I[4431,[],"ViewportBoundary"]
-c:I[4431,[],"MetadataBoundary"]
-d:"$Sreact.suspense"
-f:I[7150,[],""]
-:HL["/_next/static/css/c7da85360d950d40.css","style"]
-0:{"P":null,"b":"Zhhs9Z_SYpJCTVIQR5uNg","p":"","c":["","mark-poe",""],"i":false,"f":[[["",{"children":[["slug","mark-poe","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c7da85360d950d40.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","mark-poe","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
-10:T3077,
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","48","static/chunks/app/%5B...slug%5D/page-3c2369e84f739497.js"],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/433516aa2901fe80.css","style"]
+0:{"P":null,"b":"GTa2kGqBhyYTCUH85TIrV","p":"","c":["","mark-poe",""],"i":false,"f":[[["",{"children":[["slug","mark-poe","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/433516aa2901fe80.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L5",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","section",null,{"className":"contact-band","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Let’s talk"}],["$","h2",null,{"children":["Consequential matters.",["$","br",null,{}],"Personal attention."]}]]}],["$","$L5",null,{"className":"button light","href":"/contact-us/","children":["Get in touch ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","$L5",null,{"href":"/","className":"footer-brand","children":["GAW ",["$","span",null,{"children":"|"}]," POE ",["$","small",null,{"children":"LLP"}]]}],["$","p",null,{"children":["Trial & appellate counsel.",["$","br",null,{}],"San Francisco, California."]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Explore"}],["$","$L5",null,{"href":"/practice-areas/","children":"Practice Areas"}],["$","$L5",null,{"href":"/team/","children":"Our Team"}],["$","$L5",null,{"href":"/about/","children":"Our Story"}],["$","$L5",null,{"href":"/press/","children":"Press"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Contact"}],["$","a",null,{"href":"tel:+14157667451","children":"415.766.7451"}],["$","a",null,{"href":"mailto:contact@gawpoe.com","children":"contact@gawpoe.com"}],["$","p",null,{"children":["One Embarcadero, Suite 1200",["$","br",null,{}],"San Francisco, CA 94111"]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," Gaw | Poe LLP"]}],["$","span",null,{"children":"San Francisco, California"}]]}]]}]]}]}]]}],{"children":[["slug","mark-poe","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T1d0b,
 <div class="wp-block-columns alignwide team-pg-content is-layout-flex wp-container-core-columns-is-layout-45 wp-block-columns-is-layout-flex">
-<div class="wp-block-column sidebar is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="657" height="1024" src="https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-mark-poe-657x1024.jpg" alt="" class="wp-image-1144" srcset="https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-mark-poe-657x1024.jpg 657w, https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-mark-poe-193x300.jpg 193w, https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-mark-poe-768x1196.jpg 768w, https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-mark-poe.jpg 922w" sizes="(max-width: 657px) 100vw, 657px" /></figure>
 
 
 
-<div class="wp-block-group nav-contents has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<h4 class="wp-block-heading">Contents</h4>
 
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 
-
-<ul class="wp-block-list">
-<li><a href="#summary">Summary</a></li>
-
-
-
-<li><a href="#credentials">Credentials</a></li>
-
-
-
-<li><a href="#rep">Representative Engagements</a></li>
-</ul>
-</div>
-
-
-
-<div class="wp-block-group blk-contact has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<h4 class="wp-block-heading h-standard">Contact</h4>
-
-
-
-<p class="contact-point phone"><strong>P</strong> +1 415-881-8216</p>
-
-
-
-<p class="contact-point fax"><strong>F</strong> +1 415-737-0642</p>
-
-
-
-<p class="contact-point email"><strong>E</strong> mpoe@gawpoe.com</p>
-
-
-
-<div class="wp-block-group social has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<p class="ic li"><a href="https://www.linkedin.com/company/gaw-poe-llp/" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
-
-
-
-<p class="ic fb"><a href="https://www.facebook.com/profile.php?id=61560638781599" target="_blank" rel="noreferrer noopener">Facebook</a></p>
-</div>
-
-
-
-<p class="address">One Embarcadero<br>Suite 1200<br>San Francisco, CA 94111</p>
-</div>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
-<div class="team-bio-header" style="display:flex;align-items:flex-start;justify-content:space-between;gap:2rem;margin-bottom:3rem;flex-wrap:wrap;">
-  <div class="team-bio-heading" style="min-width:0;">
-    <h2 class="wp-block-heading h-standard dlrg">Mark Poe</h2>
-    <div class="wp-block-group is-nowrap is-layout-flex" style="display:flex;align-items:center;gap:1.2rem;flex-wrap:nowrap;">
-      <h3 class="wp-block-heading team-title">Co-Founder</h3>
-      <div class="wp-block-buttons"><div class="wp-block-button ic li"><a class="wp-block-button__link wp-element-button" href="https://www.linkedin.com/in/mark-poe-83713a24/" target="_blank" rel="noreferrer noopener"></a></div></div>
-    </div>
-  </div>
-  <div class="chambers-badge" style="flex:0 0 185px;text-align:right;margin-top:31.75px;">
-    <a href="https://chambers.com/lawyer/mark-poe-5:27741633" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="185" height="155" style="width:100%;height:auto;max-width:185px;" src="https://cms.chambers.com/Logo/4/1262/23824568/27741633/large" alt="Poe, Mark" /></a>
-  </div>
-</div>
 
 
 
@@ -94,7 +30,7 @@ f:I[7150,[],""]
 
 
 
-<p>Mr. Poe is recognized as one of the leading practitioners of the federal antitrust law known as the Robinson-Patman Act, which prohibits manufacturers from engaging in price discrimination on commodities. He is regularly invited to give presentations on this topic, including to the Federal Trade Commission. Mr. Poe is a Chambers &amp; Partners Band 3-ranked lawyer in its USA Legal Guide. Mr. Poe has also been recognized as a Super Lawyer™ for Northern California for 2020-25 by Super Lawyers magazine.</p>
+<p>Mr. Poe is recognized as one of the leading practitioners of the federal antitrust law known as the Robinson-Patman Act, which prohibits manufacturers from engaging in price discrimination on commodities. He is regularly invited to give presentations on this topic, including to the Federal Trade Commission. Mr. Poe is a Chambers &amp; Partners Band 3-ranked lawyer in its USA Legal Guide. Mr. Poe has also been recognized as a Super Lawyer™ for Northern California for 2020-26 by Super Lawyers magazine.</p>
 
 
 
@@ -112,7 +48,7 @@ f:I[7150,[],""]
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-41 wp-block-columns-is-layout-flex">
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="280" height="86" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-utah-state-university.png" alt="Utah State University Logo" class="wp-image-193" style="width:185px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="280" height="86" src="/media/9d7d6d7e401f-logo-utah-state-university.png" alt="Utah State University Logo" class="wp-image-193"></figure>
 
 
 
@@ -122,7 +58,7 @@ f:I[7150,[],""]
 
 
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="440" height="156" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-stanford-law-school.png" alt="" class="wp-image-14" style="width:185px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-stanford-law-school.png 440w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-stanford-law-school-300x106.png 300w" sizes="(max-width: 440px) 100vw, 440px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="440" height="156" src="/media/fb8f1553a3dc-logo-stanford-law-school.png" alt="" class="wp-image-14"></figure>
 
 
 
@@ -132,7 +68,7 @@ f:I[7150,[],""]
 
 
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="440" height="114" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-stanford-law-review.png" alt="Stanford Law Review Logo" class="wp-image-191" style="width:185px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-stanford-law-review.png 440w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-stanford-law-review-300x78.png 300w" sizes="(max-width: 440px) 100vw, 440px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="440" height="114" src="/media/6aba9f466ee9-logo-stanford-law-review.png" alt="Stanford Law Review Logo" class="wp-image-191"></figure>
 
 
 
@@ -144,7 +80,7 @@ f:I[7150,[],""]
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-42 wp-block-columns-is-layout-flex">
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="420" height="82" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-fulbright.png" alt="Fulbright Logo" class="wp-image-190" style="width:192px;height:auto" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-fulbright.png 420w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-fulbright-300x59.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="420" height="82" src="/media/f5709a359662-logo-fulbright.png" alt="Fulbright Logo" class="wp-image-190"></figure>
 
 
 
@@ -160,7 +96,7 @@ f:I[7150,[],""]
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-43 wp-block-columns-is-layout-flex">
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="166" height="166" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit.png" alt="US Courts Ninth Circuit Emblem Logo" class="wp-image-192" style="width:106px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit.png 166w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit-150x150.png 150w" sizes="(max-width: 166px) 100vw, 166px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="166" height="166" src="/media/7ccf98d126dc-logo-us-ninth-judicial-circuit.png" alt="US Courts Ninth Circuit Emblem Logo" class="wp-image-192"></figure>
 
 
 
@@ -170,7 +106,7 @@ f:I[7150,[],""]
 
 
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="166" height="166" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-district-court-n-california.png" alt="US District Court Northern District of California Emblem Logo" class="wp-image-188" style="width:106px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-district-court-n-california.png 166w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-district-court-n-california-150x150.png 150w" sizes="(max-width: 166px) 100vw, 166px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="166" height="166" src="/media/267087f4355b-logo-us-district-court-n-california.png" alt="US District Court Northern District of California Emblem Logo" class="wp-image-188"></figure>
 
 
 
@@ -180,7 +116,7 @@ f:I[7150,[],""]
 
 
 <div class="wp-block-column is-vertically-aligned-top org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="602" height="87" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-super-lawyers.png" alt="" class="wp-image-15" style="width:185px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-super-lawyers.png 602w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-super-lawyers-300x43.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="602" height="87" src="/media/b6de5dc78a00-logo-super-lawyers.png" alt="" class="wp-image-15"></figure>
 
 
 
@@ -192,7 +128,7 @@ f:I[7150,[],""]
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-44 wp-block-columns-is-layout-flex">
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="170" height="104" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-abtl.png" alt="American Business Trial Lawyers Logo" class="wp-image-189" style="width:130px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="170" height="104" src="/media/8c2a2644c785-logo-abtl.png" alt="American Business Trial Lawyers Logo" class="wp-image-189"></figure>
 
 
 
@@ -224,11 +160,11 @@ f:I[7150,[],""]
 
 
 
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
 </div>
 </div>
-5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"Mark Poe"}],null,["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
-b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-7:null
-9:{"metadata":[["$","title","0",{"children":"Mark Poe | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Contact P +1 415-881-8216 F +1 415-737-0642 E mpoe@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Mark Poe Co-Founder Summary Mark Poe co-founded Gaw | Poe LLP and has been practicing law s"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/mark-poe/"}],["$","meta","3",{"property":"og:title","content":"Mark Poe"}],["$","meta","4",{"property":"og:description","content":"Contact P +1 415-881-8216 F +1 415-737-0642 E mpoe@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Mark Poe Co-Founder Summary Mark Poe co-founded Gaw | Poe LLP and has been practicing law s"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/mark-poe/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Mark Poe"}],["$","meta","9",{"name":"twitter:description","content":"Contact P +1 415-881-8216 F +1 415-737-0642 E mpoe@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Mark Poe Co-Founder Summary Mark Poe co-founded Gaw | Poe LLP and has been practicing law s"}]],"error":null,"digest":"$undefined"}
-e:"$9:metadata"
+6:[["$","section",null,{"className":"page-heading","children":["$","div",null,{"className":"content-band","children":[["$","$L5",null,{"className":"breadcrumb","href":"/","children":"Home"}],["$","span",null,{"className":"breadcrumb","children":[" ","/"," ","Our Team"]}],["$","p",null,{"className":"eyebrow","children":"Co-Founder"}],["$","h1",null,{"children":"Mark Poe"}]]}]}],["$","section",null,{"className":"content-band article-layout bio-layout","children":[["$","aside",null,{"className":"bio-aside","children":[["$","img",null,{"src":"/media/9b2a21b7f795-hs-mark-poe.png","alt":"MARK POE"}],["$","p",null,{"className":"eyebrow","children":"Co-Founder"}],["$","p",null,{"children":"Stanford Law School, J.D. & Utah State University, B.S."}],["$","$L5",null,{"className":"text-link","href":"/team/","children":"Meet the team ↗"}],["$","div",null,{"className":"bio-links","children":[["$","a","https://www.linkedin.com/in/mark-poe-83713a24/",{"className":"text-link","href":"https://www.linkedin.com/in/mark-poe-83713a24/","children":["LinkedIn"," ↗"]}],["$","a","https://chambers.com/lawyer/mark-poe-5:27741633",{"className":"text-link","href":"https://chambers.com/lawyer/mark-poe-5:27741633","children":["Chambers profile"," ↗"]}]]}]]}],["$","div",null,{"children":["$undefined",["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$11"}}],false]}]]}]]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"Mark Poe | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Contact P +1 415-881-8216 F +1 415-737-0642 E mpoe@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Mark Poe Co-Founder Summary Mark Poe co-founded Gaw | Poe LLP and has been practicing law s"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/mark-poe/"}],["$","meta","3",{"property":"og:title","content":"Mark Poe"}],["$","meta","4",{"property":"og:description","content":"Contact P +1 415-881-8216 F +1 415-737-0642 E mpoe@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Mark Poe Co-Founder Summary Mark Poe co-founded Gaw | Poe LLP and has been practicing law s"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/mark-poe/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Mark Poe"}],["$","meta","9",{"name":"twitter:description","content":"Contact P +1 415-881-8216 F +1 415-737-0642 E mpoe@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Mark Poe Co-Founder Summary Mark Poe co-founded Gaw | Poe LLP and has been practicing law s"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

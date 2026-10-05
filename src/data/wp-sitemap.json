@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T21:42:46.265Z",
+  "generatedAt": "2026-10-05T01:59:25.496Z",
   "source": "https://www.gawpoe.com/wp-sitemap.xml",
   "childSitemaps": [
     "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
@@ -7,7 +7,7 @@
     "https://www.gawpoe.com/wp-sitemap-taxonomies-category-1.xml",
     "https://www.gawpoe.com/wp-sitemap-users-1.xml"
   ],
-  "routeCount": 108,
+  "routeCount": 113,
   "routes": [
     {
       "path": "/",
@@ -62,6 +62,15 @@
       "kindLabel": "News",
       "slug": "9th-circ-urged-to-revive-5-hour-energy-price-bias-suit",
       "title": "9th Circ Urged To Revive 5 Hour Energy Price Bias Suit"
+    },
+    {
+      "path": "/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/",
+      "sourceUrl": "https://www.gawpoe.com/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent",
+      "title": "9th Circ Wont Rehear Eye Drop Antitrust Suit Despite Dissent"
     },
     {
       "path": "/9th-circuit-restores-attorney-fees-slashed-over-firm-size/",
@@ -206,15 +215,6 @@
       "kindLabel": "Page",
       "slug": "christopher-wimmer",
       "title": "Christopher Wimmer"
-    },
-    {
-      "path": "/christopher-wimmer1/",
-      "sourceUrl": "https://www.gawpoe.com/christopher-wimmer1/",
-      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
-      "kind": "page",
-      "kindLabel": "Page",
-      "slug": "christopher-wimmer1",
-      "title": "Christopher Wimmer1"
     },
     {
       "path": "/contact-us/",
@@ -433,6 +433,15 @@
       "title": "Gaw Poe Llp Obtains Class Certification For Adwords Advertisers"
     },
     {
+      "path": "/gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026",
+      "title": "Gaw Poe Llp Obtains Inaugural Rankings In Chambers Usa Legal Guide 2026"
+    },
+    {
       "path": "/gaw-poe-llp-obtains-seven-figure-robinson-patman-act-jury-verdict-against-manufacturer-of-clear-eyes-wins-third-of-three-jury-trials-held-in-2023/",
       "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-obtains-seven-figure-robinson-patman-act-jury-verdict-against-manufacturer-of-clear-eyes-wins-third-of-three-jury-trials-held-in-2023/",
       "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
@@ -530,6 +539,15 @@
       "kindLabel": "News",
       "slug": "gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fourth-straight-year",
       "title": "Gaw Poe Llp Partners Randolph Gaw And Mark Poe Both Selected To List Of Super Lawyers For Fourth Straight Year"
+    },
+    {
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year/",
+      "sourceUrl": "https://www.gawpoe.com/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year",
+      "title": "Gaw Poe Llp Partners Randolph Gaw And Mark Poe Both Selected To List Of Super Lawyers For Sixth Straight Year"
     },
     {
       "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-third-straight-year/",
@@ -757,6 +775,15 @@
       "title": "Khurrams Quorum Podcase"
     },
     {
+      "path": "/kristin-menon/",
+      "sourceUrl": "https://www.gawpoe.com/kristin-menon/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-page-1.xml",
+      "kind": "page",
+      "kindLabel": "Page",
+      "slug": "kristin-menon",
+      "title": "Kristin Menon"
+    },
+    {
       "path": "/la-international-corp-v-prestige-brands-holdings/",
       "sourceUrl": "https://www.gawpoe.com/la-international-corp-v-prestige-brands-holdings/",
       "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
@@ -793,6 +820,15 @@
       "title": "Mark Poe"
     },
     {
+      "path": "/meta-hit-with-textbook-authors-ip-suit-over-ai-training/",
+      "sourceUrl": "https://www.gawpoe.com/meta-hit-with-textbook-authors-ip-suit-over-ai-training/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "meta-hit-with-textbook-authors-ip-suit-over-ai-training",
+      "title": "Meta Hit With Textbook Authors Ip Suit Over Ai Training"
+    },
+    {
       "path": "/ninth-circuit-orders-reinstatement-of-44-million-jury-verdict-against-maker-of-swisher-sweets-cigars/",
       "sourceUrl": "https://www.gawpoe.com/ninth-circuit-orders-reinstatement-of-44-million-jury-verdict-against-maker-of-swisher-sweets-cigars/",
       "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
@@ -818,6 +854,15 @@
       "kindLabel": "News",
       "slug": "okay-for-jury-to-hear-anti-japanese-remarks-at-federal-fraud-trial",
       "title": "Okay For Jury To Hear Anti Japanese Remarks At Federal Fraud Trial"
+    },
+    {
+      "path": "/onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit/",
+      "sourceUrl": "https://www.gawpoe.com/onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit",
+      "title": "Onlyfans Users Ask 9th Circ To Revive Calif Auto Renew Suit"
     },
     {
       "path": "/paul-martin/",

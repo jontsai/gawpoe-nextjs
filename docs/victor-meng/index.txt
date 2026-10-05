@@ -1,87 +1,34 @@
 1:"$Sreact.fragment"
-2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+2:I[6560,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-453d92cc9b03c835.js"],"Header"]
 3:I[9766,[],""]
 4:I[8924,[],""]
-6:I[4431,[],"OutletBoundary"]
-8:I[5278,[],"AsyncMetadataOutlet"]
-a:I[4431,[],"ViewportBoundary"]
-c:I[4431,[],"MetadataBoundary"]
-d:"$Sreact.suspense"
-f:I[7150,[],""]
-:HL["/_next/static/css/c7da85360d950d40.css","style"]
-0:{"P":null,"b":"Zhhs9Z_SYpJCTVIQR5uNg","p":"","c":["","victor-meng",""],"i":false,"f":[[["",{"children":[["slug","victor-meng","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c7da85360d950d40.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","victor-meng","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
-10:T2a63,
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","48","static/chunks/app/%5B...slug%5D/page-3c2369e84f739497.js"],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/433516aa2901fe80.css","style"]
+0:{"P":null,"b":"GTa2kGqBhyYTCUH85TIrV","p":"","c":["","victor-meng",""],"i":false,"f":[[["",{"children":[["slug","victor-meng","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/433516aa2901fe80.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L5",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","section",null,{"className":"contact-band","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Let’s talk"}],["$","h2",null,{"children":["Consequential matters.",["$","br",null,{}],"Personal attention."]}]]}],["$","$L5",null,{"className":"button light","href":"/contact-us/","children":["Get in touch ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","$L5",null,{"href":"/","className":"footer-brand","children":["GAW ",["$","span",null,{"children":"|"}]," POE ",["$","small",null,{"children":"LLP"}]]}],["$","p",null,{"children":["Trial & appellate counsel.",["$","br",null,{}],"San Francisco, California."]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Explore"}],["$","$L5",null,{"href":"/practice-areas/","children":"Practice Areas"}],["$","$L5",null,{"href":"/team/","children":"Our Team"}],["$","$L5",null,{"href":"/about/","children":"Our Story"}],["$","$L5",null,{"href":"/press/","children":"Press"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Contact"}],["$","a",null,{"href":"tel:+14157667451","children":"415.766.7451"}],["$","a",null,{"href":"mailto:contact@gawpoe.com","children":"contact@gawpoe.com"}],["$","p",null,{"children":["One Embarcadero, Suite 1200",["$","br",null,{}],"San Francisco, CA 94111"]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," Gaw | Poe LLP"]}],["$","span",null,{"children":"San Francisco, California"}]]}]]}]]}]}]]}],{"children":[["slug","victor-meng","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T19f1,
 <div class="wp-block-columns alignwide team-pg-content is-layout-flex wp-container-core-columns-is-layout-40 wp-block-columns-is-layout-flex">
-<div class="wp-block-column sidebar is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="657" height="1024" src="https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-victor-meng-657x1024.jpg" alt="" class="wp-image-1146" srcset="https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-victor-meng-657x1024.jpg 657w, https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-victor-meng-193x300.jpg 193w, https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-victor-meng-768x1196.jpg 768w, https://www.gawpoe.com/wp-content/uploads/2024/08/hs-tall-victor-meng.jpg 922w" sizes="(max-width: 657px) 100vw, 657px" /></figure>
 
 
 
-<div class="wp-block-group nav-contents has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<h4 class="wp-block-heading">Contents</h4>
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 
 
 
-<ul class="wp-block-list">
-<li><a href="#summary">Summary</a></li>
 
-
-
-<li><a href="#credentials">Credentials</a></li>
-
-
-
-<li><a href="#rep">Representative Engagements</a></li>
-</ul>
-</div>
-
-
-
-<div class="wp-block-group blk-contact has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<h4 class="wp-block-heading h-standard">Contact</h4>
-
-
-
-<p class="contact-point phone"><strong>P</strong> +1 415-895-0862</p>
-
-
-
-<p class="contact-point fax"><strong>F</strong> +1 415-737-0642</p>
-
-
-
-<p class="contact-point email"><strong>E</strong> vmeng@gawpoe.com</p>
-
-
-
-<div class="wp-block-group social has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<p class="ic li"><a href="https://www.linkedin.com/company/gaw-poe-llp/" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
-
-
-
-<p class="ic fb"><a href="https://www.facebook.com/profile.php?id=61560638781599" target="_blank" rel="noreferrer noopener">Facebook</a></p>
-</div>
-
-
-
-<p class="address">One Embarcadero<br>Suite 1200<br>San Francisco, CA 94111</p>
-</div>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
-<h2 class="wp-block-heading h-standard dlrg">Victor Meng</h2>
-
-
-
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-21 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-20 wp-block-group-is-layout-flex">
 <h3 class="wp-block-heading team-title">Partner</h3>
 
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button ic li"><a class="wp-block-button__link wp-element-button" href="https://www.linkedin.com/in/victormeng/" target="_blank" rel="noreferrer noopener">LinkedIn</a></div>
+<div class="wp-block-button ic li"><a class="wp-block-button__link wp-element-button" href="https://www.linkedin.com/in/victormeng/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
 </div>
 </div>
 
@@ -109,7 +56,7 @@ f:I[7150,[],""]
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-37 wp-block-columns-is-layout-flex">
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="2560" height="514" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-university-of-michigan.png" alt="" class="wp-image-204" style="width:185px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-university-of-michigan.png 2560w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-university-of-michigan-300x60.png 300w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-university-of-michigan-1024x206.png 1024w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-university-of-michigan-768x154.png 768w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-university-of-michigan-1536x308.png 1536w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-university-of-michigan-2048x411.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="2560" height="514" src="/media/555ea6b690a4-logo-university-of-michigan.png" alt="" class="wp-image-204"></figure>
 
 
 
@@ -119,7 +66,7 @@ f:I[7150,[],""]
 
 
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="334" height="86" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-loyola-law-school.png" alt="Loyola Law School Loyola Marymount University LA Logo" class="wp-image-195" style="width:185px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-loyola-law-school.png 334w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-loyola-law-school-300x77.png 300w" sizes="(max-width: 334px) 100vw, 334px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="334" height="86" src="/media/ea5fdb66d2cc-logo-loyola-law-school.png" alt="Loyola Law School Loyola Marymount University LA Logo" class="wp-image-195"></figure>
 
 
 
@@ -129,7 +76,7 @@ f:I[7150,[],""]
 
 
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="334" height="86" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-loyola-law-school.png" alt="Loyola Law School Loyola Marymount University LA Logo" class="wp-image-195" style="width:185px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-loyola-law-school.png 334w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-loyola-law-school-300x77.png 300w" sizes="(max-width: 334px) 100vw, 334px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="334" height="86" src="/media/ea5fdb66d2cc-logo-loyola-law-school.png" alt="Loyola Law School Loyola Marymount University LA Logo" class="wp-image-195"></figure>
 
 
 
@@ -155,7 +102,7 @@ f:I[7150,[],""]
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-39 wp-block-columns-is-layout-flex">
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="166" height="166" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit.png" alt="US Courts Ninth Circuit Emblem Logo" class="wp-image-192" style="width:106px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit.png 166w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit-150x150.png 150w" sizes="(max-width: 166px) 100vw, 166px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="166" height="166" src="/media/7ccf98d126dc-logo-us-ninth-judicial-circuit.png" alt="US Courts Ninth Circuit Emblem Logo" class="wp-image-192"></figure>
 
 
 
@@ -165,7 +112,7 @@ f:I[7150,[],""]
 
 
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="522" height="98" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-bar-association-sf.png" alt="The Bar Association of San Francisco Logo" class="wp-image-183" style="width:185px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-bar-association-sf.png 522w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-bar-association-sf-300x56.png 300w" sizes="(max-width: 522px) 100vw, 522px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="522" height="98" src="/media/c2987a70751a-logo-bar-association-sf.png" alt="The Bar Association of San Francisco Logo" class="wp-image-183"></figure>
 
 
 
@@ -175,7 +122,7 @@ f:I[7150,[],""]
 
 
 <div class="wp-block-column org is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="310" height="56" src="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-asian-american-bar.png" alt="Asian American Bar Association of the Greater Bay Area Logo" class="wp-image-194" style="width:190px" srcset="https://www.gawpoe.com/wp-content/uploads/2024/07/logo-asian-american-bar.png 310w, https://www.gawpoe.com/wp-content/uploads/2024/07/logo-asian-american-bar-300x54.png 300w" sizes="(max-width: 310px) 100vw, 310px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="310" height="56" src="/media/98363a42a1fa-logo-asian-american-bar.png" alt="Asian American Bar Association of the Greater Bay Area Logo" class="wp-image-194"></figure>
 
 
 
@@ -207,11 +154,11 @@ f:I[7150,[],""]
 
 
 
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
 </div>
 </div>
-5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"Victor Meng"}],null,["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
-b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-7:null
-9:{"metadata":[["$","title","0",{"children":"Victor Meng | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Contact P +1 415-895-0862 F +1 415-737-0642 E vmeng@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Victor Meng Partner Summary Victor Meng is a partner at Gaw | Poe LLP and has been with th"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/victor-meng/"}],["$","meta","3",{"property":"og:title","content":"Victor Meng"}],["$","meta","4",{"property":"og:description","content":"Contact P +1 415-895-0862 F +1 415-737-0642 E vmeng@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Victor Meng Partner Summary Victor Meng is a partner at Gaw | Poe LLP and has been with th"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/victor-meng/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Victor Meng"}],["$","meta","9",{"name":"twitter:description","content":"Contact P +1 415-895-0862 F +1 415-737-0642 E vmeng@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Victor Meng Partner Summary Victor Meng is a partner at Gaw | Poe LLP and has been with th"}]],"error":null,"digest":"$undefined"}
-e:"$9:metadata"
+6:[["$","section",null,{"className":"page-heading","children":["$","div",null,{"className":"content-band","children":[["$","$L5",null,{"className":"breadcrumb","href":"/","children":"Home"}],["$","span",null,{"className":"breadcrumb","children":[" ","/"," ","Victor Meng"]}],["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"Victor Meng"}]]}]}],["$","section",null,{"className":"content-band article-layout ","children":["$undefined",["$","div",null,{"children":["$undefined",["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$11"}}],false]}]]}]]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"Victor Meng | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"Contact P +1 415-895-0862 F +1 415-737-0642 E vmeng@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Victor Meng Partner Summary Victor Meng is a partner at Gaw | Poe LLP and has been with th"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/victor-meng/"}],["$","meta","3",{"property":"og:title","content":"Victor Meng"}],["$","meta","4",{"property":"og:description","content":"Contact P +1 415-895-0862 F +1 415-737-0642 E vmeng@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Victor Meng Partner Summary Victor Meng is a partner at Gaw | Poe LLP and has been with th"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/victor-meng/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Victor Meng"}],["$","meta","9",{"name":"twitter:description","content":"Contact P +1 415-895-0862 F +1 415-737-0642 E vmeng@gawpoe.com LinkedIn Facebook One EmbarcaderoSuite 1200San Francisco, CA 94111 Victor Meng Partner Summary Victor Meng is a partner at Gaw | Poe LLP and has been with th"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"

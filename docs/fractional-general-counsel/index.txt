@@ -1,91 +1,44 @@
 1:"$Sreact.fragment"
-2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-68850ca072434dc9.js"],""]
+2:I[6560,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-453d92cc9b03c835.js"],"Header"]
 3:I[9766,[],""]
 4:I[8924,[],""]
-6:I[4431,[],"OutletBoundary"]
-8:I[5278,[],"AsyncMetadataOutlet"]
-a:I[4431,[],"ViewportBoundary"]
-c:I[4431,[],"MetadataBoundary"]
-d:"$Sreact.suspense"
-f:I[7150,[],""]
-:HL["/_next/static/css/c7da85360d950d40.css","style"]
-0:{"P":null,"b":"Zhhs9Z_SYpJCTVIQR5uNg","p":"","c":["","fractional-general-counsel",""],"i":false,"f":[[["",{"children":[["slug","fractional-general-counsel","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c7da85360d950d40.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Gaw Poe LLP home","children":["$","img",null,{"src":"/images/logo-gaw-poe-llp.png","alt":"Gaw Poe LLP"}]}],["$","nav",null,{"className":"site-nav","aria-label":"Primary navigation","children":[["$","$L2","/",{"href":"/","children":"Home"}],["$","$L2","/about-us/",{"href":"/about-us/","children":"About"}],["$","$L2","/attorneys/",{"href":"/attorneys/","children":"Attorneys"}],["$","$L2","/business-litigation/",{"href":"/business-litigation/","children":"Business Litigation"}],["$","$L2","/antitrust/",{"href":"/antitrust/","children":"Antitrust"}],["$","$L2","/news/",{"href":"/news/","children":"News"}],["$","$L2","/contact/",{"href":"/contact/","children":"Contact"}]]}]]}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L2",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"children":[["$","strong",null,{"children":"Gaw | Poe LLP"}],["$","span",null,{"children":"High-stakes litigation, trial, and appellate counsel."}]]}],["$","$L2",null,{"href":"/contact/","children":"Contact"}]]}]]}]}]]}],{"children":[["slug","fractional-general-counsel","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
-10:T1569,
-<section style="
-  max-width:1200px;
-  margin:0 auto;
-  padding:5rem 1.5rem;
-  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  color:#111;
-  line-height:1.6;
-">
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","48","static/chunks/app/%5B...slug%5D/page-3c2369e84f739497.js"],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/433516aa2901fe80.css","style"]
+0:{"P":null,"b":"GTa2kGqBhyYTCUH85TIrV","p":"","c":["","fractional-general-counsel",""],"i":false,"f":[[["",{"children":[["slug","fractional-general-counsel","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/433516aa2901fe80.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L5",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","section",null,{"className":"contact-band","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Let’s talk"}],["$","h2",null,{"children":["Consequential matters.",["$","br",null,{}],"Personal attention."]}]]}],["$","$L5",null,{"className":"button light","href":"/contact-us/","children":["Get in touch ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","$L5",null,{"href":"/","className":"footer-brand","children":["GAW ",["$","span",null,{"children":"|"}]," POE ",["$","small",null,{"children":"LLP"}]]}],["$","p",null,{"children":["Trial & appellate counsel.",["$","br",null,{}],"San Francisco, California."]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Explore"}],["$","$L5",null,{"href":"/practice-areas/","children":"Practice Areas"}],["$","$L5",null,{"href":"/team/","children":"Our Team"}],["$","$L5",null,{"href":"/about/","children":"Our Story"}],["$","$L5",null,{"href":"/press/","children":"Press"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Contact"}],["$","a",null,{"href":"tel:+14157667451","children":"415.766.7451"}],["$","a",null,{"href":"mailto:contact@gawpoe.com","children":"contact@gawpoe.com"}],["$","p",null,{"children":["One Embarcadero, Suite 1200",["$","br",null,{}],"San Francisco, CA 94111"]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," Gaw | Poe LLP"]}],["$","span",null,{"children":"San Francisco, California"}]]}]]}]]}]}]]}],{"children":[["slug","fractional-general-counsel","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Td3b,
+<section>
 
   <!-- HERO TEXT -->
-  <div style="
-    max-width:820px;
-    margin:0 auto 4rem;
-    text-align:center;
-    position:static;
-    clear:both;
-  ">
+  <div>
 
-    <p style="
-      font-size:1.1rem;
-      margin:0 0 1.25rem 0;
-    ">
+    <p>
       We offer fractional General Counsel services to companies of any size. We have worked with private and publicly traded companies in a wide array of industries, from technology and finance to CPG, and have been lead transactional counsel on commercial, financing, and M&amp;A contracts cumulatively worth over <strong>$850 million</strong>.
     </p>
 
-    <p style="margin:0;">
+    <p>
       We provide practical, efficient advice about the legal issues confronting sophisticated businesses.
     </p>
   </div>
 
   <!-- HERO IMAGE -->
-  <div style="
-    max-width:1100px;
-    margin:0 auto 5rem;
-    position:static;
-    clear:both;
-  ">
-    <img decoding="async"
-      src="https://www.gawpoe.com/wp-content/themes/twentytwentyfour/assets/images/building-exterior.webp"
-      alt="Corporate headquarters exterior"
-      style="
-        width:100%;
-        height:auto;
-        display:block;
-        border-radius:18px;
-      "
-    >
+  <div>
+    <img decoding="async" src="/media/5d03256f5844-building-exterior.webp" alt="Corporate headquarters exterior" loading="lazy">
   </div>
 
   <!-- AREAS OF FOCUS -->
-  <section style="
-    background:#f6f7f8;
-    border:1px solid #e5e7eb;
-    border-radius:18px;
-    padding:3.75rem 3rem;
-    margin:0 auto 5.5rem;
-    max-width:1100px;
-    clear:both;
-  ">
+  <section>
 
-    <h2 style="
-      font-size:1.9rem;
-      margin:0 0 2rem 0;
-      letter-spacing:0.02em;
-    ">
+    <h2>
       Areas of Focus
     </h2>
 
-    <ul style="
-      columns:2;
-      column-gap:3rem;
-      padding-left:1.25rem;
-      margin:0;
-      line-height:1.8;
-    ">
+    <ul>
       <li>Governance, including Board of Director and stockholder votes and management decision-making.</li>
       <li>Commercial deals, including wholesale purchase, management services, SaaS, equipment financing, consulting, processing, and other agreements.</li>
       <li>Loan agreements, including secured and convertible debt.</li>
@@ -100,79 +53,46 @@ f:I[7150,[],""]
   </section>
 
   <!-- PAST NOTABLE WORK -->
-  <section style="
-    max-width:1100px;
-    margin:0 auto 6rem;
-    clear:both;
-  ">
+  <section>
 
-    <h2 style="
-      font-size:1.9rem;
-      margin:0 0 3rem 0;
-      letter-spacing:0.02em;
-    ">
+    <h2>
       Past Notable Work
     </h2>
 
-    <div style="
-      display:grid;
-      grid-template-columns:1fr;
-      gap:2.5rem;
-      max-width:900px;
-    ">
+    <div>
 
-      <article style="
-        border:1px solid #e5e7eb;
-        border-radius:16px;
-        padding:2.5rem;
-        background:#fff;
-      ">
-        <h3 style="font-size:1.25rem; margin:0 0 0.75rem 0;">
+      <article>
+        <h3>
           Fractional GC for AI Company
         </h3>
-        <p style="margin:0;">
+        <p>
           Currently serving as fractional GC for a Y Combinator-funded trucking logistics AI startup, providing support on commercial contracts and leasing.
         </p>
       </article>
 
-      <article style="
-        border:1px solid #e5e7eb;
-        border-radius:16px;
-        padding:2.5rem;
-        background:#fff;
-      ">
-        <h3 style="font-size:1.25rem; margin:0 0 0.75rem 0;">
+      <article>
+        <h3>
           AML Internal Investigation
         </h3>
-        <p style="margin:0;">
+        <p>
           Led internal investigation at a publicly traded CPG company into anti-money laundering issues that uncovered significant violations by a competitor, and directed outside counsel in litigation against the competitor that led to a federal indictment of the competitor’s CEO.
         </p>
       </article>
 
-      <article style="
-        border:1px solid #e5e7eb;
-        border-radius:16px;
-        padding:2.5rem;
-        background:#fff;
-      ">
-        <h3 style="font-size:1.25rem; margin:0 0 0.75rem 0;">
+      <article>
+        <h3>
           M&amp;A Blitz
         </h3>
-        <p style="margin:0;">
+        <p>
           Ran five acquisitions and completed three in ten months for a publicly traded equipment manufacturer with a total purchase price of $70 million, overseeing due diligence by the in-house team, presenting deals to the Board of Directors, working closely with outside counsel on definitive deal documents and public disclosures, preparing employment agreements for new hires, and collaborating with the CFO and COO on the integration of the acquired businesses.
         </p>
       </article>
 
-      <article style="
-        border:1px solid #e5e7eb;
-        border-radius:16px;
-        padding:2.5rem;
-        background:#fff;
-      ">
-        <h3 style="font-size:1.25rem; margin:0 0 0.75rem 0;">
+      <article>
+        <h3>
           Contract Suite Development
         </h3>
-        <p style="margin:0;">
+        <p>
           Developed a suite of SaaS, construction financing, equipment leasing, trademark licensing, and consulting contracts for a publicly traded equipment manufacturer, working closely with the COO and CFO to ensure operational and financial compliance.
         </p>
       </article>
@@ -183,8 +103,8 @@ f:I[7150,[],""]
 
 </section>
 
-5:["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"FRACTIONAL GENERAL COUNSEL"}],null,["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
-b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-7:null
-9:{"metadata":[["$","title","0",{"children":"FRACTIONAL GENERAL COUNSEL | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"We offer fractional General Counsel services to companies of any size. We have worked with private and publicly traded companies in a wide array of industries, from technology and finance to CPG, and have been lead trans"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/fractional-general-counsel/"}],["$","meta","3",{"property":"og:title","content":"FRACTIONAL GENERAL COUNSEL"}],["$","meta","4",{"property":"og:description","content":"We offer fractional General Counsel services to companies of any size. We have worked with private and publicly traded companies in a wide array of industries, from technology and finance to CPG, and have been lead trans"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/fractional-general-counsel/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"FRACTIONAL GENERAL COUNSEL"}],["$","meta","9",{"name":"twitter:description","content":"We offer fractional General Counsel services to companies of any size. We have worked with private and publicly traded companies in a wide array of industries, from technology and finance to CPG, and have been lead trans"}]],"error":null,"digest":"$undefined"}
-e:"$9:metadata"
+6:[["$","section",null,{"className":"page-heading","children":["$","div",null,{"className":"content-band","children":[["$","$L5",null,{"className":"breadcrumb","href":"/","children":"Home"}],["$","span",null,{"className":"breadcrumb","children":[" ","/"," ","FRACTIONAL GENERAL COUNSEL"]}],["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"FRACTIONAL GENERAL COUNSEL"}]]}]}],["$","section",null,{"className":"content-band article-layout ","children":["$undefined",["$","div",null,{"children":["$undefined",["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"$11"}}],false]}]]}]]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"FRACTIONAL GENERAL COUNSEL | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"We offer fractional General Counsel services to companies of any size. We have worked with private and publicly traded companies in a wide array of industries, from technology and finance to CPG, and have been lead trans"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/fractional-general-counsel/"}],["$","meta","3",{"property":"og:title","content":"FRACTIONAL GENERAL COUNSEL"}],["$","meta","4",{"property":"og:description","content":"We offer fractional General Counsel services to companies of any size. We have worked with private and publicly traded companies in a wide array of industries, from technology and finance to CPG, and have been lead trans"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/fractional-general-counsel/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"FRACTIONAL GENERAL COUNSEL"}],["$","meta","9",{"name":"twitter:description","content":"We offer fractional General Counsel services to companies of any size. We have worked with private and publicly traded companies in a wide array of industries, from technology and finance to CPG, and have been lead trans"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
