@@ -19,6 +19,32 @@ const types = {
 http
   .createServer(async (req, res) => {
     try {
+      const url = new URL(req.url, "http://localhost");
+      const redirects = JSON.parse(
+        await readFile(path.join(root, "legacy-redirects.json"), "utf8").catch(
+          () => "{}",
+        ),
+      );
+      if (redirects[url.pathname]) {
+        res.writeHead(301, {
+          Location: redirects[url.pathname],
+          "X-Robots-Tag": "noindex, nofollow",
+        });
+        res.end();
+        return;
+      }
+      for (const key of ["p", "page_id", "attachment_id"]) {
+        const value = url.searchParams.get(key);
+        const target = redirects[`/?${key}=${value}`];
+        if (target) {
+          res.writeHead(301, {
+            Location: target,
+            "X-Robots-Tag": "noindex, nofollow",
+          });
+          res.end();
+          return;
+        }
+      }
       let file = path.resolve(
         root,
         "." + decodeURIComponent(new URL(req.url, "http://localhost").pathname),

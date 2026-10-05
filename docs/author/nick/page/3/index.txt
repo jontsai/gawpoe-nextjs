@@ -1,0 +1,562 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["345","static/chunks/app/not-found-4396f60a5d3a00e4.js"],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+0:{"P":null,"b":"pl13k8y6oOPtYddwVrQ_a","p":"","c":["","author","nick","page","3",""],"i":false,"f":[[["",{"children":[["slug","author/nick/page/3","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,["$","html",null,{"lang":"en-US","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"style":{"fontFamily":"sans-serif","padding":40},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["$","$L4",null,{"href":"/","children":"Return to Gaw | Poe LLP"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["slug","author/nick/page/3","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Ta61e,<div class="wp-site-blocks"><header class="wp-block-template-part">
+<div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:20px;padding-bottom:20px">
+<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-3 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex"><h2 class="wp-block-site-title"><a href="/" target="_self" rel="home">Gaw Poe</a></h2></div>
+
+
+
+<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex"><nav class="is-responsive items-justified-right wp-block-navigation is-horizontal is-content-justification-right is-layout-flex wp-container-core-navigation-is-layout-1 wp-block-navigation-is-layout-flex" aria-label="Navigation" data-wp-interactive="core/navigation" data-wp-context="{&quot;overlayOpenedBy&quot;:{&quot;click&quot;:false,&quot;hover&quot;:false,&quot;focus&quot;:false},&quot;type&quot;:&quot;overlay&quot;,&quot;roleAttribute&quot;:&quot;&quot;,&quot;ariaLabel&quot;:&quot;Menu&quot;}"><button aria-haspopup="dialog" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-wp-on-async--click="actions.openMenuOnClick" data-wp-on--keydown="actions.handleMenuKeydown"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5"></rect><rect x="4" y="15" width="16" height="1.5"></rect></svg></button>
+				<div class="wp-block-navigation__responsive-container  " id="modal-1" data-wp-class--has-modal-open="state.isMenuOpen" data-wp-class--is-menu-open="state.isMenuOpen" data-wp-watch="callbacks.initMenu" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--focusout="actions.handleMenuFocusout" tabindex="-1">
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" data-wp-bind--aria-modal="state.ariaModal" data-wp-bind--aria-label="state.ariaLabel" data-wp-bind--role="state.roleAttribute">
+							<button aria-label="Close menu" class="wp-block-navigation__responsive-container-close" data-wp-on-async--click="actions.closeMenuOnClick"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" data-wp-watch="callbacks.focusFirstElement" id="modal-1-content">
+								<ul class="wp-block-navigation__container is-responsive items-justified-right wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/practice-areas/"><span class="wp-block-navigation-item__label">Practice Areas</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/team/"><span class="wp-block-navigation-item__label">Team</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/about/"><span class="wp-block-navigation-item__label">About</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/press/"><span class="wp-block-navigation-item__label">Press</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact-us/"><span class="wp-block-navigation-item__label">Contact Us</span></a></li><li class=" wp-block-navigation-item phone-number wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact-us/"><span class="wp-block-navigation-item__label">415.766.7451</span></a></li></ul>
+							</div>
+						</div>
+					</div>
+				</div></nav></div>
+</div>
+</div>
+</header>
+
+
+<main class="wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<h1 style="line-height:1; padding-top:var(--wp--preset--spacing--50);" class="alignwide wp-block-query-title">Author: <span>Nick Riseman</span></h1>
+
+
+
+<div class="wp-block-query alignwide is-layout-flow wp-block-query-is-layout-flow">
+
+
+
+	<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0">
+
+		<ul class="columns-3 alignfull wp-block-post-template is-layout-grid wp-container-core-post-template-is-layout-1 wp-block-post-template-is-layout-grid"><li class="wp-block-post post-1245 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/trendsettah-v-swisher/" target="_self"><img width="1000" height="667" src="/wp-content/uploads/2025/03/Lady-Justice.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Oral arguments in Trendsettah v. Swisher III" style="width:100%;height:100%;object-fit:cover;" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/2025/03/Lady-Justice.jpeg 1000w, /wp-content/uploads/2025/03/Lady-Justice-300x200.jpeg 300w, /wp-content/uploads/2025/03/Lady-Justice-768x512.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-7 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-3"><a href="/trendsettah-v-swisher/" target="_self">Oral arguments in Trendsettah v. Swisher III</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-5 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2025-03-14T12:09:52-07:00"><a href="/trendsettah-v-swisher/">Mar 14, 2025</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-4"><p class="wp-block-post-excerpt__excerpt">March 14, 2025 Our co-founder, Mark Poe, presented an oral argument earlier this week before the Ninth Circuit Court of Appeals in Pasadena, California, in the long-running case of Trendsettah v. Swisher. Watch the video recording below and judge our appellate skills for yourself! </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-5">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1240 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/" target="_self"><img width="500" height="399" src="/wp-content/uploads/2025/02/Chips.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Pepsi, Frito-Lay Accused of favoring chains with chip prices" style="width:100%;height:100%;object-fit:cover;" decoding="async" srcset="/wp-content/uploads/2025/02/Chips.jpeg 500w, /wp-content/uploads/2025/02/Chips-300x239.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-10 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-6"><a href="/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/" target="_self">Pepsi, Frito-Lay Accused of favoring chains with chip prices</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-8 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2025-02-21T10:22:20-08:00"><a href="/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/">Feb 21, 2025</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-7"><p class="wp-block-post-excerpt__excerpt">February 18, 2025 PepsiCo and Frito-Lay are illegally favoring Walmart, Target, and other chain grocery stores by charging them much lower prices for snack chips than independently owned businesses… Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-8">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1236 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/small-businesses-claim-unfair-snack-pricing-by-frito-lay/" target="_self"><img width="1920" height="2560" src="/wp-content/uploads/2025/02/Mark-Poe-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Small businesses claim unfair snack pricing by frito-lay" style="width:100%;height:100%;object-fit:cover;" decoding="async" srcset="/wp-content/uploads/2025/02/Mark-Poe-scaled.jpg 1920w, /wp-content/uploads/2025/02/Mark-Poe-225x300.jpg 225w, /wp-content/uploads/2025/02/Mark-Poe-768x1024.jpg 768w, /wp-content/uploads/2025/02/Mark-Poe-1152x1536.jpg 1152w, /wp-content/uploads/2025/02/Mark-Poe-1536x2048.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-13 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-9"><a href="/small-businesses-claim-unfair-snack-pricing-by-frito-lay/" target="_self">Small businesses claim unfair snack pricing by frito-lay</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-11 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2025-02-21T10:16:43-08:00"><a href="/small-businesses-claim-unfair-snack-pricing-by-frito-lay/">Feb 21, 2025</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-10"><p class="wp-block-post-excerpt__excerpt">February 19, 2025 Independent convenience stores sued Frito-Lay, alleging unfair pricing practices that favor large grocery chains, forcing smaller retailers to pay higher prices for the same product. Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-11">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1231 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/" target="_self"><img width="1000" height="571" src="/wp-content/uploads/2025/02/Pepsi-1.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2025/02/Pepsi-1.jpeg 1000w, /wp-content/uploads/2025/02/Pepsi-1-300x171.jpeg 300w, /wp-content/uploads/2025/02/Pepsi-1-768x439.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-16 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-12"><a href="/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/" target="_self">Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-14 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2025-02-20T08:53:33-08:00"><a href="/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/">Feb 20, 2025</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-13"><p class="wp-block-post-excerpt__excerpt">February 18, 2025 PepsiCo and its Frito-Lay unit have been sued in U.S. court in California by convenience stores that claim they have been denied the same sales deals offered to major retailers such as Walmart and Albertsons, causing them to pay higher prices. Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-14">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1225 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/" target="_self"><img width="1000" height="667" src="/wp-content/uploads/2025/01/Pills.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="How a legal brawl over ‘male enhancement’ pills led to a RICO verdict against this LA firm" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2025/01/Pills.jpeg 1000w, /wp-content/uploads/2025/01/Pills-300x200.jpeg 300w, /wp-content/uploads/2025/01/Pills-768x512.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-19 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-15"><a href="/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/" target="_self">How a legal brawl over ‘male enhancement’ pills led to a RICO verdict against this LA firm</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-17 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2025-01-30T08:38:23-08:00"><a href="/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/">Jan 30, 2025</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-16"><p class="wp-block-post-excerpt__excerpt">January 30, 2025 At the root of a bare-knuckled legal fight stands an almost ironically apt product: over-the-counter pills for, ahem, male sexual enhancement. But the issues raised in this San Diego federal court case go far beyond how dietary supplements with names like Rhino 12 Titanium and Libigrow XXXtreme are packaged and sold. Read… </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-17">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/" target="_self"><img width="373" height="263" src="/wp-content/uploads/2025/01/LCR-Logo.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="RANDOLPH GAW NAMED SENIOR FELLOW OF LITIGATION COUNSEL OF AMERICA" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2025/01/LCR-Logo.jpg 373w, /wp-content/uploads/2025/01/LCR-Logo-300x212.jpg 300w" sizes="(max-width: 373px) 100vw, 373px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-22 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-18"><a href="/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/" target="_self">RANDOLPH GAW NAMED SENIOR FELLOW OF LITIGATION COUNSEL OF AMERICA</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-20 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2025-01-22T12:47:03-08:00"><a href="/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/">Jan 22, 2025</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-19"><p class="wp-block-post-excerpt__excerpt">January 22, 2025 FOR IMMEDIATE RELEASE Gaw | Poe LLP announced today that founding partner RandolphGaw has been named a Senior Fellow of the Litigation Counsel of America (LCA). Mr. Gaw has been a business and antitrust litigator since graduating in 2002 from Stanford Law School. He has been a first or second-chair of at… </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-20">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1213 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/" target="_self"><img width="1000" height="596" src="/wp-content/uploads/2025/01/Liquor.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="In battle over booze pricing, is the FTC out of touch or retro-chic?" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2025/01/Liquor.jpeg 1000w, /wp-content/uploads/2025/01/Liquor-300x179.jpeg 300w, /wp-content/uploads/2025/01/Liquor-768x458.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-25 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-21"><a href="/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/" target="_self">In battle over booze pricing, is the FTC out of touch or retro-chic?</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-23 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2025-01-14T13:14:21-08:00"><a href="/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/">Jan 14, 2025</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-22"><p class="wp-block-post-excerpt__excerpt">January 14, 2025 Need a bottle of wine to bring to a holiday party or some rum for spiking the eggnog? If you buy it at a mom-and-pop liquor store or corner market, the price is likely to be higher, maybe a lot higher, than what you’d pay at a big chain store. Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-23">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1209 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors/" target="_self"><img width="1000" height="667" src="/wp-content/uploads/2025/03/Lady-Justice.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Are the Critics Wrong? How the Robinson-Patman Act Has Been Misunderstood by Its Detractors" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2025/03/Lady-Justice.jpeg 1000w, /wp-content/uploads/2025/03/Lady-Justice-300x200.jpeg 300w, /wp-content/uploads/2025/03/Lady-Justice-768x512.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-28 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-24"><a href="/are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors/" target="_self">Are the Critics Wrong? How the Robinson-Patman Act Has Been Misunderstood by Its Detractors</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-26 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2024-12-11T07:43:50-08:00"><a href="/are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors/">Dec 11, 2024</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-25"><p class="wp-block-post-excerpt__excerpt">The Robinson-Patman Act (RPA) has a long, controversial history within U.S. antitrust law and economics. In this episode, Mark Poe, an attorney who specializes in RPA litigation, discusses the RPA with hosts Puja Patel and Aaron Yeater. Mark and the hosts explore Mark’s view that traditional critics of RPA are incorrect, which he first presented… </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-26">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1201 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/the-elevator-pitch/" target="_self"><img width="1000" height="599" src="/wp-content/uploads/2024/12/Elevator-pitch.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="The Elevator Pitch" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2024/12/Elevator-pitch.jpeg 1000w, /wp-content/uploads/2024/12/Elevator-pitch-300x180.jpeg 300w, /wp-content/uploads/2024/12/Elevator-pitch-768x460.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-31 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-27"><a href="/the-elevator-pitch/" target="_self">The Elevator Pitch</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-29 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2024-12-04T10:59:13-08:00"><a href="/the-elevator-pitch/">Dec 4, 2024</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-28"><p class="wp-block-post-excerpt__excerpt">The concept of the “elevator pitch” is familiar to anyone in the business world. The basic idea is to prepare as if one expects to share an elevator ride with an important decision-maker. During the duration of that imaginary ride (i.e., a minute or two), one would explain what they do and why it is… </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-29">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1193 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/" target="_self"><img width="1000" height="667" src="/wp-content/uploads/2024/10/Energy.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Justices Reject 5-Hour Energy’s Attack On Unfair Pricing Test" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2024/10/Energy.jpeg 1000w, /wp-content/uploads/2024/10/Energy-300x200.jpeg 300w, /wp-content/uploads/2024/10/Energy-768x512.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-34 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-30"><a href="/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/" target="_self">Justices Reject 5-Hour Energy’s Attack On Unfair Pricing Test</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-32 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2024-10-09T11:51:28-07:00"><a href="/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/">Oct 9, 2024</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-31"><p class="wp-block-post-excerpt__excerpt">October 7, 2024 The U.S. Supreme Court rejected the maker of 5-Hour Energy’s petition to review a Ninth Circuit test for deciding whether companies are in competition with one another in price discrimination cases Monday, allowing the circuit court’s revival of a suit brought by wholesalers to stand. Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-32">
+			</div>
+
+		</div>
+
+
+		</li></ul>
+
+
+		<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+		<nav class="wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-core-query-pagination-is-layout-1 wp-block-query-pagination-is-layout-flex" aria-label="Pagination">
+		<a href="/author/nick/page/2/" class="wp-block-query-pagination-previous"><span class="wp-block-query-pagination-previous-arrow is-arrow-arrow" aria-hidden="true">←</span>Previous Page</a>
+
+		</nav>
+
+	</div>
+
+</div>
+
+
+
+</main>
+
+
+<footer class="wp-block-template-part">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)">
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-37 wp-block-group-is-layout-flex"><p class="logo-gaw-poe wp-block-site-title has-medium-font-size"><a href="/" target="_self" rel="home">Gaw Poe</a></p></div>
+</div>
+
+
+
+<div class="wp-block-column nav is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-46 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-39 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Practice Areas</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-38 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-2 wp-block-navigation-is-layout-flex" aria-label="Practice Areas"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="#"><span class="wp-block-navigation-item__label">Trial Work</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/business-litigation/"><span class="wp-block-navigation-item__label">Business Litigation</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/antitrust/"><span class="wp-block-navigation-item__label">Antitrust</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/catastrophic-injury/"><span class="wp-block-navigation-item__label">Catastrophic Injury</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/appeals/"><span class="wp-block-navigation-item__label">Appeals</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-41 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Team</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-40 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-3 wp-block-navigation-is-layout-flex" aria-label="Footer navigation"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/randolph-gaw/"><span class="wp-block-navigation-item__label">Randolph Gaw</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/mark-poe/"><span class="wp-block-navigation-item__label">Mark Poe</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/victor-meng/"><span class="wp-block-navigation-item__label">Victor Meng</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/christopher-wimmer/"><span class="wp-block-navigation-item__label">Christopher Wimmer</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/flora-vigo/"><span class="wp-block-navigation-item__label">Flora Vigo</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/paul-martin/"><span class="wp-block-navigation-item__label">Paul Martin</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/kristin-menon/"><span class="wp-block-navigation-item__label">Kristin Menon</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-43 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">About</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-42 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-4 wp-block-navigation-is-layout-flex" aria-label="Footer navigation 2"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/about/"><span class="wp-block-navigation-item__label">About</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/press/"><span class="wp-block-navigation-item__label">Press</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-45 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Contact Us</h2>
+
+
+
+<div class="wp-block-group social is-vertical is-layout-flex wp-container-core-group-is-layout-44 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-5 wp-block-navigation-is-layout-flex" aria-label="Footer navigation 3"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item ic li wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="https://www.linkedin.com/company/gaw-poe-llp/" target="_blank"><span class="wp-block-navigation-item__label">LinkedIn</span></a></li><li class="has-small-font-size wp-block-navigation-item ic fb wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="https://www.facebook.com/profile.php?id=61560638781599" target="_blank"><span class="wp-block-navigation-item__label">Facebook</span></a></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group alignfull blk-copyright is-layout-flow wp-block-group-is-layout-flow" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:0">
+<p class="has-text-align-center has-contrast-2-color has-text-color has-link-color has-small-font-size wp-elements-5c6d159ba291aee5d53cb88801a49f4f">© 2026 Gaw | Poe LLP</p>
+</div>
+</div>
+</footer>
+</div>5:[["$","link",null,{"rel":"stylesheet","href":"/site-css/39df7d1431e3e53d.css"}],["$","div",null,{"className":"archive paged author author-nick author-5 wp-custom-logo wp-embed-responsive paged-3 author-paged-3","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11",false]
+12:I[5707,["749","static/chunks/749-115fed15e18a51c1.js","48","static/chunks/app/%5B...slug%5D/page-d5eda22a5126496a.js"],"SiteBehavior"]
+11:["$","$L12",null,{"bodyClass":"archive paged author author-nick author-5 wp-custom-logo wp-embed-responsive paged-3 author-paged-3"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Nick Riseman – Page 3 – Gaw Poe"}],["$","meta","1",{"name":"description","content":"—"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/author/nick/page/3/"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

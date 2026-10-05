@@ -1,44 +1,562 @@
 1:"$Sreact.fragment"
-2:I[6560,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-453d92cc9b03c835.js"],"Header"]
-3:I[9766,[],""]
-4:I[8924,[],""]
-5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","48","static/chunks/app/%5B...slug%5D/page-3c2369e84f739497.js"],""]
-7:I[4431,[],"OutletBoundary"]
-9:I[5278,[],"AsyncMetadataOutlet"]
-b:I[4431,[],"ViewportBoundary"]
-d:I[4431,[],"MetadataBoundary"]
-e:"$Sreact.suspense"
-10:I[7150,[],""]
-:HL["/_next/static/css/433516aa2901fe80.css","style"]
-0:{"P":null,"b":"GTa2kGqBhyYTCUH85TIrV","p":"","c":["","author","nick",""],"i":false,"f":[[["",{"children":[["slug","author/nick","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/433516aa2901fe80.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L5",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","section",null,{"className":"contact-band","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Let’s talk"}],["$","h2",null,{"children":["Consequential matters.",["$","br",null,{}],"Personal attention."]}]]}],["$","$L5",null,{"className":"button light","href":"/contact-us/","children":["Get in touch ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","$L5",null,{"href":"/","className":"footer-brand","children":["GAW ",["$","span",null,{"children":"|"}]," POE ",["$","small",null,{"children":"LLP"}]]}],["$","p",null,{"children":["Trial & appellate counsel.",["$","br",null,{}],"San Francisco, California."]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Explore"}],["$","$L5",null,{"href":"/practice-areas/","children":"Practice Areas"}],["$","$L5",null,{"href":"/team/","children":"Our Team"}],["$","$L5",null,{"href":"/about/","children":"Our Story"}],["$","$L5",null,{"href":"/press/","children":"Press"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Contact"}],["$","a",null,{"href":"tel:+14157667451","children":"415.766.7451"}],["$","a",null,{"href":"mailto:contact@gawpoe.com","children":"contact@gawpoe.com"}],["$","p",null,{"children":["One Embarcadero, Suite 1200",["$","br",null,{}],"San Francisco, CA 94111"]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," Gaw | Poe LLP"]}],["$","span",null,{"children":"San Francisco, California"}]]}]]}]]}]}]]}],{"children":[["slug","author/nick","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
-6:[["$","section",null,{"className":"page-heading","children":["$","div",null,{"className":"content-band","children":[["$","$L5",null,{"className":"breadcrumb","href":"/","children":"Home"}],["$","span",null,{"className":"breadcrumb","children":[" ","/"," ","Archives"]}],["$","p",null,{"className":"eyebrow","children":"Gaw | Poe LLP"}],["$","h1",null,{"children":"Author / Nick"}]]}]}],["$","section",null,{"className":"content-band","children":[["$","div",null,{"className":"news-list","children":[["$","article","1661",{"children":[["$","time",null,{"dateTime":"2026-09-15T07:18:20","children":"September 15, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/","children":["9th Circ. Won’t Rehear Eye Drop Antitrust Suit Despite Dissent",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"August 31, 2026 A forceful dissent from a pair of Ninth Circuit judges wasn’t enough to keep the full appellate court from letting stand a panel decision preserving wholesalers’ district court win accusing the maker of C"}]]}],["$","article","1625",{"children":[["$","time",null,{"dateTime":"2026-07-09T08:51:01","children":"July 9, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/meta-hit-with-textbook-authors-ip-suit-over-ai-training/","children":["Meta Hit With Textbook Authors’ IP Suit Over AI Training",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"June 2, 2026 Meta Platforms Inc. was hit with a proposed class action Thursday in California federal court accusing it of feeding copyrighted textbooks into its Llama large language model to train the artificial intellig"}]]}],["$","article","1622",{"children":[["$","time",null,{"dateTime":"2026-07-08T08:50:35","children":"July 8, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year/","children":["Gaw | Poe LLP Partners Randolph Gaw and Mark Poe Both Selected to List of Super Lawyers for SIXTH Straight Year",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"SAN FRANCISCO – June 30, 2026 – Gaw | Poe LLP announced today that for the sixth straight year, partners Randolph Gaw and Mark Poe were both selected as Northern California Super Lawyers by Super Lawyers. Super Lawyers i"}]]}],["$","article","1612",{"children":[["$","time",null,{"dateTime":"2026-06-11T11:16:00","children":"June 11, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit/","children":["OnlyFans Users Ask 9th Circ. To Revive Calif. Auto-Renew Suit",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"June 9, 2026 OnlyFans subscribers on Tuesday urged the Ninth Circuit to revive a proposed class action alleging unlawful subscription auto-renewals, arguing California courts have jurisdiction over the platform’s U.K. pa"}]]}],["$","article","1609",{"children":[["$","time",null,{"dateTime":"2026-06-10T09:28:58","children":"June 10, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026/","children":["Gaw | Poe LLP Obtains Inaugural Rankings in Chambers USA Legal Guide 2026",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"June 4, 2026 Gaw | Poe LLP today announced that it has achieved its inaugural rankings in the annual Chambers & Partners USA Legal Guide. Gaw | Poe received a Band 3 ranking in the categories of California: Antitrust, Ma"}]]}],["$","article","1559",{"children":[["$","time",null,{"dateTime":"2026-04-03T13:33:37","children":"April 3, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/is-1314-per-hour-too-much-for-a-small-firm-court-says-no/","children":["Is $1,314 Per Hour Too Much For A Small Firm? Court Says No",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}],"$L2a"]}]]
-11:["$","p",null,{"children":"April 2, 2026 Attorneys from small firms usually charge less than lawyers from bigger firms, but in fights over attorney fees, should lawyers from small firms be forced to accept smaller amounts of money… Read more"}]
-12:["$","article","1555",{"children":[["$","time",null,{"dateTime":"2026-03-18T09:20:10","children":"March 18, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/emotional-abuse-in-college-sports/","children":["Emotional Abuse in College Sports",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"March 15, 2026 March Madness is here. The high-stakes, sudden-death college basketball tournament is a beloved tradition in American sports. For the players, it’s a chance to showcase the skills they’ve developed through"}]]}]
-13:["$","article","1552",{"children":[["$","time",null,{"dateTime":"2026-03-03T13:09:34","children":"March 3, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/9th-circuit-restores-attorney-fees-slashed-over-firm-size/","children":["9th Circuit restores attorney fees slashed over firm size",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"February 26, 2026 The 9th U.S. Circuit Court of Appeals has vacated a $4.5 million fee reduction, ruling that a winning law firm’s size cannot be used to justify lower fees and declaring that “brilliance at the bar” is n"}]]}]
-14:["$","article","1510",{"children":[["$","time",null,{"dateTime":"2026-02-26T17:26:41","children":"February 26, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/","children":["9th Circ. Grants Atty Fee Appeal In Eye Drop Pricing Suit",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"February 25, 2026 District courts cannot reduce fee awards to attorneys based on a firm’s size, the Ninth Circuit ruled in a published opinion on Tuesday, sending a case back to a California federal court to recalculate "}]]}]
-15:["$","article","1506",{"children":[["$","time",null,{"dateTime":"2026-02-26T17:15:38","children":"February 26, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/","children":["It’s Not The Size Of The Firm, It’s How You Use It: Ninth Circuit Smacks Down Fee-Shaming Of Small Law",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"February 25, 2026 The Ninth Circuit just made clear, size isn’t everything. And pretending otherwise is just compensating for something else entirely. Read more"}]]}]
-16:["$","article","1501",{"children":[["$","time",null,{"dateTime":"2026-02-25T19:34:29","children":"February 25, 2026"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/us-appeals-court-says-law-firms-size-doesnt-limit-legal-fees/","children":["US appeals court says law firm’s size doesn’t limit legal fees",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"February 24, 2026 A federal appeals court on Tuesday ruled that a trial judge in California improperly slashed the hourly rates sought by a small law firm after it won an antitrust case, saying that a law firm’s size can"}]]}]
-17:["$","article","1436",{"children":[["$","time",null,{"dateTime":"2025-10-24T11:45:42","children":"October 24, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/9th-circ-urged-to-revive-5-hour-energy-price-bias-suit/","children":["9th Circ. Urged To revive 5-hour energy price bias suit",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"October 21, 2025 Family-owned wholesalers have told the Ninth Circuit that a lower court added new requirements with its latest ruling rejecting allegations that the maker of 5-Hour Energy violated price discrimination l"}]]}]
-18:["$","article","1414",{"children":[["$","time",null,{"dateTime":"2025-10-16T06:41:53","children":"October 16, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/judge-who-took-axe-to-lawyers-rates-says-size-of-firm-matters/","children":["Judge Who Took Axe to Lawyers’ Rates Says Size (of Firm) Matters",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"October 9, 2025 A case waiting for a ruling from the US Court of Appeals for the Ninth Circuit asks a controversial question: Should judges award smaller fees to lawyers working at small law firms than those working at l"}]]}]
-19:["$","article","1410",{"children":[["$","time",null,{"dateTime":"2025-10-09T08:01:19","children":"October 9, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/big-law-rates-for-small-firms-us-appeals-court-takes-up-fee-fight/","children":["Big Law rates for small firms? US appeals court takes up fee fight",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"A U.S. appeals court is weighing whether law firm size should factor into attorney fee awards, after a judge refused to grant Big Law-caliber rates to lawyers at a small firm for fear of setting a precedent for other cas"}]]}]
-1a:["$","article","1403",{"children":[["$","time",null,{"dateTime":"2025-09-11T10:44:57","children":"September 11, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/appeals-court-restores-punitive-damages-award-in-usf-womens-basketball-case/","children":["Appeals court restores punitive-damages award in USF women’s basketball case",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"September 9, 2025 Two former University of San Francisco women’s basketball players won their appeal of an earlier court ruling in their lawsuit against head coach Molly Goodenbour and the school, reinstating $500,000 in"}]]}]
-1b:["$","article","1396",{"children":[["$","time",null,{"dateTime":"2025-09-10T14:06:55","children":"September 10, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/appeals-court-awards-500k-to-ex-san-francisco-player-marija-galic/","children":["Appeals court awards $500K to ex-San Francisco player Marija Galic",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"September 4, 2025 A California appeals court has reinstated $500,000 in punitive damages for former University of San Francisco women’s basketball player Marija Galic and ordered a new trial for her twin sister, Marta, i"}]]}]
-1c:["$","article","1392",{"children":[["$","time",null,{"dateTime":"2025-09-04T11:16:21","children":"September 4, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/galic-v-goodenbour/","children":["Oral arguments in Basketball Abuse Case",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"August 5th, 2025 Gaw | Poe Partner Randolph Gaw appeared before the 1st District Court of Appeals in a case that has drawn media attention. In his opening statement, Randy argued that when Marija prevailed at trial, the "}]]}]
-1d:["$","article","1390",{"children":[["$","time",null,{"dateTime":"2025-09-04T11:08:46","children":"September 4, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/la-international-corp-v-prestige-brands-holdings/","children":["Oral arguments in Clear Eyes Robinson Patman Case",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"July 16th, 2025 Our Ninth Circuit Court of Appeals work continues with Mark Poe’s oral argument in LA International Corp. v. Prestige Brands Holdings. This appeal involves the first plaintiff-side jury verdict under the "}]]}]
-1e:["$","article","1261",{"children":[["$","time",null,{"dateTime":"2025-07-02T09:23:32","children":"July 2, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fifth-straight-year/","children":["Gaw | Poe LLP Partners Randolph Gaw and Mark Poe Both Selected to List of Super Lawyers for Fifth Straight Year",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"SAN FRANCISCO – June 30, 2025 – Gaw | Poe LLP announced today that for the fifth straight year, partners Randolph Gaw and Mark Poe were both selected as Northern California Super Lawyers by Super Lawyers. Super Lawyers i"}]]}]
-1f:["$","article","1253",{"children":[["$","time",null,{"dateTime":"2025-05-09T13:36:25","children":"May 9, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/khurrams-quorum-podcase/","children":["Randolph Gaw interviewed on Khurram’s Quorum Podcast",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"Randy recently had the opportunity to join Khurram’s Quorum podcast, where he discusses the following: – Why case selection is about narrative, not just legal theory– How poker and parenting made him a better litigator– "}]]}]
-20:["$","article","1245",{"children":[["$","time",null,{"dateTime":"2025-03-14T12:09:52","children":"March 14, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/trendsettah-v-swisher/","children":["Oral arguments in Trendsettah v. Swisher III",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"March 14, 2025 Our co-founder, Mark Poe, presented an oral argument earlier this week before the Ninth Circuit Court of Appeals in Pasadena, California, in the long-running case of Trendsettah v. Swisher. Watch the video"}]]}]
-21:["$","article","1240",{"children":[["$","time",null,{"dateTime":"2025-02-21T10:22:20","children":"February 21, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/","children":["Pepsi, Frito-Lay Accused of favoring chains with chip prices",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"February 18, 2025 PepsiCo and Frito-Lay are illegally favoring Walmart, Target, and other chain grocery stores by charging them much lower prices for snack chips than independently owned businesses… Read more"}]]}]
-22:["$","article","1236",{"children":[["$","time",null,{"dateTime":"2025-02-21T10:16:43","children":"February 21, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/small-businesses-claim-unfair-snack-pricing-by-frito-lay/","children":["Small businesses claim unfair snack pricing by frito-lay",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"February 19, 2025 Independent convenience stores sued Frito-Lay, alleging unfair pricing practices that favor large grocery chains, forcing smaller retailers to pay higher prices for the same product. Read more"}]]}]
-23:["$","article","1231",{"children":[["$","time",null,{"dateTime":"2025-02-20T08:53:33","children":"February 20, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/","children":["Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"February 18, 2025 PepsiCo and its Frito-Lay unit have been sued in U.S. court in California by convenience stores that claim they have been denied the same sales deals offered to major retailers such as Walmart and Alber"}]]}]
-24:["$","article","1225",{"children":[["$","time",null,{"dateTime":"2025-01-30T08:38:23","children":"January 30, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/","children":["How a legal brawl over ‘male enhancement’ pills led to a RICO verdict against this LA firm",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"January 30, 2025 At the root of a bare-knuckled legal fight stands an almost ironically apt product: over-the-counter pills for, ahem, male sexual enhancement. But the issues raised in this San Diego federal court case g"}]]}]
-25:["$","article","1218",{"children":[["$","time",null,{"dateTime":"2025-01-22T12:47:03","children":"January 22, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/","children":["RANDOLPH GAW NAMED SENIOR FELLOW OF LITIGATION COUNSEL OF AMERICA",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"January 22, 2025 FOR IMMEDIATE RELEASE Gaw | Poe LLP announced today that founding partner RandolphGaw has been named a Senior Fellow of the Litigation Counsel of America (LCA). Mr. Gaw has been a business and antitrust "}]]}]
-26:["$","article","1213",{"children":[["$","time",null,{"dateTime":"2025-01-14T13:14:21","children":"January 14, 2025"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/","children":["In battle over booze pricing, is the FTC out of touch or retro-chic?",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"January 14, 2025 Need a bottle of wine to bring to a holiday party or some rum for spiking the eggnog? If you buy it at a mom-and-pop liquor store or corner market, the price is likely to be higher, maybe a lot higher, t"}]]}]
-27:["$","article","1209",{"children":[["$","time",null,{"dateTime":"2024-12-11T07:43:50","children":"December 11, 2024"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors/","children":["Are the Critics Wrong? How the Robinson-Patman Act Has Been Misunderstood by Its Detractors",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"The Robinson-Patman Act (RPA) has a long, controversial history within U.S. antitrust law and economics. In this episode, Mark Poe, an attorney who specializes in RPA litigation, discusses the RPA with hosts Puja Patel a"}]]}]
-28:["$","article","1201",{"children":[["$","time",null,{"dateTime":"2024-12-04T10:59:13","children":"December 4, 2024"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/the-elevator-pitch/","children":["The Elevator Pitch",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"The concept of the “elevator pitch” is familiar to anyone in the business world. The basic idea is to prepare as if one expects to share an elevator ride with an important decision-maker. During the duration of that imag"}]]}]
-29:["$","article","1193",{"children":[["$","time",null,{"dateTime":"2024-10-09T11:51:28","children":"October 9, 2024"}],["$","h3",null,{"children":["$","$L5",null,{"href":"/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/","children":["Justices Reject 5-Hour Energy’s Attack On Unfair Pricing Test",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]}],["$","p",null,{"children":"October 7, 2024 The U.S. Supreme Court rejected the maker of 5-Hour Energy’s petition to review a Ninth Circuit test for deciding whether companies are in competition with one another in price discrimination cases Monday"}]]}]
-2a:["$","$L5",null,{"className":"text-link","href":"/press/","children":"Browse all press ↗"}]
-c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-8:null
-a:{"metadata":[["$","title","0",{"children":"Author / Nick | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"News and updates from Gaw | Poe LLP: Author / Nick."}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/author/nick/"}],["$","meta","3",{"property":"og:title","content":"Author / Nick"}],["$","meta","4",{"property":"og:description","content":"News and updates from Gaw | Poe LLP: Author / Nick."}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/author/nick/"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Author / Nick"}],["$","meta","9",{"name":"twitter:description","content":"News and updates from Gaw | Poe LLP: Author / Nick."}]],"error":null,"digest":"$undefined"}
-f:"$a:metadata"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["345","static/chunks/app/not-found-4396f60a5d3a00e4.js"],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+0:{"P":null,"b":"pl13k8y6oOPtYddwVrQ_a","p":"","c":["","author","nick",""],"i":false,"f":[[["",{"children":[["slug","author/nick","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,["$","html",null,{"lang":"en-US","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"style":{"fontFamily":"sans-serif","padding":40},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["$","$L4",null,{"href":"/","children":"Return to Gaw | Poe LLP"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["slug","author/nick","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:Ta90e,<div class="wp-site-blocks"><header class="wp-block-template-part">
+<div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:20px;padding-bottom:20px">
+<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-3 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex"><h2 class="wp-block-site-title"><a href="/" target="_self" rel="home">Gaw Poe</a></h2></div>
+
+
+
+<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex"><nav class="is-responsive items-justified-right wp-block-navigation is-horizontal is-content-justification-right is-layout-flex wp-container-core-navigation-is-layout-1 wp-block-navigation-is-layout-flex" aria-label="Navigation" data-wp-interactive="core/navigation" data-wp-context="{&quot;overlayOpenedBy&quot;:{&quot;click&quot;:false,&quot;hover&quot;:false,&quot;focus&quot;:false},&quot;type&quot;:&quot;overlay&quot;,&quot;roleAttribute&quot;:&quot;&quot;,&quot;ariaLabel&quot;:&quot;Menu&quot;}"><button aria-haspopup="dialog" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-wp-on-async--click="actions.openMenuOnClick" data-wp-on--keydown="actions.handleMenuKeydown"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5"></rect><rect x="4" y="15" width="16" height="1.5"></rect></svg></button>
+				<div class="wp-block-navigation__responsive-container  " id="modal-1" data-wp-class--has-modal-open="state.isMenuOpen" data-wp-class--is-menu-open="state.isMenuOpen" data-wp-watch="callbacks.initMenu" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--focusout="actions.handleMenuFocusout" tabindex="-1">
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" data-wp-bind--aria-modal="state.ariaModal" data-wp-bind--aria-label="state.ariaLabel" data-wp-bind--role="state.roleAttribute">
+							<button aria-label="Close menu" class="wp-block-navigation__responsive-container-close" data-wp-on-async--click="actions.closeMenuOnClick"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" data-wp-watch="callbacks.focusFirstElement" id="modal-1-content">
+								<ul class="wp-block-navigation__container is-responsive items-justified-right wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/practice-areas/"><span class="wp-block-navigation-item__label">Practice Areas</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/team/"><span class="wp-block-navigation-item__label">Team</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/about/"><span class="wp-block-navigation-item__label">About</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/press/"><span class="wp-block-navigation-item__label">Press</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact-us/"><span class="wp-block-navigation-item__label">Contact Us</span></a></li><li class=" wp-block-navigation-item phone-number wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact-us/"><span class="wp-block-navigation-item__label">415.766.7451</span></a></li></ul>
+							</div>
+						</div>
+					</div>
+				</div></nav></div>
+</div>
+</div>
+</header>
+
+
+<main class="wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<h1 style="line-height:1; padding-top:var(--wp--preset--spacing--50);" class="alignwide wp-block-query-title">Author: <span>Nick Riseman</span></h1>
+
+
+
+<div class="wp-block-query alignwide is-layout-flow wp-block-query-is-layout-flow">
+
+
+
+	<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0">
+
+		<ul class="columns-3 alignfull wp-block-post-template is-layout-grid wp-container-core-post-template-is-layout-1 wp-block-post-template-is-layout-grid"><li class="wp-block-post post-1661 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/" target="_self"><img width="1000" height="667" src="/wp-content/uploads/2026/09/Contact-Lens.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="9th Circ. Won’t Rehear Eye Drop Antitrust Suit Despite Dissent" style="width:100%;height:100%;object-fit:cover;" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/2026/09/Contact-Lens.jpeg 1000w, /wp-content/uploads/2026/09/Contact-Lens-300x200.jpeg 300w, /wp-content/uploads/2026/09/Contact-Lens-768x512.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-7 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-3"><a href="/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/" target="_self">9th Circ. Won’t Rehear Eye Drop Antitrust Suit Despite Dissent</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-5 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-09-15T07:18:20-07:00"><a href="/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/">Sep 15, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-4"><p class="wp-block-post-excerpt__excerpt">August 31, 2026 A forceful dissent from a pair of Ninth Circuit judges wasn’t enough to keep the full appellate court from letting stand a panel decision preserving wholesalers’ district court win accusing the maker of Clear Eyes drops of illegal price discrimination favoring Costco… Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-5">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1625 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/meta-hit-with-textbook-authors-ip-suit-over-ai-training/" target="_self"><img width="1000" height="563" src="/wp-content/uploads/2026/07/Meta-logo.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Meta Hit With Textbook Authors’ IP Suit Over AI Training" style="width:100%;height:100%;object-fit:cover;" decoding="async" srcset="/wp-content/uploads/2026/07/Meta-logo.png 1000w, /wp-content/uploads/2026/07/Meta-logo-300x169.png 300w, /wp-content/uploads/2026/07/Meta-logo-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-10 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-6"><a href="/meta-hit-with-textbook-authors-ip-suit-over-ai-training/" target="_self">Meta Hit With Textbook Authors’ IP Suit Over AI Training</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-8 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-07-09T08:51:01-07:00"><a href="/meta-hit-with-textbook-authors-ip-suit-over-ai-training/">Jul 9, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-7"><p class="wp-block-post-excerpt__excerpt">June 2, 2026 Meta Platforms Inc. was hit with a proposed class action Thursday in California federal court accusing it of feeding copyrighted textbooks into its Llama large language model to train the artificial intelligence product without getting permission from or compensating the textbooks’ authors… Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-8">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1622 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year/" target="_self"><img width="940" height="641" src="/wp-content/uploads/2026/07/2026-Super-Lawyers.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Gaw | Poe LLP Partners Randolph Gaw and Mark Poe Both Selected to List of Super Lawyers for SIXTH Straight Year" style="width:100%;height:100%;object-fit:cover;" decoding="async" srcset="/wp-content/uploads/2026/07/2026-Super-Lawyers.png 940w, /wp-content/uploads/2026/07/2026-Super-Lawyers-300x205.png 300w, /wp-content/uploads/2026/07/2026-Super-Lawyers-768x524.png 768w" sizes="(max-width: 940px) 100vw, 940px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-13 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-9"><a href="/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year/" target="_self">Gaw | Poe LLP Partners Randolph Gaw and Mark Poe Both Selected to List of Super Lawyers for SIXTH Straight Year</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-11 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-07-08T08:50:35-07:00"><a href="/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year/">Jul 8, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-10"><p class="wp-block-post-excerpt__excerpt">SAN FRANCISCO –&nbsp;June 30, 2026&nbsp;– Gaw | Poe LLP announced&nbsp;today&nbsp;that for the sixth straight year, partners Randolph Gaw and Mark Poe were both selected as Northern California Super Lawyers by Super Lawyers.&nbsp; Super Lawyers is a rating service of outstanding lawyers from more than 70 practice areas who have attained a high degree of peer… </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-11">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1612 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit/" target="_self"><img width="1000" height="667" src="/wp-content/uploads/2026/06/Only-Fans.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="OnlyFans Users Ask 9th Circ. To Revive Calif. Auto-Renew Suit" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2026/06/Only-Fans.jpeg 1000w, /wp-content/uploads/2026/06/Only-Fans-300x200.jpeg 300w, /wp-content/uploads/2026/06/Only-Fans-768x512.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-16 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-12"><a href="/onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit/" target="_self">OnlyFans Users Ask 9th Circ. To Revive Calif. Auto-Renew Suit</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-14 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-06-11T11:16:00-07:00"><a href="/onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit/">Jun 11, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-13"><p class="wp-block-post-excerpt__excerpt">June 9, 2026 OnlyFans subscribers on Tuesday urged the Ninth Circuit to revive a proposed class action alleging unlawful subscription auto-renewals, arguing California courts have jurisdiction over the platform’s U.K. parent company because it auto-renews thousands of Golden State subscriptions and generates $400 million from the state annually… Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-14">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1609 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026/" target="_self"><img width="1080" height="1350" src="/wp-content/uploads/2026/06/Chambers-Ranking.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Gaw | Poe LLP Obtains Inaugural Rankings in Chambers USA Legal Guide 2026" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2026/06/Chambers-Ranking.jpg 1080w, /wp-content/uploads/2026/06/Chambers-Ranking-240x300.jpg 240w, /wp-content/uploads/2026/06/Chambers-Ranking-819x1024.jpg 819w, /wp-content/uploads/2026/06/Chambers-Ranking-768x960.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-19 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-15"><a href="/gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026/" target="_self">Gaw | Poe LLP Obtains Inaugural Rankings in Chambers USA Legal Guide 2026</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-17 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-06-10T09:28:58-07:00"><a href="/gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026/">Jun 10, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-16"><p class="wp-block-post-excerpt__excerpt">June 4, 2026 Gaw | Poe LLP today announced that it has achieved its inaugural rankings in the annual Chambers &amp; Partners USA Legal Guide. Gaw | Poe received a Band 3 ranking in the categories of California: Antitrust, Mainly Plaintiffs and California: Litigation: Mainly Plaintiffs. Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-17">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1559 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/is-1314-per-hour-too-much-for-a-small-firm-court-says-no/" target="_self"><img width="1000" height="649" src="/wp-content/uploads/2026/04/Law-office.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Is $1,314 Per Hour Too Much For A Small Firm? Court Says No" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2026/04/Law-office.jpeg 1000w, /wp-content/uploads/2026/04/Law-office-300x195.jpeg 300w, /wp-content/uploads/2026/04/Law-office-768x498.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-22 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-18"><a href="/is-1314-per-hour-too-much-for-a-small-firm-court-says-no/" target="_self">Is $1,314 Per Hour Too Much For A Small Firm? Court Says No</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-20 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-04-03T13:33:37-07:00"><a href="/is-1314-per-hour-too-much-for-a-small-firm-court-says-no/">Apr 3, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-19"><p class="wp-block-post-excerpt__excerpt">April 2, 2026 Attorneys from small firms usually charge less than lawyers from bigger firms, but in fights over attorney fees, should lawyers from small firms be forced to accept smaller amounts of money… Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-20">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1555 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/emotional-abuse-in-college-sports/" target="_self"><img width="1000" height="743" src="/wp-content/uploads/2026/03/Basketball.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Emotional Abuse in College Sports" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2026/03/Basketball.jpeg 1000w, /wp-content/uploads/2026/03/Basketball-300x223.jpeg 300w, /wp-content/uploads/2026/03/Basketball-768x571.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-25 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-21"><a href="/emotional-abuse-in-college-sports/" target="_self">Emotional Abuse in College Sports</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-23 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-03-18T09:20:10-07:00"><a href="/emotional-abuse-in-college-sports/">Mar 18, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-22"><p class="wp-block-post-excerpt__excerpt">March 15, 2026 March Madness is here. The high-stakes, sudden-death college basketball tournament is a beloved tradition in American sports. For the players, it’s a chance to showcase the skills they’ve developed through years of hard training of the body and mind. In many cases, that push produces incredible feats of athletic performance. But an… </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-23">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1552 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/9th-circuit-restores-attorney-fees-slashed-over-firm-size/" target="_self"><img width="1200" height="800" src="/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="9th Circuit restores attorney fees slashed over firm size" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash.jpg 1200w, /wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash-300x200.jpg 300w, /wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-28 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-24"><a href="/9th-circuit-restores-attorney-fees-slashed-over-firm-size/" target="_self">9th Circuit restores attorney fees slashed over firm size</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-26 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-03-03T13:09:34-08:00"><a href="/9th-circuit-restores-attorney-fees-slashed-over-firm-size/">Mar 3, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-25"><p class="wp-block-post-excerpt__excerpt">February 26, 2026 The 9th U.S. Circuit Court of Appeals has vacated a $4.5 million fee reduction, ruling that a winning law firm’s size cannot be used to justify lower fees and declaring that “brilliance at the bar” is not measure by the number of associates a lawyer commands. Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-26">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1510 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/" target="_self"><img width="1000" height="526" src="/wp-content/uploads/2026/02/City-Hall.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="9th Circ. Grants Atty Fee Appeal In Eye Drop Pricing Suit" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2026/02/City-Hall.jpeg 1000w, /wp-content/uploads/2026/02/City-Hall-300x158.jpeg 300w, /wp-content/uploads/2026/02/City-Hall-768x404.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-31 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-27"><a href="/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/" target="_self">9th Circ. Grants Atty Fee Appeal In Eye Drop Pricing Suit</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-29 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-02-26T17:26:41-08:00"><a href="/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/">Feb 26, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-28"><p class="wp-block-post-excerpt__excerpt">February 25, 2026 District courts cannot reduce fee awards to attorneys based on a firm’s size, the Ninth Circuit ruled in a published opinion on Tuesday, sending a case back to a California federal court to recalculate attorney fees awarded to a “small” firm that represented wholesalers in a Robinson-Patman Act suit against eye drop… </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-29">
+			</div>
+
+		</div>
+
+
+		</li><li class="wp-block-post post-1506 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		<figure style="aspect-ratio:3/4; padding-bottom:var(--wp--preset--spacing--20);margin-bottom:0;" class="wp-block-post-featured-image"><a href="/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/" target="_self"><img width="1000" height="750" src="/wp-content/uploads/2026/02/9th-Circuit-Looking-Up.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="It’s Not The Size Of The Firm, It’s How You Use It: Ninth Circuit Smacks Down Fee-Shaming Of Small Law" style="width:100%;height:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2026/02/9th-Circuit-Looking-Up.jpeg 1000w, /wp-content/uploads/2026/02/9th-Circuit-Looking-Up-300x225.jpeg 300w, /wp-content/uploads/2026/02/9th-Circuit-Looking-Up-768x576.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a></figure>
+
+
+		<div class="wp-block-group is-vertical is-nowrap is-layout-flex wp-container-core-group-is-layout-34 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--20);padding-top:0">
+			<h2 class="wp-block-post-title has-large-font-size wp-container-content-30"><a href="/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/" target="_self">It’s Not The Size Of The Firm, It’s How You Use It: Ninth Circuit Smacks Down Fee-Shaming Of Small Law</a></h2>
+
+			<div class="wp-block-template-part">
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-32 wp-block-group-is-layout-flex">
+		<div class="wp-block-post-date"><time datetime="2026-02-26T17:15:38-08:00"><a href="/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/">Feb 26, 2026</a></time></div>
+
+
+		<p class="has-contrast-2-color has-text-color">—</p>
+
+
+
+		<p class="has-small-font-size has-contrast-2-color has-text-color">by</p>
+
+
+		<div class="wp-block-post-author-name"><a href="/author/nick/" target="_self" class="wp-block-post-author-name__link">Nick Riseman</a></div>
+
+		<div class="taxonomy-category wp-block-post-terms"><span class="wp-block-post-terms__prefix">in </span><a href="/category/uncategorized/" rel="tag">Uncategorized</a></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			<div class="wp-block-post-excerpt has-text-color has-contrast-2-color has-small-font-size wp-container-content-31"><p class="wp-block-post-excerpt__excerpt">February 25, 2026 The Ninth Circuit just made clear, size isn’t everything. And pretending otherwise is just compensating for something else entirely. Read more </p></div>
+
+
+			<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-32">
+			</div>
+
+		</div>
+
+
+		</li></ul>
+
+
+		<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+		<nav class="wp-block-query-pagination is-content-justification-space-between is-layout-flex wp-container-core-query-pagination-is-layout-1 wp-block-query-pagination-is-layout-flex" aria-label="Pagination">
+
+		<a href="/author/nick/page/2/" class="wp-block-query-pagination-next">Next Page<span class="wp-block-query-pagination-next-arrow is-arrow-arrow" aria-hidden="true">→</span></a>
+		</nav>
+
+	</div>
+
+</div>
+
+
+
+</main>
+
+
+<footer class="wp-block-template-part">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)">
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-37 wp-block-group-is-layout-flex"><p class="logo-gaw-poe wp-block-site-title has-medium-font-size"><a href="/" target="_self" rel="home">Gaw Poe</a></p></div>
+</div>
+
+
+
+<div class="wp-block-column nav is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-46 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-39 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Practice Areas</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-38 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-2 wp-block-navigation-is-layout-flex" aria-label="Practice Areas"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="#"><span class="wp-block-navigation-item__label">Trial Work</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/business-litigation/"><span class="wp-block-navigation-item__label">Business Litigation</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/antitrust/"><span class="wp-block-navigation-item__label">Antitrust</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/catastrophic-injury/"><span class="wp-block-navigation-item__label">Catastrophic Injury</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/appeals/"><span class="wp-block-navigation-item__label">Appeals</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-41 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Team</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-40 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-3 wp-block-navigation-is-layout-flex" aria-label="Footer navigation"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/randolph-gaw/"><span class="wp-block-navigation-item__label">Randolph Gaw</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/mark-poe/"><span class="wp-block-navigation-item__label">Mark Poe</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/victor-meng/"><span class="wp-block-navigation-item__label">Victor Meng</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/christopher-wimmer/"><span class="wp-block-navigation-item__label">Christopher Wimmer</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/flora-vigo/"><span class="wp-block-navigation-item__label">Flora Vigo</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/paul-martin/"><span class="wp-block-navigation-item__label">Paul Martin</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/kristin-menon/"><span class="wp-block-navigation-item__label">Kristin Menon</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-43 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">About</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-42 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-4 wp-block-navigation-is-layout-flex" aria-label="Footer navigation 2"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/about/"><span class="wp-block-navigation-item__label">About</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/press/"><span class="wp-block-navigation-item__label">Press</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-45 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Contact Us</h2>
+
+
+
+<div class="wp-block-group social is-vertical is-layout-flex wp-container-core-group-is-layout-44 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-5 wp-block-navigation-is-layout-flex" aria-label="Footer navigation 3"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item ic li wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="https://www.linkedin.com/company/gaw-poe-llp/" target="_blank"><span class="wp-block-navigation-item__label">LinkedIn</span></a></li><li class="has-small-font-size wp-block-navigation-item ic fb wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="https://www.facebook.com/profile.php?id=61560638781599" target="_blank"><span class="wp-block-navigation-item__label">Facebook</span></a></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group alignfull blk-copyright is-layout-flow wp-block-group-is-layout-flow" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:0">
+<p class="has-text-align-center has-contrast-2-color has-text-color has-link-color has-small-font-size wp-elements-5c6d159ba291aee5d53cb88801a49f4f">© 2026 Gaw | Poe LLP</p>
+</div>
+</div>
+</footer>
+</div>5:[["$","link",null,{"rel":"stylesheet","href":"/site-css/39df7d1431e3e53d.css"}],["$","div",null,{"className":"archive author author-nick author-5 wp-custom-logo wp-embed-responsive","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11",false]
+12:I[5707,["749","static/chunks/749-115fed15e18a51c1.js","48","static/chunks/app/%5B...slug%5D/page-d5eda22a5126496a.js"],"SiteBehavior"]
+11:["$","$L12",null,{"bodyClass":"archive author author-nick author-5 wp-custom-logo wp-embed-responsive"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Nick Riseman – Gaw Poe"}],["$","meta","1",{"name":"description","content":"—"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/author/nick/"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

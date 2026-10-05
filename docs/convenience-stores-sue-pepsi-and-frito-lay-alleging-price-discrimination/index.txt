@@ -1,18 +1,200 @@
 1:"$Sreact.fragment"
-2:I[6560,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-453d92cc9b03c835.js"],"Header"]
-3:I[9766,[],""]
-4:I[8924,[],""]
-5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","48","static/chunks/app/%5B...slug%5D/page-3c2369e84f739497.js"],""]
-7:I[4431,[],"OutletBoundary"]
-9:I[5278,[],"AsyncMetadataOutlet"]
-b:I[4431,[],"ViewportBoundary"]
-d:I[4431,[],"MetadataBoundary"]
-e:"$Sreact.suspense"
-10:I[7150,[],""]
-:HL["/_next/static/css/433516aa2901fe80.css","style"]
-0:{"P":null,"b":"GTa2kGqBhyYTCUH85TIrV","p":"","c":["","convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination",""],"i":false,"f":[[["",{"children":[["slug","convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/433516aa2901fe80.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"content-band page-shell","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found."}],["$","p",null,{"children":"The page may have moved during migration."}],["$","$L5",null,{"className":"button primary","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","section",null,{"className":"contact-band","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Let’s talk"}],["$","h2",null,{"children":["Consequential matters.",["$","br",null,{}],"Personal attention."]}]]}],["$","$L5",null,{"className":"button light","href":"/contact-us/","children":["Get in touch ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","$L5",null,{"href":"/","className":"footer-brand","children":["GAW ",["$","span",null,{"children":"|"}]," POE ",["$","small",null,{"children":"LLP"}]]}],["$","p",null,{"children":["Trial & appellate counsel.",["$","br",null,{}],"San Francisco, California."]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Explore"}],["$","$L5",null,{"href":"/practice-areas/","children":"Practice Areas"}],["$","$L5",null,{"href":"/team/","children":"Our Team"}],["$","$L5",null,{"href":"/about/","children":"Our Story"}],["$","$L5",null,{"href":"/press/","children":"Press"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Contact"}],["$","a",null,{"href":"tel:+14157667451","children":"415.766.7451"}],["$","a",null,{"href":"mailto:contact@gawpoe.com","children":"contact@gawpoe.com"}],["$","p",null,{"children":["One Embarcadero, Suite 1200",["$","br",null,{}],"San Francisco, CA 94111"]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," Gaw | Poe LLP"]}],["$","span",null,{"children":"San Francisco, California"}]]}]]}]]}]}]]}],{"children":[["slug","convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination","c"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
-6:[["$","section",null,{"className":"page-heading","children":["$","div",null,{"className":"content-band","children":[["$","$L5",null,{"className":"breadcrumb","href":"/","children":"Home"}],["$","span",null,{"className":"breadcrumb","children":[" ","/"," ","Press"]}],["$","p",null,{"className":"eyebrow","children":"February 20, 2025"}],["$","h1",null,{"children":"Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination"}]]}]}],["$","section",null,{"className":"content-band article-layout ","children":["$undefined",["$","div",null,{"children":["$undefined",["$","article",null,{"className":"wp-content","dangerouslySetInnerHTML":{"__html":"\n<p>February 18, 2025</p>\n\n\n\n<p>PepsiCo and its Frito-Lay unit have been sued in U.S. court in California by convenience stores that claim they have been denied the same sales deals offered to major retailers such as Walmart and Albertsons, causing them to pay higher prices.</p>\n\n\n\n<p><a href=\"https://www.reuters.com/legal/government/convenience-stores-sue-pepsi-frito-lay-alleging-price-discrimination-2025-02-18/\">Read more</a></p>\n\n\n\n<p></p>\n"}}],["$","$L5",null,{"className":"text-link back-link","href":"/press/","children":"← Back to press"}]]}]]}]]
-c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-8:null
-a:{"metadata":[["$","title","0",{"children":"Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination | Gaw | Poe LLP"}],["$","meta","1",{"name":"description","content":"February 18, 2025 PepsiCo and its Frito-Lay unit have been sued in U.S. court in California by convenience stores that claim they have been denied the same sales deals offered to major retailers such as Walmart and Alber"}],["$","link","2",{"rel":"canonical","href":"https://www.gawpoe.com/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/"}],["$","meta","3",{"property":"og:title","content":"Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination"}],["$","meta","4",{"property":"og:description","content":"February 18, 2025 PepsiCo and its Frito-Lay unit have been sued in U.S. court in California by convenience stores that claim they have been denied the same sales deals offered to major retailers such as Walmart and Alber"}],["$","meta","5",{"property":"og:url","content":"https://www.gawpoe.com/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/"}],["$","meta","6",{"property":"og:image","content":"https://www.gawpoe.com/media/c501a44f9783-Pepsi-1.jpeg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination"}],["$","meta","10",{"name":"twitter:description","content":"February 18, 2025 PepsiCo and its Frito-Lay unit have been sued in U.S. court in California by convenience stores that claim they have been denied the same sales deals offered to major retailers such as Walmart and Alber"}],["$","meta","11",{"name":"twitter:image","content":"https://www.gawpoe.com/media/c501a44f9783-Pepsi-1.jpeg"}]],"error":null,"digest":"$undefined"}
-f:"$a:metadata"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["345","static/chunks/app/not-found-4396f60a5d3a00e4.js"],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+0:{"P":null,"b":"pl13k8y6oOPtYddwVrQ_a","p":"","c":["","convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination",""],"i":false,"f":[[["",{"children":[["slug","convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination","c"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,["$","html",null,{"lang":"en-US","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"style":{"fontFamily":"sans-serif","padding":40},"children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["$","$L4",null,{"href":"/","children":"Return to Gaw | Poe LLP"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["slug","convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:T4912,<div class="wp-site-blocks"><header class="wp-block-template-part">
+<div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:20px;padding-bottom:20px">
+<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-3 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex"><h2 class="wp-block-site-title"><a href="/" target="_self" rel="home">Gaw Poe</a></h2></div>
+
+
+
+<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex"><nav class="is-responsive items-justified-right wp-block-navigation is-horizontal is-content-justification-right is-layout-flex wp-container-core-navigation-is-layout-1 wp-block-navigation-is-layout-flex" aria-label="Navigation" data-wp-interactive="core/navigation" data-wp-context="{&quot;overlayOpenedBy&quot;:{&quot;click&quot;:false,&quot;hover&quot;:false,&quot;focus&quot;:false},&quot;type&quot;:&quot;overlay&quot;,&quot;roleAttribute&quot;:&quot;&quot;,&quot;ariaLabel&quot;:&quot;Menu&quot;}"><button aria-haspopup="dialog" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-wp-on-async--click="actions.openMenuOnClick" data-wp-on--keydown="actions.handleMenuKeydown"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5"></rect><rect x="4" y="15" width="16" height="1.5"></rect></svg></button>
+				<div class="wp-block-navigation__responsive-container  " id="modal-1" data-wp-class--has-modal-open="state.isMenuOpen" data-wp-class--is-menu-open="state.isMenuOpen" data-wp-watch="callbacks.initMenu" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--focusout="actions.handleMenuFocusout" tabindex="-1">
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" data-wp-bind--aria-modal="state.ariaModal" data-wp-bind--aria-label="state.ariaLabel" data-wp-bind--role="state.roleAttribute">
+							<button aria-label="Close menu" class="wp-block-navigation__responsive-container-close" data-wp-on-async--click="actions.closeMenuOnClick"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" data-wp-watch="callbacks.focusFirstElement" id="modal-1-content">
+								<ul class="wp-block-navigation__container is-responsive items-justified-right wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/practice-areas/"><span class="wp-block-navigation-item__label">Practice Areas</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/team/"><span class="wp-block-navigation-item__label">Team</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/about/"><span class="wp-block-navigation-item__label">About</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/press/"><span class="wp-block-navigation-item__label">Press</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact-us/"><span class="wp-block-navigation-item__label">Contact Us</span></a></li><li class=" wp-block-navigation-item phone-number wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact-us/"><span class="wp-block-navigation-item__label">415.766.7451</span></a></li></ul>
+							</div>
+						</div>
+					</div>
+				</div></nav></div>
+</div>
+</div>
+</header>
+
+<figure style="margin-bottom:var(--wp--preset--spacing--40);" class="aligncenter wp-block-post-featured-image"><img width="1000" height="571" src="/wp-content/uploads/2025/02/Pepsi-1.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/2025/02/Pepsi-1.jpeg 1000w, /wp-content/uploads/2025/02/Pepsi-1-300x171.jpeg 300w, /wp-content/uploads/2025/02/Pepsi-1-768x439.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></figure>
+
+
+<div class="wp-block-columns press-content-contain post-contain is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%"></div>
+
+
+
+<div class="wp-block-column sidebar is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"></div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-columns alignwide press-content-contain post-contain is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%"><h2 class="h-standard dlrg wp-block-post-title">Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination</h2>
+
+<div class="entry-content alignfull wp-block-post-content has-global-padding is-content-justification-left is-layout-constrained wp-container-core-post-content-is-layout-1 wp-block-post-content-is-layout-constrained">
+<p>February 18, 2025</p>
+
+
+
+<p>PepsiCo and its Frito-Lay unit have been sued in U.S. court in California by convenience stores that claim they have been denied the same sales deals offered to major retailers such as Walmart and Albertsons, causing them to pay higher prices.</p>
+
+
+
+<p><a href="https://www.reuters.com/legal/government/convenience-stores-sue-pepsi-frito-lay-alleging-price-discrimination-2025-02-18/">Read more</a></p>
+
+
+
+<p></p>
+</div>
+
+
+<div class="wp-block-group blk-about-gaw-poe has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<h3 class="wp-block-heading h-in-pg">ABOUT GAW | POE LLP</h3>
+
+
+
+<p>Gaw | Poe LLP is a San Francisco Bay Area boutique law firm focusing on business litigation, antitrust litigation, and appeals. Founders Randolph Gaw and Mark Poe are nationally recognized litigators who graduated from the same class at Stanford Law School. The firm has been recognized by&nbsp;<em>The National Law Journal</em>&nbsp;for obtaining the 37<sup>th</sup>&nbsp;largest verdict in the country for 2016.</p>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+
+
+
+<div class="wp-block-column sidebar is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%">
+<div class="wp-block-group blk-latest-press has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<h4 class="wp-block-heading h-standard">Latest Press</h4>
+
+
+<ul class="wp-block-latest-posts__list is-grid columns-2 has-dates alignfull wp-block-latest-posts"><li><div class="wp-block-latest-posts__featured-image aligncenter"><a href="/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/" aria-label="9th Circ. Won’t Rehear Eye Drop Antitrust Suit Despite Dissent"><img width="300" height="200" src="/wp-content/uploads/2026/09/Contact-Lens-300x200.jpeg" class="attachment-medium size-medium wp-post-image" alt="" style="" decoding="async" srcset="/wp-content/uploads/2026/09/Contact-Lens-300x200.jpeg 300w, /wp-content/uploads/2026/09/Contact-Lens-768x512.jpeg 768w, /wp-content/uploads/2026/09/Contact-Lens.jpeg 1000w" sizes="(max-width: 300px) 100vw, 300px"></a></div><a class="wp-block-latest-posts__post-title" href="/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/">9th Circ. Won’t Rehear Eye Drop Antitrust Suit Despite Dissent</a><time datetime="2026-09-15T07:18:20-07:00" class="wp-block-latest-posts__post-date">September 15, 2026</time></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><a href="/meta-hit-with-textbook-authors-ip-suit-over-ai-training/" aria-label="Meta Hit With Textbook Authors’ IP Suit Over AI Training"><img width="300" height="169" src="/wp-content/uploads/2026/07/Meta-logo-300x169.png" class="attachment-medium size-medium wp-post-image" alt="" style="" decoding="async" srcset="/wp-content/uploads/2026/07/Meta-logo-300x169.png 300w, /wp-content/uploads/2026/07/Meta-logo-768x432.png 768w, /wp-content/uploads/2026/07/Meta-logo.png 1000w" sizes="(max-width: 300px) 100vw, 300px"></a></div><a class="wp-block-latest-posts__post-title" href="/meta-hit-with-textbook-authors-ip-suit-over-ai-training/">Meta Hit With Textbook Authors’ IP Suit Over AI Training</a><time datetime="2026-07-09T08:51:01-07:00" class="wp-block-latest-posts__post-date">July 9, 2026</time></li>
+</ul>
+
+
+<p class="more"><a href="/press/" data-type="page" data-id="255">More Press</a></p>
+</div>
+
+
+
+<div class="wp-block-group blk-contact has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<h4 class="wp-block-heading h-standard">Contact</h4>
+
+
+
+<p class="contact-point phone"><strong>P</strong> +1 415-766-7451</p>
+
+
+
+<p class="contact-point fax"><strong>F</strong> +1 415-737-0642</p>
+
+
+
+<p class="contact-point email"><strong>E</strong> <a href="mailto:contact@gawpoe.com" class="">contact@gawpoe.com</a></p>
+
+
+
+<div class="wp-block-group social has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<p class="ic li"><a href="https://www.linkedin.com/company/gaw-poe-llp/" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
+
+
+
+<p class="ic fb"><a href="https://www.facebook.com/profile.php?id=61560638781599" target="_blank" rel="noreferrer noopener">Facebook</a></p>
+</div>
+
+
+
+<p class="address">One Embarcadero<br>Suite 1200<br>San Francisco, CA 94111</p>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+</div>
+</div>
+
+
+<footer class="wp-block-template-part">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)">
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-10 wp-block-group-is-layout-flex"><p class="logo-gaw-poe wp-block-site-title has-medium-font-size"><a href="/" target="_self" rel="home">Gaw Poe</a></p></div>
+</div>
+
+
+
+<div class="wp-block-column nav is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<div class="wp-block-group is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-19 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-12 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Practice Areas</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-11 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-2 wp-block-navigation-is-layout-flex" aria-label="Practice Areas"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="#"><span class="wp-block-navigation-item__label">Trial Work</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/business-litigation/"><span class="wp-block-navigation-item__label">Business Litigation</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/antitrust/"><span class="wp-block-navigation-item__label">Antitrust</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/catastrophic-injury/"><span class="wp-block-navigation-item__label">Catastrophic Injury</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/appeals/"><span class="wp-block-navigation-item__label">Appeals</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-14 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Team</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-13 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-3 wp-block-navigation-is-layout-flex" aria-label="Footer navigation"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/randolph-gaw/"><span class="wp-block-navigation-item__label">Randolph Gaw</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/mark-poe/"><span class="wp-block-navigation-item__label">Mark Poe</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/victor-meng/"><span class="wp-block-navigation-item__label">Victor Meng</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/christopher-wimmer/"><span class="wp-block-navigation-item__label">Christopher Wimmer</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/flora-vigo/"><span class="wp-block-navigation-item__label">Flora Vigo</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/paul-martin/"><span class="wp-block-navigation-item__label">Paul Martin</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/kristin-menon/"><span class="wp-block-navigation-item__label">Kristin Menon</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-16 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">About</h2>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-15 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-4 wp-block-navigation-is-layout-flex" aria-label="Footer navigation 2"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/about/"><span class="wp-block-navigation-item__label">About</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/press/"><span class="wp-block-navigation-item__label">Press</span></a></li></ul></nav></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-18 wp-block-group-is-layout-flex">
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Contact Us</h2>
+
+
+
+<div class="wp-block-group social is-vertical is-layout-flex wp-container-core-group-is-layout-17 wp-block-group-is-layout-flex"><nav style="font-style:normal;font-weight:400;" class="has-small-font-size  is-vertical wp-block-navigation has-small-font-size is-layout-flex wp-container-core-navigation-is-layout-5 wp-block-navigation-is-layout-flex" aria-label="Footer navigation 3"><ul style="font-style:normal;font-weight:400;" class="wp-block-navigation__container has-small-font-size  is-vertical wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item ic li wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="https://www.linkedin.com/company/gaw-poe-llp/" target="_blank"><span class="wp-block-navigation-item__label">LinkedIn</span></a></li><li class="has-small-font-size wp-block-navigation-item ic fb wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="https://www.facebook.com/profile.php?id=61560638781599" target="_blank"><span class="wp-block-navigation-item__label">Facebook</span></a></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group alignfull blk-copyright is-layout-flow wp-block-group-is-layout-flow" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:0">
+<p class="has-text-align-center has-contrast-2-color has-text-color has-link-color has-small-font-size wp-elements-5c6d159ba291aee5d53cb88801a49f4f">© 2026 Gaw | Poe LLP</p>
+</div>
+</div>
+</footer></div>5:[["$","link",null,{"rel":"stylesheet","href":"/site-css/7003d877831db005.css"}],["$","div",null,{"className":"post-template-default single single-post postid-1231 single-format-standard wp-custom-logo wp-embed-responsive","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11",false]
+12:I[5707,["749","static/chunks/749-115fed15e18a51c1.js","48","static/chunks/app/%5B...slug%5D/page-d5eda22a5126496a.js"],"SiteBehavior"]
+11:["$","$L12",null,{"bodyClass":"post-template-default single single-post postid-1231 single-format-standard wp-custom-logo wp-embed-responsive"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"Convenience stores sue Pepsi and Frito-Lay, alleging price discrimination – Gaw Poe"}],["$","link","1",{"rel":"canonical","href":"https://www.gawpoe.com/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

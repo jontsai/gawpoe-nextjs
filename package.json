@@ -5,19 +5,20 @@
   "description": "Static Next.js migration for Gaw/Poe LLP",
   "scripts": {
     "dev": "next dev",
-    "import:wp": "node src/scripts/import-wordpress.mjs",
+    "import:wp": "node scripts/capture-live-site.mjs",
     "sync:sitemap": "node scripts/sync-wp-sitemap.mjs",
-    "build": "next build && node scripts/sync-export-to-docs.mjs && npm run check:coverage",
+    "build": "next build && node scripts/write-redirects.mjs && node scripts/sync-export-to-docs.mjs && npm run check:coverage",
     "check:coverage": "node scripts/check-content-coverage.mjs",
     "start": "npm run preview",
     "lint": "eslint src --ext .ts,.tsx",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "refresh:content": "npm run import:wp && npm run sync:sitemap",
+    "refresh:content": "npm run sync:sitemap && node scripts/capture-media.mjs && node scripts/capture-live-site.mjs",
     "test": "node --test tests/*.test.mjs",
     "test:browser": "playwright test",
     "typecheck": "tsc --noEmit",
-    "preview": "node scripts/preview.mjs"
+    "preview": "node scripts/preview.mjs",
+    "compare:live": "node scripts/compare-live.mjs"
   },
   "dependencies": {
     "@hacktoolkit/nextjs-htk": "^0.2.0",
