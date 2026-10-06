@@ -1,5 +1,7 @@
 # Gaw | Poe LLP — faithful static migration
 
+**Stable review site:** https://gawpoe.dev.upinthe.xyz/ — Zion, dev only, search-engine indexing disabled. Production remains on WordPress.
+
 Next.js App Router, using the existing nextjs-htk project/export conventions. WordPress is a capture source, not a runtime dependency. This is a **faithful migration, not a redesign**: original layout, Raleway/Open Sans fonts, colors, imagery, results ticker, reviews carousel, navigation, sidebar and footer are retained.
 
 ## Build and verify
@@ -91,3 +93,15 @@ Next.js is updated within 15.x and PostCSS is overridden to a patched compatible
 The generated `/sitemap.xml` and preserved WordPress sitemap family contain exactly the same **113 published source URLs**. The broader **131 rendered routes** remain served; archive pagination, the retained retired profile, and the query-only attachment are not additional sitemap entries. Build-time checks reject missing **or extra** sitemap entries.
 
 After building, run `npm run audit:sitemaps` and `npm run audit:media` for fresh public-source comparisons. The media audit covers 762 library files plus theme/review images (788 assets total), verifies source/public/export SHA-256 equality, and fully decodes raster images. Ordinary offline tests enforce the verified media hashes. See [sitemap/image review](verification/sitemap-and-media-review.md) and [permanent dev-site plan](verification/dev-host-plan.md). RSS remains optional; existing captured feeds are preserved without further feature work.
+
+
+## Verify the permanent dev host
+
+```sh
+BASE_URL=https://gawpoe.dev.upinthe.xyz npm run test:browser
+node scripts/audit-dev-host.mjs
+```
+
+The host audit verifies every page's content/canonical URL, all 788 media hashes, all 444 captured path/query redirects, both sitemap families, feed MIME types, noindex and a genuine 404. The browser suite accepts `BASE_URL` and checks rendering/interaction against that actual host rather than silently starting localhost.
+
+`scripts/prepare-apache-dev.mjs <isolated-export-directory>` creates dev-only Apache rules in a **copy** of the committed export; it refuses the usual `public`, `docs`, and `out` roots. Never include dev noindex rules in a production export. Versioned releases and the activation receipt live outside the web root on Zion; see [dev deployment record](verification/dev-deployment.md). Future updates require explicit dev deployment scope, stage checks, and an atomic document-root symlink switch, not editing the served release in place.

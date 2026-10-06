@@ -108,7 +108,10 @@ test("legacy WordPress ID URLs redirect to the matching content", async ({
   ]) {
     const response = await request.get(url, { maxRedirects: 0 });
     expect(response.status()).toBe(301);
-    expect(response.headers().location).toBe(target);
+    const base = process.env.BASE_URL || "http://127.0.0.1:3186";
+    const destination = new URL(response.headers().location, base);
+    expect(destination.origin).toBe(new URL(base).origin);
+    expect(destination.pathname + destination.search).toBe(target);
   }
 });
 
@@ -118,7 +121,10 @@ test("all preserved attachment permalinks and query aliases redirect correctly",
   for (const [from, to] of Object.entries(media.redirects)) {
     const response = await request.get(from, { maxRedirects: 0 });
     expect(response.status(), from).toBe(301);
-    expect(response.headers().location, from).toBe(to);
+    const base = process.env.BASE_URL || "http://127.0.0.1:3186";
+    const target = new URL(response.headers().location, base);
+    expect(target.origin, from).toBe(new URL(base).origin);
+    expect(target.pathname + target.search, from).toBe(to);
   }
 });
 
@@ -127,7 +133,10 @@ test("homepage initializes without requesting any WordPress backend or remote as
 }) => {
   const remote: string[] = [];
   page.on("request", (request) => {
-    if (new URL(request.url()).origin !== "http://127.0.0.1:3186")
+    if (
+      new URL(request.url()).origin !==
+      new URL(process.env.BASE_URL || "http://127.0.0.1:3186").origin
+    )
       remote.push(request.url());
   });
   await page.goto("/");

@@ -1,0 +1,6868 @@
+{
+  "checkedAt": "2026-10-06T05:04:58.718Z",
+  "base": "https://gawpoe.dev.upinthe.xyz",
+  "counts": {
+    "pages": 131,
+    "assets": 788,
+    "redirects": 444,
+    "feeds": 6
+  },
+  "failures": [],
+  "checks": [
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/0cebf4e396ea93f6.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/161c70f7e68cbe7a.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/60d0a76a46ec7c32.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/641bbe65582be16b.gif",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/6f6d23aefc00e23b.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/8b136d5373b5fd0b.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/9142b4cc8f2ef235.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/be969175fda4b48c.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/c65b47bfb35d7c98.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/c6ee0349fc91356c.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/cdn.trustindex.io/eddce221941efba5.svg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/jhgstudios.com/0264c95adecf12b1.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/jhgstudios.com/3ef94de057a73e37.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/jhgstudios.com/4681b9c5b5b29940.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/jhgstudios.com/ce839256eaf82f0c.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/jhgstudios.com/d3341bda0fb0ec2f.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/jhgstudios.com/f7193ec55ffdac89.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/lh5.googleusercontent.com/d5b33acc47b0fa11.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/external/ocweekly.com/97dec41d5326ee74.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/themes/twentytwentyfour/assets/images/building-exterior.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2017/10/jonas-jacobsson-0FRJ2SCuY4k-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2017/10/jonas-jacobsson-0FRJ2SCuY4k-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2017/10/jonas-jacobsson-0FRJ2SCuY4k-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2017/10/jonas-jacobsson-0FRJ2SCuY4k-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2017/10/jonas-jacobsson-0FRJ2SCuY4k-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/05/Eye-drop-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/05/Eye-drop-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/05/Eye-drop-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/05/Eye-drop.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/abhay-siby-mathew-itqD54b02U-unsplash-1024x742.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/abhay-siby-mathew-itqD54b02U-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/abhay-siby-mathew-itqD54b02U-unsplash-300x217.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/abhay-siby-mathew-itqD54b02U-unsplash-768x556.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/abhay-siby-mathew-itqD54b02U-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/adarsh-chauhan-r-oebX7qWxM-unsplash-1024x576.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/adarsh-chauhan-r-oebX7qWxM-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/adarsh-chauhan-r-oebX7qWxM-unsplash-300x169.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/adarsh-chauhan-r-oebX7qWxM-unsplash-768x432.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/adarsh-chauhan-r-oebX7qWxM-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-haney-arvkT97WUI4-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-haney-arvkT97WUI4-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-haney-arvkT97WUI4-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-haney-arvkT97WUI4-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-haney-arvkT97WUI4-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-plesovskich-5E_UvcjfwiU-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-plesovskich-5E_UvcjfwiU-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-plesovskich-5E_UvcjfwiU-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-plesovskich-5E_UvcjfwiU-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/alex-plesovskich-5E_UvcjfwiU-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/amanda-dalbjorn-UbJMy92p8wk-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/amanda-dalbjorn-UbJMy92p8wk-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/amanda-dalbjorn-UbJMy92p8wk-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/amanda-dalbjorn-UbJMy92p8wk-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/amanda-dalbjorn-UbJMy92p8wk-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/annie-spratt-tuJ3tXSayco-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/annie-spratt-tuJ3tXSayco-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/annie-spratt-tuJ3tXSayco-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/annie-spratt-tuJ3tXSayco-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/annie-spratt-tuJ3tXSayco-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/arun-prakash-lqRtNuTf2Kw-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/arun-prakash-lqRtNuTf2Kw-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/arun-prakash-lqRtNuTf2Kw-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/arun-prakash-lqRtNuTf2Kw-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/arun-prakash-lqRtNuTf2Kw-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/austin-distel-744oGeqpxPQ-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/austin-distel-744oGeqpxPQ-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/austin-distel-744oGeqpxPQ-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/austin-distel-744oGeqpxPQ-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/austin-distel-744oGeqpxPQ-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bank-phrom-Tzm3Oyu_6sk-unsplash-1024x684.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bank-phrom-Tzm3Oyu_6sk-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bank-phrom-Tzm3Oyu_6sk-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bank-phrom-Tzm3Oyu_6sk-unsplash-768x513.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bank-phrom-Tzm3Oyu_6sk-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-1-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-1-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-1-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-1-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-1.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-ambulance.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-1-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-1-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-1-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-1-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-1.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-gavel.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-hands-writing-on-documents.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-1-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-1-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-1-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-1-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-1.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-justice-scales-statue.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-1-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-1-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-1-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-1-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-1.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-1024x688.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns-768x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-looking-up-at-columns.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-1024x480.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-1536x720.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-2-1024x478.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-2-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-2-1536x717.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-2-300x140.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-2-768x359.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-2.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-2048x960.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-3-1024x516.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-3-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-3-1536x773.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-3-300x151.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-3-768x387.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-3.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-300x141.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg-768x360.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bg-poe-gaw-gray-bldg.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-flag-on-columns-1024x362.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-flag-on-columns-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-flag-on-columns-1536x544.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-flag-on-columns-2048x725.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-flag-on-columns-300x106.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-flag-on-columns-768x272.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-flag-on-columns.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-newspaper-1024x362.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-newspaper-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-newspaper-1536x544.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-newspaper-2048x725.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-newspaper-300x106.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-newspaper-768x272.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-newspaper.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-golden-gate-bridge-1024x362.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-golden-gate-bridge-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-golden-gate-bridge-1536x544.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-golden-gate-bridge-2048x725.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-golden-gate-bridge-300x106.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-golden-gate-bridge-768x272.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-golden-gate-bridge.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-night-bay-bridge-1024x362.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-night-bay-bridge-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-night-bay-bridge-1536x544.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-night-bay-bridge-2048x725.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-night-bay-bridge-300x106.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-night-bay-bridge-768x272.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bnr-bg-sf-night-bay-bridge.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bonnie-kittle-2ERdMv4LGm8-unsplash-1-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bonnie-kittle-2ERdMv4LGm8-unsplash-1-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bonnie-kittle-2ERdMv4LGm8-unsplash-1-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bonnie-kittle-2ERdMv4LGm8-unsplash-1-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/bonnie-kittle-2ERdMv4LGm8-unsplash-1.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brad-weaver-kISudHNRRvM-unsplash-1024x576.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brad-weaver-kISudHNRRvM-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brad-weaver-kISudHNRRvM-unsplash-300x169.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brad-weaver-kISudHNRRvM-unsplash-768x432.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brad-weaver-kISudHNRRvM-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-1024x587.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-1536x880.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-300x172.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-768x440.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brn-bg-sf-city-from-above-scaled.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/brn-bg-sf-city-from-above.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/Chris-Wimmer2-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/Chris-Wimmer2-230x300.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/Chris-Wimmer2.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/clay-banks-c2a0TydMlAs-unsplash-1024x684.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/clay-banks-c2a0TydMlAs-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/clay-banks-c2a0TydMlAs-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/clay-banks-c2a0TydMlAs-unsplash-768x513.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/clay-banks-c2a0TydMlAs-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/colin-lloyd-_JEiyOfC2y8-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/colin-lloyd-_JEiyOfC2y8-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/colin-lloyd-_JEiyOfC2y8-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/colin-lloyd-_JEiyOfC2y8-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/colin-lloyd-_JEiyOfC2y8-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/david-syphers-e1hANWGHLws-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/david-syphers-e1hANWGHLws-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/david-syphers-e1hANWGHLws-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/david-syphers-e1hANWGHLws-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/david-syphers-e1hANWGHLws-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/drmakete-lab-hsg538WrP0Y-unsplash-1024x768.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/drmakete-lab-hsg538WrP0Y-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/drmakete-lab-hsg538WrP0Y-unsplash-300x225.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/drmakete-lab-hsg538WrP0Y-unsplash-768x576.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/feey-OYfQdJ3xQAc-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/feey-OYfQdJ3xQAc-unsplash-240x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/feey-OYfQdJ3xQAc-unsplash-768x960.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/feey-OYfQdJ3xQAc-unsplash-819x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/feey-OYfQdJ3xQAc-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/greg-bulla-lKjX3S4pdog-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/greg-bulla-lKjX3S4pdog-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/greg-bulla-lKjX3S4pdog-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/greg-bulla-lKjX3S4pdog-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/greg-bulla-lKjX3S4pdog-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h1-when-winning-is-the-only-option-1024x394.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h1-when-winning-is-the-only-option-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h1-when-winning-is-the-only-option-1536x591.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h1-when-winning-is-the-only-option-2048x788.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h1-when-winning-is-the-only-option-300x115.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h1-when-winning-is-the-only-option-768x295.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h1-when-winning-is-the-only-option.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-antitrust-136x1024.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-antitrust-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-antitrust-203x1536.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-antitrust-40x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-antitrust.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-appeals-136x1024.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-appeals-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-appeals-203x1536.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-appeals-40x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-appeals.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-catastrophic-injury-136x1024.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-catastrophic-injury-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-catastrophic-injury-203x1536.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-catastrophic-injury-40x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-catastrophic-injury.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-trial-work-136x1024.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-trial-work-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-trial-work-203x1536.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-trial-work-40x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/h2-trial-work.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-flora-vigo-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-flora-vigo-230x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-flora-vigo.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-mark-poe-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-mark-poe-230x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-mark-poe.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-randy-gaw-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-randy-gaw-230x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-randy-gaw.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-victor-meng-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-victor-meng-230x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hs-victor-meng.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hunters-race-MYbhN8KaaEc-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hunters-race-MYbhN8KaaEc-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hunters-race-MYbhN8KaaEc-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hunters-race-MYbhN8KaaEc-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/hunters-race-MYbhN8KaaEc-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ic-facebook.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ic-fb.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ic-li.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ic-linkedin.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ion-fet-QRawWgV6gmo-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ion-fet-QRawWgV6gmo-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ion-fet-QRawWgV6gmo-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ion-fet-QRawWgV6gmo-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/ion-fet-QRawWgV6gmo-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/jakub-zerdzicki-MtO8S9yazeU-unsplash-1024x684.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/jakub-zerdzicki-MtO8S9yazeU-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/jakub-zerdzicki-MtO8S9yazeU-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/jakub-zerdzicki-MtO8S9yazeU-unsplash-768x513.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/jakub-zerdzicki-MtO8S9yazeU-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/james-yarema-5tyMgag0wRo-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/james-yarema-5tyMgag0wRo-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/james-yarema-5tyMgag0wRo-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/james-yarema-5tyMgag0wRo-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/james-yarema-5tyMgag0wRo-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/joanna-kosinska-Ym62ahWQtjY-unsplash-1024x684.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/joanna-kosinska-Ym62ahWQtjY-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/joanna-kosinska-Ym62ahWQtjY-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/joanna-kosinska-Ym62ahWQtjY-unsplash-768x513.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/joanna-kosinska-Ym62ahWQtjY-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/josh-hild-LDDyLF-S5IM-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/josh-hild-LDDyLF-S5IM-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/josh-hild-LDDyLF-S5IM-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/josh-hild-LDDyLF-S5IM-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/josh-hild-LDDyLF-S5IM-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/justin-aikin-A49CnofKUTo-unsplash-1024x576.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/justin-aikin-A49CnofKUTo-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/justin-aikin-A49CnofKUTo-unsplash-300x169.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/justin-aikin-A49CnofKUTo-unsplash-768x432.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/justin-aikin-A49CnofKUTo-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/landry-gapangwa-rY2-vq6QrC0-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/landry-gapangwa-rY2-vq6QrC0-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/landry-gapangwa-rY2-vq6QrC0-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/landry-gapangwa-rY2-vq6QrC0-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/landry-gapangwa-rY2-vq6QrC0-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-abtl-150x104.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-abtl.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-american-bar-association-150x114.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-american-bar-association-300x90.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-american-bar-association.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-asian-american-bar-150x56.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-asian-american-bar-300x54.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-asian-american-bar.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-bar-association-sf-150x98.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-bar-association-sf-300x56.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-bar-association-sf.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-fulbright-150x82.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-fulbright-300x59.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-fulbright.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-gaw-poe-llp-150x112.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-gaw-poe-llp-300x44.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-gaw-poe-llp-white-150x113.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-gaw-poe-llp-white-300x44.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-gaw-poe-llp-white.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-gaw-poe-llp.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-lca-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-lca.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-loyola-law-school-150x86.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-loyola-law-school-300x77.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-loyola-law-school.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-napaba-150x78.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-napaba-300x54.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-napaba.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-national-law-journal-150x123.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-national-law-journal-300x66.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-national-law-journal-white-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-national-law-journal-white-300x65.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-national-law-journal-white-768x167.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-national-law-journal-white.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-national-law-journal.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-phi-beta-kappa-150x92.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-phi-beta-kappa-300x55.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-phi-beta-kappa.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-review-150x114.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-review-300x78.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-review.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-school-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-school-300x106.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-school-journal-150x80.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-school-journal-300x39.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-school-journal.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-stanford-law-school.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-super-lawyers-150x87.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-super-lawyers-300x43.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-super-lawyers.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-thurston-honor-society.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-uc-berkeley-150x140.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-uc-berkeley-300x80.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-uc-berkeley.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-uc-hastings-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-uc-hastings.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-uc-santa-cruz-150x70.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-uc-santa-cruz.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan_comp-1024x206.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan_comp-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan_comp-1536x308.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan_comp-2048x411.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan_comp-300x60.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan_comp-768x154.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan_comp.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-1024x206.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-1024x206.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-150x150.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-1536x308.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-1536x308.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-2048x411.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-2048x411.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-300x60.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-300x60.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-768x154.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan-768x154.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-university-of-michigan.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-us-district-court-n-california-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-us-district-court-n-california.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-us-ninth-judicial-circuit.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-utah-state-university-150x86.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/logo-utah-state-university.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/lucas-george-wendt-YtQe7oLVdVw-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/lucas-george-wendt-YtQe7oLVdVw-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/lucas-george-wendt-YtQe7oLVdVw-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/lucas-george-wendt-YtQe7oLVdVw-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/lucas-george-wendt-YtQe7oLVdVw-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/map-sf-4-embarcadero-1024x506.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/map-sf-4-embarcadero-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/map-sf-4-embarcadero-1536x758.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/map-sf-4-embarcadero-2048x1011.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/map-sf-4-embarcadero-300x148.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/map-sf-4-embarcadero-768x379.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/map-sf-4-embarcadero.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/margit-umbach-y9D7BWbakEo-unsplash-1024x759.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/margit-umbach-y9D7BWbakEo-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/margit-umbach-y9D7BWbakEo-unsplash-300x223.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/margit-umbach-y9D7BWbakEo-unsplash-768x570.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/margit-umbach-y9D7BWbakEo-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/mathieu-turle-uJm-hfuCHm4-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/mathieu-turle-uJm-hfuCHm4-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/mathieu-turle-uJm-hfuCHm4-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/mathieu-turle-uJm-hfuCHm4-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/mathieu-turle-uJm-hfuCHm4-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/meggyn-pomerleau-2SGDohBsYPg-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/meggyn-pomerleau-2SGDohBsYPg-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/meggyn-pomerleau-2SGDohBsYPg-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/meggyn-pomerleau-2SGDohBsYPg-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/meggyn-pomerleau-2SGDohBsYPg-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/michael-herren-126WehKrhzA-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/michael-herren-126WehKrhzA-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/michael-herren-126WehKrhzA-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/michael-herren-126WehKrhzA-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/michael-herren-126WehKrhzA-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/neora-aylon-9QoDLDEu9Kg-unsplash-1024x684.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/neora-aylon-9QoDLDEu9Kg-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/neora-aylon-9QoDLDEu9Kg-unsplash-1536x1025.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/neora-aylon-9QoDLDEu9Kg-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/neora-aylon-9QoDLDEu9Kg-unsplash-768x513.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/neora-aylon-9QoDLDEu9Kg-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/oliver-frsh-AznmqDxgABM-unsplash-1024x560.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/oliver-frsh-AznmqDxgABM-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/oliver-frsh-AznmqDxgABM-unsplash-1536x840.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/oliver-frsh-AznmqDxgABM-unsplash-300x164.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/oliver-frsh-AznmqDxgABM-unsplash-768x420.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/oliver-frsh-AznmqDxgABM-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/robert-bye-6Pv4LtEw9GM-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/roberto-valdivia-HrRm_V-V0sM-unsplash-1024x631.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/roberto-valdivia-HrRm_V-V0sM-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/roberto-valdivia-HrRm_V-V0sM-unsplash-300x185.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/roberto-valdivia-HrRm_V-V0sM-unsplash-768x473.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/roberto-valdivia-HrRm_V-V0sM-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/saketh-tw1CjEGyUUI-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/saketh-tw1CjEGyUUI-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/saketh-tw1CjEGyUUI-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/saketh-tw1CjEGyUUI-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/saketh-tw1CjEGyUUI-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/sarah-b-evcG0YvLFoY-unsplash-1024x685.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/sarah-b-evcG0YvLFoY-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/sarah-b-evcG0YvLFoY-unsplash-300x201.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/sarah-b-evcG0YvLFoY-unsplash-768x514.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/sarah-b-evcG0YvLFoY-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/scott-graham-OQMZwNd3ThU-unsplash-1024x684.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/scott-graham-OQMZwNd3ThU-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/scott-graham-OQMZwNd3ThU-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/scott-graham-OQMZwNd3ThU-unsplash-768x513.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/scott-graham-OQMZwNd3ThU-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/shaira-dela-pena-twoEJNpgdbI-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/shaira-dela-pena-twoEJNpgdbI-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/shaira-dela-pena-twoEJNpgdbI-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/shaira-dela-pena-twoEJNpgdbI-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/shaira-dela-pena-twoEJNpgdbI-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/silviu-bocan-4DJo7PxGNAg-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/silviu-bocan-4DJo7PxGNAg-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/silviu-bocan-4DJo7PxGNAg-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/silviu-bocan-4DJo7PxGNAg-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/silviu-bocan-4DJo7PxGNAg-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/siwawut-phoophinyo-2RX7AMnKK_k-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/siwawut-phoophinyo-2RX7AMnKK_k-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/siwawut-phoophinyo-2RX7AMnKK_k-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/siwawut-phoophinyo-2RX7AMnKK_k-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/siwawut-phoophinyo-2RX7AMnKK_k-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/stella-de-smit-Nt974ZIgqgo-unsplash-1024x689.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/stella-de-smit-Nt974ZIgqgo-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/stella-de-smit-Nt974ZIgqgo-unsplash-300x202.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/stella-de-smit-Nt974ZIgqgo-unsplash-768x517.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/stella-de-smit-Nt974ZIgqgo-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/teslariu-mihai-fwGsdvayM-8-unsplash-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/teslariu-mihai-fwGsdvayM-8-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/teslariu-mihai-fwGsdvayM-8-unsplash-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/teslariu-mihai-fwGsdvayM-8-unsplash-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/teslariu-mihai-fwGsdvayM-8-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/zbynek-burival-V4ZYJZJ3W4M-unsplash-1024x678.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/zbynek-burival-V4ZYJZJ3W4M-unsplash-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/zbynek-burival-V4ZYJZJ3W4M-unsplash-300x199.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/zbynek-burival-V4ZYJZJ3W4M-unsplash-768x509.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/07/zbynek-burival-V4ZYJZJ3W4M-unsplash.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-business-litigation-136x1024.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-business-litigation-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-business-litigation-203x1536.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-business-litigation-40x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-business-litigation.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-commercial-litigation-136x1024.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-commercial-litigation-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-commercial-litigation-203x1536.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-commercial-litigation-40x300.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/h2-commercial-litigation.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-flora-vigo-1024x972.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-flora-vigo-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-flora-vigo-300x285.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-flora-vigo-768x729.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-flora-vigo.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-mark-poe-1024x972.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-mark-poe-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-mark-poe-300x285.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-mark-poe-768x729.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-mark-poe.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-randy-gaw-1024x972.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-randy-gaw-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-randy-gaw-300x285.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-randy-gaw-768x729.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-exp-randy-gaw.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-flora-vigo-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-flora-vigo-193x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-flora-vigo-657x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-flora-vigo-768x1196.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-flora-vigo.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-mark-poe-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-mark-poe-193x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-mark-poe-657x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-mark-poe-768x1196.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-mark-poe.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-randy-gaw-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-randy-gaw-193x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-randy-gaw-657x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-randy-gaw-768x1196.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-randy-gaw.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-victor-meng-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-victor-meng-193x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-victor-meng-657x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-victor-meng-768x1196.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-tall-victor-meng.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-victor-meng-exp-1024x972.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-victor-meng-exp-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-victor-meng-exp-300x285.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-victor-meng-exp-768x729.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/08/hs-victor-meng-exp.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/5-hour-enegry-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/5-hour-enegry-300x225.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/5-hour-enegry-768x576.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/5-hour-enegry.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/5hourenergy-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/5hourenergy-300x169.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/5hourenergy.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Energy-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Energy-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Energy-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Energy.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1-1024x778.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1-1536x1168.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1-2048x1557.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1-300x228.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1-768x584.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1-scaled.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-1024x577.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-300x169.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans-768x433.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Onlyfans-logo-e1727922599973-1024x531.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Onlyfans-logo-e1727922599973-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Onlyfans-logo-e1727922599973-1536x796.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Onlyfans-logo-e1727922599973-300x155.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Onlyfans-logo-e1727922599973-768x398.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/Onlyfans-logo-e1727922599973.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/10/OnlyFans.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-Pitch-1024x576.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-pitch-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-Pitch-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-Pitch-1536x864.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-Pitch-300x169.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-pitch-300x180.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-Pitch-768x432.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-pitch-768x460.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-pitch.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Elevator-Pitch.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-9.42.35 AM-1024x920.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-9.42.35 AM-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-9.42.35 AM-1536x1379.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-9.42.35 AM-300x269.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-9.42.35 AM-768x690.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-9.42.35 AM.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Booze-1024x683.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Booze-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Booze-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Booze-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Booze.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/LCA-Logo-150x101.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/LCA-Logo.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/LCR-Logo-1-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/LCR-Logo-1-300x212.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/LCR-Logo-1.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/LCR-Logo-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/LCR-Logo-300x212.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/LCR-Logo.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Liquor-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Liquor-300x179.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Liquor-768x458.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Liquor.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Male-Enhancement-1024x660.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Male-Enhancement-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Male-Enhancement-1536x991.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Male-Enhancement-2048x1321.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Male-Enhancement-300x193.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Male-Enhancement-768x495.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Male-Enhancement.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Pills-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Pills-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Pills-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/Pills.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/RICO-1024x761.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/RICO-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/RICO-300x223.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/RICO-768x571.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/01/RICO.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Chips-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Chips-300x239.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Chips.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/fritolay-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/fritolay-300x200.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/fritolay-768x512.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/fritolay.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Mark-Poe-1152x1536.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Mark-Poe-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Mark-Poe-1536x2048.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Mark-Poe-225x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Mark-Poe-768x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Mark-Poe-scaled.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Mark-Poe.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi-1-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi-1-300x171.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi-1-768x439.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi-1.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi-1024x683.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsi.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsico-1024x614.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsico-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsico-300x180.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsico-768x461.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/02/Pepsico.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/03/Lady-Justice-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/03/Lady-Justice-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/03/Lady-Justice-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/03/Lady-Justice.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/05/Screenshot-2025-05-09-at-3.35.49 PM-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/05/Screenshot-2025-05-09-at-3.35.49 PM-300x295.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/05/Screenshot-2025-05-09-at-3.35.49 PM-300x295.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/05/Screenshot-2025-05-09-at-3.35.49 PM.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/05/Screenshot-2025-05-09-at-3.35.49 PM.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM-1024x701.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM-1024x701.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM-300x205.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM-300x205.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM-768x526.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM-768x526.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-11.14.37 AM.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Chris-Wimmer-1152x2048.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Chris-Wimmer-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Chris-Wimmer-169x300.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Chris-Wimmer-576x1024.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Chris-Wimmer-768x1365.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Chris-Wimmer-864x1536.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Chris-Wimmer-scaled.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Chris-Wimmer.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Columbia_Law_School_logo-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Columbia_Law_School_logo-300x191.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/08/Columbia_Law_School_logo.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Basketball-1-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Basketball-1-300x200.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Basketball-1-768x512.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Basketball-1.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Basketball-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Basketball-300x202.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Basketball-768x518.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Basketball.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Randy-1152x1536.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Randy-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Randy-1536x2048.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Randy-225x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Randy-768x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Randy-scaled.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/09/Randy.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/Costco-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/Costco-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/Costco-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/Costco.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/Councel-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/Councel-300x194.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/Councel-768x496.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/Councel.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/US-Court-House-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/US-Court-House-300x218.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/US-Court-House-768x558.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2025/10/US-Court-House.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-circuit-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-circuit-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-circuit-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Looking-Up-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Looking-Up-300x225.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Looking-Up-768x576.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Looking-Up.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Post-1024x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Post-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Post-300x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Post-768x768.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-Circuit-Post.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/9th-circuit.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Brown-University-Logo-1024x576.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Brown-University-Logo-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Brown-University-Logo-1536x864.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Brown-University-Logo-2048x1151.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Brown-University-Logo-300x169.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Brown-University-Logo-768x432.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Brown-University-Logo.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/City-Hall-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/City-Hall-300x158.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/City-Hall-768x404.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/City-Hall.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Yale-law-1024x203.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Yale-law-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Yale-law-1536x304.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Yale-law-300x59.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Yale-law-768x152.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/02/Yale-law.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Basketball-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Basketball-300x223.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Basketball-768x571.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Basketball.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Paul-Martin-1011x1536.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Paul-Martin-1348x2048.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Paul-Martin-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Paul-Martin-197x300.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Paul-Martin-674x1024.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Paul-Martin-768x1167.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/03/Paul-Martin.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/04/Law-office-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/04/Law-office-300x195.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/04/Law-office-768x498.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/04/Law-office.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Chambers-Ranking-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Chambers-Ranking-240x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Chambers-Ranking-768x960.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Chambers-Ranking-819x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Chambers-Ranking.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Only-Fans-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Only-Fans-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Only-Fans-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/06/Only-Fans.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/07/2026-Super-Lawyers-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/07/2026-Super-Lawyers-300x205.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/07/2026-Super-Lawyers-768x524.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/07/2026-Super-Lawyers.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/07/Meta-logo-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/07/Meta-logo-300x169.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/07/Meta-logo-768x432.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/07/Meta-logo.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/kristin-menon-1258x1536.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/kristin-menon-150x150.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/kristin-menon-246x300.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/kristin-menon-768x938.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/kristin-menon-839x1024.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/kristin-menon.jpg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/purdue_university_logo-150x130.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/purdue_university_logo-300x60.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/purdue_university_logo.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/US_district_court_seal_california_northern-1024x1024.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/US_district_court_seal_california_northern-150x150.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/US_district_court_seal_california_northern-1536x1536.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/US_district_court_seal_california_northern-2048x2048.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/US_district_court_seal_california_northern-300x300.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/US_district_court_seal_california_northern-768x768.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/US_district_court_seal_california_northern.webp",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/USPTO-logo-RGB-stacked-1200px-1024x538.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/USPTO-logo-RGB-stacked-1200px-150x150.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/USPTO-logo-RGB-stacked-1200px-300x158.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/USPTO-logo-RGB-stacked-1200px-768x403.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/08/USPTO-logo-RGB-stacked-1200px.png",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/09/Contact-Lens-150x150.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/09/Contact-Lens-300x200.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/09/Contact-Lens-768x512.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "asset",
+      "path": "/wp-content/uploads/2026/09/Contact-Lens.jpeg",
+      "status": "pass"
+    },
+    {
+      "kind": "feed",
+      "path": "/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/feed/",
+      "status": "pass"
+    },
+    {
+      "kind": "feed",
+      "path": "/author/jgreenwalt/feed/",
+      "status": "pass"
+    },
+    {
+      "kind": "feed",
+      "path": "/author/nick/feed/",
+      "status": "pass"
+    },
+    {
+      "kind": "feed",
+      "path": "/category/uncategorized/feed/",
+      "status": "pass"
+    },
+    {
+      "kind": "feed",
+      "path": "/comments/feed/",
+      "status": "pass"
+    },
+    {
+      "kind": "feed",
+      "path": "/feed/",
+      "status": "pass"
+    },
+    {
+      "kind": "missing",
+      "path": "/nonexistent-gawpoe-verification-page/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/3d-printing-company-plans-to-challenge-arbitrators-11-million-award/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/9th-circ-partially-kicks-back-5-hour-energy-antitrust-suit/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/9th-circ-partly-revives-44-4m-jury-verdict-against-swisher/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/9th-circ-urged-to-revive-5-hour-energy-price-bias-suit/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/9th-circuit-restores-attorney-fees-slashed-over-firm-size/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/about/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/antitrust/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/appeals-court-awards-500k-to-ex-san-francisco-player-marija-galic/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/appeals-court-restores-punitive-damages-award-in-usf-womens-basketball-case/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/appeals/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/attachment/1344/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/jgreenwalt/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/jgreenwalt/page/2/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/jgreenwalt/page/3/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/jgreenwalt/page/4/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/jgreenwalt/page/5/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/jgreenwalt/page/6/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/jgreenwalt/page/7/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/nick/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/nick/page/2/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/author/nick/page/3/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/big-law-rates-for-small-firms-us-appeals-court-takes-up-fee-fight/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/business-litigation/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/cannabis-drink-maker-cant-get-rivals-product-blocked/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/catastrophic-injury/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/page/2/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/page/3/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/page/4/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/page/5/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/page/6/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/page/7/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/page/8/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/category/uncategorized/page/9/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/christopher-wimmer/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/christopher-wimmer1/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/contact-us/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/drugmaker-gilead-alleges-counterfeiting-ring-sold-its-hiv-drugs/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/emotional-abuse-in-college-sports/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/ex-usf-basketball-player-awarded-750000-in-case-against-school-head-coach-molly-goodenbour/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/eye-drops-must-sell-on-even-terms-under-rare-antitrust-win/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/flood-of-outlaw-sex-pill-lawsuits-draws-posse-of-defense-lawyers-ready-to-fight/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/flora-vigo/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/fractional-general-counsel/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/galic-v-goodenbour/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-assists-in-sending-real-estate-investor-to-prison/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-attorney-mark-poe-wins-two-different-10-million-appeals-on-the-same-day/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-awarded-over-895000-in-attorneys-fees-and-costs-in-civil-rico-lawsuit/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-completely-prevails-on-behalf-of-plaintiff-in-breach-of-contract-and-alter-ego-lawsuit/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-files-class-action-lawsuit-against-onlyfans-for-automatically-billing-customers-credit-cards/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-11-28-million-arbitration-award-against-3d-systems-corp/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-4-4-million-judgment-against-one-of-the-worlds-largest-pencilmakers/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-44-4-million-jury-verdict-against-swisher-international-inc/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-a-civil-rico-jury-verdict-against-law-firm-that-filed-sex-pills-lawsuits/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-class-certification-and-defeats-motion-for-summary-judgment-in-lawsuit-concerning-ivanpah-solar-plant-investment/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-class-certification-for-adwords-advertisers/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-seven-figure-robinson-patman-act-jury-verdict-against-manufacturer-of-clear-eyes-wins-third-of-three-jury-trials-held-in-2023/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-obtains-six-figure-settlement-for-client/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partner-mark-poe-discusses-new-adsense-lawsuit-filed-against-google/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partner-randolph-gaw-again-named-a-rising-star/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partner-randolph-gaw-again-selected-to-list-of-super-lawyers/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partner-randolph-gaw-named-a-rising-star/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partner-randolph-gaw-quoted-by-business-insider-concerning-googles-practice-of-withholding-payments-from-adsense-publishers/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partner-randolph-gaw-selected-to-list-of-super-lawyers/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-again-selected-to-list-of-super-lawyers/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fifth-straight-year/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fourth-straight-year/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-third-straight-year/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-selected-to-list-of-super-lawyers/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-prevails-at-trial-again/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-recognized-for-largest-antitrust-verdict-in-california-for-2016/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-represents-inventor-in-lawsuit-against-scotts-miracle-gro/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-successfully-defends-client-at-arbitration-against-leading-hawaii-law-firm/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-successfully-defends-jury-verdict-on-appeal/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-llp-wins-another-jury-trial/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/gaw-poe-partners-randolph-gaw-and-mark-poe-admitted-to-practice-before-u-s-supreme-court/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/getaround-early-investor-sues-car-sharing-startup-for-1-79-million/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/getarounds-alleged-earliest-investor-files-suit-for-alleged-fraud-against-the-carsharing-company-ceo-sam-zaid-cfo-adam-kosmicki/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/google-advertisers-7m-deal-in-false-traffic-suit-okd/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/google-to-refund-advertisers-after-suit-over-fraud-scheme/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/inside-the-44-million-lawsuit-jacksonville-based-swisher-international-lost/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/is-1314-per-hour-too-much-for-a-small-firm-court-says-no/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/judge-challenges-onlyfans-dismissal-bid-in-subscription-renewal-class-action/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/judge-rules-in-epic-battle-over-prominent-market-and-castro-site/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/judge-who-took-axe-to-lawyers-rates-says-size-of-firm-matters/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/justices-wont-hear-appeal-of-long-running-swisher-case/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/khurrams-quorum-podcase/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/kristin-menon/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/la-international-corp-v-prestige-brands-holdings/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/law-firm-must-face-rico-claims-over-sex-pill-litigation-scheme-judge-rules/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/lawsuit-based-on-a-surreptitiously-recorded-phone-call-claims-google-doesnt-refund-advertisers-who-spend-money-on-fraudulent-clicks/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/mark-poe/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/meta-hit-with-textbook-authors-ip-suit-over-ai-training/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/ninth-circuit-orders-reinstatement-of-44-million-jury-verdict-against-maker-of-swisher-sweets-cigars/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/ninth-circuit-snuffs-out-gibson-dunns-44m-save-in-fight-over-cigarillos/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/okay-for-jury-to-hear-anti-japanese-remarks-at-federal-fraud-trial/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/paul-martin/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/practice-areas/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/press/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/randolph-gaw-named-fellow-of-litigation-counsel-of-america/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/randolph-gaw/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/small-businesses-claim-unfair-snack-pricing-by-frito-lay/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/swisher-accused-of-anti-competitive-cigarillo-sabotage/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/team/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/the-elevator-pitch/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/tobacco-co-calls-rivals-10m-fee-bid-a-waste-of-time/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/tobacco-co-gets-10-8m-in-fees-for-breach-of-contract-win/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/trendsettah-v-swisher/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/trial-work/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/united-airlines-passenger-files-lawsuit-over-alleged-mechanic-mishap-in-flight-931-usa-english/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/us-appeals-court-says-law-firms-size-doesnt-limit-legal-fees/",
+      "status": "pass"
+    },
+    {
+      "kind": "page",
+      "path": "/victor-meng/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=10",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1002",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1005",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1008",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1011",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1021",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1023",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1026",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1032",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1036",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1047",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1052",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1086",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1091",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1092",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1093",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=11",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=113",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1137",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1138",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=114",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1143",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1144",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1145",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1146",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=115",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1150",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1151",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1152",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1153",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=116",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1191",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1194",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1195",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=12",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1202",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1210",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1214",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1219",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1221",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1222",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1226",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1232",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1237",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1241",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1254",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1262",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1274",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=13",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1329",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1344",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1378",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1379",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1380",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1381",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1382",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1383",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1384",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1385",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1386",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1387",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1388",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1389",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1393",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1397",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1398",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=14",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1411",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1415",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1437",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1495",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1497",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=15",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1502",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1507",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1508",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1511",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1518",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1556",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1560",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=16",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1610",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1613",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1623",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1626",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1634",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1638",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1644",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1647",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=1662",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=17",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=18",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=182",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=183",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=184",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=185",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=186",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=187",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=188",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=189",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=190",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=191",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=192",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=193",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=194",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=195",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=196",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=197",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=198",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=204",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=208",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=210",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=245",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=251",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=252",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=253",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=27",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=28",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=280",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=281",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=29",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=30",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=31",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=445",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=446",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=447",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=448",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=449",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=554",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=563",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=594",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=595",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=597",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=598",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=599",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=610",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=612",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=620",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=621",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=626",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=627",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=628",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=629",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=631",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=633",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=639",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=642",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=645",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=646",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=647",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=648",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=649",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=650",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=651",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=652",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=666",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=667",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=833",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=9",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=938",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=939",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=941",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=942",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=943",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=944",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=975",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?attachment_id=976",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1001",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1004",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1007",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1010",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1013",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1015",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1017",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1020",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1025",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1029",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1031",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1034",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1040",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1046",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1049",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1182",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1193",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1201",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1209",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1213",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1218",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1225",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1231",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1236",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1240",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1245",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1253",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1261",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1390",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1392",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1396",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1403",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1410",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1414",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1436",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1501",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1506",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1510",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1552",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1555",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1559",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1609",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1612",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1622",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1625",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=1661",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=260",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=266",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=322",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=326",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=328",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=330",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=332",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=334",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=336",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=338",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=340",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=342",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=345",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=347",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=350",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=353",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=355",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=357",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=359",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=361",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=363",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=365",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=367",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=369",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=371",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=374",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=376",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=378",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=380",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=384",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=386",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=388",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=391",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=393",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=395",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=397",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=399",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=401",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=403",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=405",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=407",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=409",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=995",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=997",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?p=999",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=103",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=118",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=124",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=127",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=129",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=1453",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=1468",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=1492",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=1632",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=255",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=4",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=440",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=48",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=50",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=507",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=510",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=514",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=517",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/?page_id=98",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/3d-printing-company-plans-to-challenge-arbitrators-11-million-award/jakub-zerdzicki-mto8s9yazeu-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/memorialcourtcourtyardleadingtocityhallinsanfrancisco/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/9th-circ-partially-kicks-back-5-hour-energy-antitrust-suit/joanna-kosinska-ym62ahwqtjy-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/9th-circ-urged-to-revive-5-hour-energy-price-bias-suit/costcowholesaleredsilvershoppingcartcloseuponcostco/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/womanwithcontactlensesonlightbluebackgroundcloseup/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/appeals-court-awards-500k-to-ex-san-francisco-player-marija-galic/basketball-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/appeals-court-awards-500k-to-ex-san-francisco-player-marija-galic/basketball/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/are-the-critics-wrong-how-the-robinson-patman-act-has-been-misunderstood-by-its-detractors/screenshot-2024-12-11-at-9-42-35-am/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/as-the-ftc-hints-at-renewed-enforcement-of-therobinson-patman-act-the-usual-dull-knives-come-out/mathieu-turle-ujm-hfuchm4-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bg-ambulance-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bg-gavel-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bg-hands-writing-on-documents-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bg-justice-scales-statue-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bg-looking-up-at-columns-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bg-poe-gaw-gray-bldg-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bg-poe-gaw-gray-bldg/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/big-law-rates-for-small-firms-us-appeals-court-takes-up-fee-fight/americanflagwavinginthewindinfrontofunited/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bnr-bg-flag-on-columns/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bnr-bg-newspaper/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bnr-bg-sf-golden-gate-bridge/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/bnr-bg-sf-night-bay-bridge/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/brn-bg-sf-city-from-above/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/cannabis-drink-maker-cant-get-rivals-product-blocked/roberto-valdivia-hrrm_v-v0sm-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/christopher-wimmer",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/columbia_law_school_logo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/colainglasswithiceisolatedonwhitebackgroundfrom/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/pepsi/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/convenience-stores-sue-pepsi-and-frito-lay-alleging-price-discrimination/pepsico/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/dream-of-leaving-big-law-to-launch-a-litigation-boutique-these-two-lawyers-made-it-work/robert-bye-6pv4ltew9gm-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/drugmaker-gilead-alleges-counterfeiting-ring-sold-its-hiv-drugs/james-yarema-5tymgag0wro-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/emotional-abuse-in-college-sports/basketballscoringabasketasitgoesthroughthehoop/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/ex-usf-basketball-player-awarded-750000-in-case-against-school-head-coach-molly-goodenbour/abhay-siby-mathew-itqd54b02u-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/eye-drops-must-sell-on-even-terms-under-rare-antitrust-win/amanda-dalbjorn-ubjmy92p8wk-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/eye-drops-must-sell-on-even-terms-under-rare-antitrust-win/closeupoffemalefaceandeyedrops/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/flood-of-outlaw-sex-pill-lawsuits-draws-posse-of-defense-lawyers-ready-to-fight/meggyn-pomerleau-2sgdohbsypg-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/galic-v-goodenbour/randy/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-attorney-mark-poe-wins-two-different-10-million-appeals-on-the-same-day/bank-phrom-tzm3oyu_6sk-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-completely-prevails-on-behalf-of-plaintiff-in-breach-of-contract-and-alter-ego-lawsuit/shaira-dela-pena-twoejnpgdbi-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-earns-the-37th-largest-verdict-in-the-nation-for-2016/bonnie-kittle-2erdmv4lgm8-unsplash-1/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment/michael-herren-126wehkrhza-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-files-class-action-lawsuit-against-cmb-export-llc-for-breach-of-fiduciary-duties-in-connection-with-ivanpah-solar-plant-investment/zbynek-burival-v4zyjzj3w4m-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-files-class-action-lawsuit-against-onlyfans-for-automatically-billing-customers-credit-cards/clay-banks-c2a0tydmlas-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-obtains-4-4-million-judgment-against-one-of-the-worlds-largest-pencilmakers/lucas-george-wendt-ytqe7olvdvw-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-obtains-class-certification-for-adwords-advertisers/sarah-b-evcg0yvlfoy-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-obtains-inaugural-rankings-in-chambers-usa-legal-guide-2026/black-pink-monochrome-meet-the-team-instagram-post-1/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-obtains-seven-figure-robinson-patman-act-jury-verdict-against-manufacturer-of-clear-eyes-wins-third-of-three-jury-trials-held-in-2023/ion-fet-qrawwgv6gmo-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-obtains-six-figure-settlement-for-client/arun-prakash-lqrtnutf2kw-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-partner-mark-poe-discusses-new-adsense-lawsuit-filed-against-google/greg-bulla-lkjx3s4pdog-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-partner-randolph-gaw-again-selected-to-list-of-super-lawyers/scott-graham-oqmzwnd3thu-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-partner-randolph-gaw-selected-to-list-of-super-lawyers/margit-umbach-y9d7bwbakeo-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-fifth-straight-year/screenshot-2025-07-02-at-11-14-37-am/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-partners-randolph-gaw-and-mark-poe-both-selected-to-list-of-super-lawyers-for-sixth-straight-year/2026-super-lawyers/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-prevails-at-trial-again/landry-gapangwa-ry2-vq6qrc0-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-recognized-for-largest-antitrust-verdict-in-california-for-2016/jonas-jacobsson-0frj2scuy4k-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-represents-inventor-in-lawsuit-against-scotts-miracle-gro/feey-oyfqdj3xqac-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-represents-inventor-in-lawsuit-against-scotts-miracle-gro/stella-de-smit-nt974zigqgo-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-stella-systems-prevail-on-medeanalytics-motion-for-preliminary-injunction/austin-distel-744ogeqpxpq-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-successfully-defends-jury-verdict-on-appeal/josh-hild-lddylf-s5im-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-llp-wins-another-jury-trial/justin-aikin-a49cnofkuto-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/gaw-poe-partners-randolph-gaw-and-mark-poe-admitted-to-practice-before-u-s-supreme-court/brad-weaver-kisudhnrrvm-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/getaround-early-investor-sues-car-sharing-startup-for-1-79-million/annie-spratt-tuj3txsayco-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/getarounds-alleged-earliest-investor-files-suit-for-alleged-fraud-against-the-carsharing-company-ceo-sam-zaid-cfo-adam-kosmicki/saketh-tw1cjegyuui-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/google-to-refund-advertisers-after-suit-over-fraud-scheme/adarsh-chauhan-r-oebx7qwxm-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/h1-when-winning-is-the-only-option/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/h2-antitrust/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/h2-appeals/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/h2-business-litigation/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/h2-catastrophic-injury/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/h2-commercial-litigation/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/h2-trial-work/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/home/bg-ambulance/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/home/bg-gavel/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/home/bg-hands-writing-on-documents/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/home/bg-justice-scales-statue/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/home/bg-looking-up-at-columns/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/home/bg-poe-gaw-gray-bldg-3/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/male-enhancement/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/medicinepillsandwaterwithhandsofmanformedical/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/how-a-legal-brawl-over-male-enhancement-pills-led-to-a-rico-verdict-against-this-la-firm/rico/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/hs-exp-flora-vigo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/hs-exp-mark-poe/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/hs-exp-randy-gaw/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/hs-tall-flora-vigo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/hs-tall-mark-poe/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/hs-tall-randy-gaw/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/hs-tall-victor-meng/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/hs-victor-meng-exp/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/ic-facebook/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/ic-fb/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/ic-li/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/ic-linkedin/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/booze/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/in-battle-over-booze-pricing-is-the-ftc-out-of-touch-or-retro-chic/compositionwithbottlesofassortedalcoholicbeverages/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/is-1314-per-hour-too-much-for-a-small-firm-court-says-no/close-upshotasianbusinessmantakeanoteandworkingwith/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/copy-of-93-million-in-trial-arbitration-victories-1/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/its-not-the-size-of-the-firm-its-how-you-use-it-ninth-circuit-smacks-down-fee-shaming-of-small-law/lookingupattheunitedstatescourtofappealsninth/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/judge-challenges-onlyfans-dismissal-bid-in-subscription-renewal-class-action/onlyfans-logo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/judge-challenges-onlyfans-dismissal-bid-in-subscription-renewal-class-action/onlyfans/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/judge-challenges-onlyfans-dismissal-bid-in-subscription-renewal-class-action/onlyfanslogosilhouettevectorart/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/judge-rules-in-epic-battle-over-prominent-market-and-castro-site/drmakete-lab-hsg538wrp0y-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/judge-who-took-axe-to-lawyers-rates-says-size-of-firm-matters/legalcounselpresentstotheclientasignedcontractwith/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/5-hour-enegry/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/5hourenergy/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/justices-reject-5-hour-energys-attack-on-unfair-pricing-test/cybersport-professionalcybersportplayertrainingorplayingonlinevideo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/justices-wont-hear-appeal-of-long-running-swisher-case/alex-plesovskich-5e_uvcjfwiu-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/khurrams-quorum-podcase/screenshot-2025-05-09-at-3-35-49-pm/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/kristin-menon-photo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/law-firm-must-face-rico-claims-over-sex-pill-litigation-scheme-judge-rules/teslariu-mihai-fwgsdvaym-8-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-abtl/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-american-bar-association/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-asian-american-bar/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-bar-association-sf/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-fulbright/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-gaw-poe-llp-white/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-gaw-poe-llp/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-lca/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-loyola-law-school/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-napaba/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-national-law-journal-white/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-national-law-journal/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-phi-beta-kappa/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-stanford-law-review/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-stanford-law-school-journal/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-stanford-law-school/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-super-lawyers/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-thurston-honor-society/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-uc-berkeley/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-uc-hastings/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-uc-santa-cruz/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-university-of-michigan_comp/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-university-of-michigan-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-us-district-court-n-california/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-us-ninth-judicial-circuit/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/logo-utah-state-university/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/map-sf-4-embarcadero/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/meta-hit-with-textbook-authors-ip-suit-over-ai-training/meta-logo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/neora-aylon-9qodldeu9kg-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/ninth-circuit-orders-reinstatement-of-44-million-jury-verdict-against-maker-of-swisher-sweets-cigars/alex-haney-arvkt97wui4-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/ninth-circuit-orders-reinstatement-of-44-million-jury-verdict-against-maker-of-swisher-sweets-cigars/silviu-bocan-4djo7pxgnag-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/ninth-circuit-snuffs-out-gibson-dunns-44m-save-in-fight-over-cigarillos/siwawut-phoophinyo-2rx7amnkk_k-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/okay-for-jury-to-hear-anti-japanese-remarks-at-federal-fraud-trial/colin-lloyd-_jeiyofc2y8-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/oliver-frsh-aznmqdxgabm-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/onlyfans-users-ask-9th-circ-to-revive-calif-auto-renew-suit/onlyfanscreativemessagecomposedwithmulticoloredstoneletters/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/paul-martin/brown-university-logo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/paul-martin/yale-law/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/bowlofcrispywavypotatochipsorcrispsisolatedon/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/pepsi-frito-lay-accused-of-favoring-chains-with-chip-prices/frankfort-circaaugust2018frito-laysnackfoodplant-frito-lay/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/purdue_university_logo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/randolph-gaw-named-fellow-of-litigation-counsel-of-america/hunters-race-mybhn8kaaec-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/lca-logo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/randolph-gaw-named-senior-fellow-of-litigation-counsel-of-america/lcr-logo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/randolph-gaw/lcr-logo-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/small-businesses-claim-unfair-snack-pricing-by-frito-lay/mark-poe-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/team/chris-wimmer/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/team/hs-flora-vigo/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/team/hs-mark-poe/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/team/hs-randy-gaw/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/team/hs-victor-meng/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/team/paul-martin-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/the-elevator-pitch/elevatorpitch-2/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/the-elevator-pitch/elevatorpitch/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/trendsettah-v-swisher/ladyjusticestatueholdingscalesandswordsymbolizinglawjustice/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/united-airlines-passenger-files-lawsuit-over-alleged-mechanic-mishap-in-flight-931-usa-english/david-syphers-e1hanwghlws-unsplash/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/us_district_court_seal_california_northern/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/us-appeals-court-says-law-firms-size-doesnt-limit-legal-fees/9thcircuitcourtofappealssanfranciscocalifornia/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/uspto-logo-rgb-stacked-1200px/",
+      "status": "pass"
+    },
+    {
+      "kind": "redirect",
+      "path": "/victor-meng/logo-university-of-michigan/",
+      "status": "pass"
+    },
+    {
+      "kind": "sitemap",
+      "path": "/sitemap.xml",
+      "status": "pass"
+    }
+  ]
+}

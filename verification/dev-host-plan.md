@@ -1,4 +1,6 @@
-# Permanent GawPoe dev site — ready for review, not deployed
+# Permanent GawPoe dev site — original plan
+
+**Activated October 5, 2026 with Jonathan’s explicit dev-deployment instruction.** See [deployment record](dev-deployment.md) for actual release and verification. The text below records the pre-activation plan and earlier observations.
 
 Verified October 4, 2026 PDT / October 5 UTC. This is a plan only. No remote files, services, production WordPress, or DNS were changed.
 
