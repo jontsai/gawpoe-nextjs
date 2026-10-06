@@ -10,3 +10,7 @@ yarn-error.log*
 pnpm-debug.log*
 .env*
 !.env.example
+
+test-results/
+playwright-report/
+*.tsbuildinfo

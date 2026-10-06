@@ -1,0 +1,5 @@
+# Keep captured RSS byte-exact, including original WordPress indentation.
+public/**/feed/index.html -whitespace
+public/**/feed/index.xml -whitespace
+docs/**/feed/index.html -whitespace
+docs/**/feed/index.xml -whitespace

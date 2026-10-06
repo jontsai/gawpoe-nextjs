@@ -1,0 +1,606 @@
+[
+  {
+    "width": 1440,
+    "path": "/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 1440,
+        "height": 2748
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 1440,
+        "height": 69
+      },
+      "hero": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 1440,
+        "height": 714
+      },
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 1440,
+        "height": 2156
+      },
+      "ticker": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 4364,
+        "height": 52
+      },
+      "reviewCount": 8
+    }
+  },
+  {
+    "width": 1440,
+    "path": "/team/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 1440,
+        "height": 2588
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 1440,
+        "height": 69
+      },
+      "hero": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 1440,
+        "height": 500
+      },
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 1440,
+        "height": 1947
+      },
+      "ticker": null,
+      "reviewCount": 0
+    }
+  },
+  {
+    "width": 1440,
+    "path": "/business-litigation/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 1440,
+        "height": 2411
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 1440,
+        "height": 69
+      },
+      "hero": null,
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 1440,
+        "height": 1819
+      },
+      "ticker": null,
+      "reviewCount": 0
+    }
+  },
+  {
+    "width": 1440,
+    "path": "/randolph-gaw/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 1440,
+        "height": 2924
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 1440,
+        "height": 69
+      },
+      "hero": null,
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 1440,
+        "height": 2332
+      },
+      "ticker": null,
+      "reviewCount": 0
+    }
+  },
+  {
+    "width": 1440,
+    "path": "/contact-us/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 1440,
+        "height": 1504
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 1440,
+        "height": 69
+      },
+      "hero": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 1440,
+        "height": 500
+      },
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "19.2px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 1440,
+        "height": 912
+      },
+      "ticker": null,
+      "reviewCount": 0
+    }
+  },
+  {
+    "width": 390,
+    "path": "/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 390,
+        "height": 3952
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 390,
+        "height": 69
+      },
+      "hero": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 390,
+        "height": 714
+      },
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 390,
+        "height": 2982
+      },
+      "ticker": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 4364,
+        "height": 52
+      },
+      "reviewCount": 8
+    }
+  },
+  {
+    "width": 390,
+    "path": "/team/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 390,
+        "height": 4452
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 390,
+        "height": 69
+      },
+      "hero": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 452,
+        "height": 500
+      },
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 390,
+        "height": 3447
+      },
+      "ticker": null,
+      "reviewCount": 0
+    }
+  },
+  {
+    "width": 390,
+    "path": "/business-litigation/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 390,
+        "height": 3380
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 390,
+        "height": 69
+      },
+      "hero": null,
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 390,
+        "height": 2426
+      },
+      "ticker": null,
+      "reviewCount": 0
+    }
+  },
+  {
+    "width": 390,
+    "path": "/randolph-gaw/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 390,
+        "height": 6154
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 390,
+        "height": 69
+      },
+      "hero": null,
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 390,
+        "height": 5200
+      },
+      "ticker": null,
+      "reviewCount": 0
+    }
+  },
+  {
+    "width": 390,
+    "path": "/contact-us/",
+    "metrics": {
+      "body": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgb(255, 255, 255)",
+        "width": 390,
+        "height": 1850
+      },
+      "header": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(255, 255, 255, 0.8)",
+        "width": 390,
+        "height": 69
+      },
+      "hero": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 390,
+        "height": 500
+      },
+      "heading": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "logo": {
+        "font": "Raleway, \"Open Sans\", Ariel, sans-serif",
+        "size": "14.3794px",
+        "weight": "600",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 189,
+        "height": 29
+      },
+      "main": {
+        "font": "\"Open Sans\", sans-serif",
+        "size": "16.8px",
+        "weight": "400",
+        "color": "rgb(17, 17, 17)",
+        "background": "rgba(0, 0, 0, 0)",
+        "width": 390,
+        "height": 896
+      },
+      "ticker": null,
+      "reviewCount": 0
+    }
+  }
+]
