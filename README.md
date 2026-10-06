@@ -105,3 +105,9 @@ node scripts/audit-dev-host.mjs
 The host audit verifies every page's content/canonical URL, all 788 media hashes, all 444 captured path/query redirects, both sitemap families, feed MIME types, noindex and a genuine 404. The browser suite accepts `BASE_URL` and checks rendering/interaction against that actual host rather than silently starting localhost.
 
 `scripts/prepare-apache-dev.mjs <isolated-export-directory>` creates dev-only Apache rules in a **copy** of the committed export; it refuses the usual `public`, `docs`, and `out` roots. Never include dev noindex rules in a production export. Versioned releases and the activation receipt live outside the web root on Zion; see [dev deployment record](verification/dev-deployment.md). Future updates require explicit dev deployment scope, stage checks, and an atomic document-root symlink switch, not editing the served release in place.
+
+## GitHub Actions deployment
+
+`.github/workflows/deploy-pages.yml` follows the existing Yippee Cafe/Tea-Rek'z/Noorava pattern: publish the committed `docs/` artifact with the official GitHub Pages actions on pushes to `master` or manual dispatch. Verification also runs on master pushes and pull requests.
+
+**Activation blocked as of October 6:** GitHub rejected enabling Pages because the current account plan does not support this private repository. Visibility is unchanged. `PAGES_DEPLOY_ENABLED` must remain unset/false until Pages is available and configured with **GitHub Actions** (`build_type=workflow`), not branch publishing. The deploy job intentionally skips while disabled; that is not evidence of a published site. Before enabling, establish the domain/base-path and HTTP redirect behavior: the current export assumes a domain root, not `/gawpoe-nextjs/`. Production cutover remains separate. The existing Zion dev URL continues serving the verified release meanwhile.
