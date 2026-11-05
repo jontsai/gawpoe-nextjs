@@ -147,9 +147,9 @@ test("entire public media library and responsive sizes are mirrored at original 
 });
 
 test("shared layout and firm blurb have one source fragment, with content on every applicable page", () => {
-  assert.equal(capture.fragmentUsage.header, 131);
-  assert.equal(capture.fragmentUsage.footer, 131);
-  assert.equal(capture.fragmentUsage["about-firm"], 92);
+  assert.equal(capture.fragmentUsage.header, 132);
+  assert.equal(capture.fragmentUsage.footer, 132);
+  assert.equal(capture.fragmentUsage["about-firm"], 93);
   for (const page of sourcePages) {
     assert.ok(page.html.includes("<!--fragment:header-->"));
     assert.ok(page.html.includes("<!--fragment:footer-->"));
