@@ -4,7 +4,13 @@ for (const width of [1440, 390]) {
   await page.setViewportSize({ width, height: 900 });
   await page.goto('/press/');
   const title='5-Hour Energy Sellers Ask 9th Circ. To Revive Antitrust Fight';
-  await page.getByRole('link', { name: title, exact: true }).click();
+  const thumbnail=page.locator('.wp-block-latest-posts__list > li').first().locator('img');
+  await expect(thumbnail).toBeVisible();
+  await expect(thumbnail).toHaveAttribute('src','/images/press/james-r-browning-courthouse.webp');
+  await expect.poll(()=>thumbnail.evaluate((img: HTMLImageElement)=>img.complete && img.naturalWidth===1844)).toBe(true);
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
+  await page.screenshot({path:`artifacts/law360-2543038-press-${width}.png`,fullPage:true});
+  await thumbnail.click();
   await expect(page.locator('.wp-block-post-title')).toHaveText(title);
   await expect(page.locator('.wp-block-post-content')).toContainText('October 27, 2026');
   await expect(page.locator('.wp-block-post-content').getByRole('link', {name:'Read more'})).toHaveAttribute('href','https://www.law360.com/california/articles/2543038');
