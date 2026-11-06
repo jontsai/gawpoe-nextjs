@@ -51,4 +51,7 @@ npm run test:browser
 
 ## Publishing
 
+For pre-merge reviews, see [GawBot development previews](deploy/gilead/README.md).
+The dev preview is separate from production publication.
+
 GitHub Actions runs verification on pull requests and pushes to `master`. The Pages workflow publishes the committed `docs/` export from `master`, using `www.gawpoe.com` as the custom domain. Rebuild the export when changing site content or code.

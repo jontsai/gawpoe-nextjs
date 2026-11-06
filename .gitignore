@@ -14,3 +14,4 @@ pnpm-debug.log*
 test-results/
 playwright-report/
 *.tsbuildinfo
+__pycache__/
