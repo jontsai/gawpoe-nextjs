@@ -1,0 +1,62 @@
+{
+  "path": "/christopher-wimmer1/",
+  "title": "Christopher Wimmer1 – Gaw Poe",
+  "description": "P +1 415-326-3957",
+  "bodyClass": "page-template-default page page-id-1468 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/097f13080b0cb43e.css",
+  "sourceLinks": [
+    "#summary",
+    "#credentials",
+    "#rep",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599",
+    "https://www.linkedin.com/in/cawimmer/",
+    "https://www.linkedin.com/in/cawimmer/"
+  ],
+  "sourceFile": null,
+  "legacy": true,
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        42
+      ],
+      "currentAnchors": [
+        9
+      ],
+      "layoutIds": [
+        "4",
+        "11",
+        "20",
+        "13",
+        "12",
+        "2",
+        "15",
+        "14",
+        "3",
+        "17",
+        "16",
+        "4",
+        "19",
+        "18",
+        "5"
+      ]
+    },
+    "sidebar-contact-cb06a775": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "f5fb052e8157ba3b032cabbf47022508d43a6a20872734063379f3f4a071890f",
+  "sourceTextLength": 3135
+}

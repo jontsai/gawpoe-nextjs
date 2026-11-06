@@ -1,3 +1,4 @@
+import "./retired-import.mjs";
 import { mkdir, writeFile, access } from "node:fs/promises";
 import path from "node:path";
 const origin = "https://www.gawpoe.com";

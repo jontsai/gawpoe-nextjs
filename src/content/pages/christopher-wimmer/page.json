@@ -1,0 +1,62 @@
+{
+  "path": "/christopher-wimmer/",
+  "title": "Christopher Wimmer – Gaw Poe",
+  "description": "P +1 415-326-3957",
+  "bodyClass": "page-template-default page page-id-1468 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/097f13080b0cb43e.css",
+  "sourceLinks": [
+    "#summary",
+    "#credentials",
+    "#rep",
+    "mailto:cwimmer@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599",
+    "https://www.linkedin.com/in/cawimmer/",
+    "https://www.gawpoe.com/fractional-general-counsel/"
+  ],
+  "sourceFile": "ac3ec1ff8acd17da.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        42
+      ],
+      "currentAnchors": [
+        9
+      ],
+      "layoutIds": [
+        "4",
+        "11",
+        "20",
+        "13",
+        "12",
+        "2",
+        "15",
+        "14",
+        "3",
+        "17",
+        "16",
+        "4",
+        "19",
+        "18",
+        "5"
+      ]
+    },
+    "sidebar-contact-c28456fc": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "761fae668546a50ec0655c3cda1e0167350b69b32db479bc055b6138de85e7a4",
+  "sourceTextLength": 3181
+}

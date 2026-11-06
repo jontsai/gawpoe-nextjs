@@ -1,0 +1,63 @@
+{
+  "path": "/team/",
+  "title": "Team – Gaw Poe",
+  "description": "Randolph Gaw",
+  "bodyClass": "page-template-default page page-id-48 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/15a8f2ed08d67cc1.css",
+  "sourceLinks": [
+    "https://www.gawpoe.com/randolph-gaw/",
+    "https://www.gawpoe.com/randolph-gaw/",
+    "https://www.gawpoe.com/mark-poe/",
+    "https://www.gawpoe.com/mark-poe/",
+    "https://www.gawpoe.com/victor-meng/",
+    "https://www.gawpoe.com/randolph-gaw/",
+    "https://www.gawpoe.com/christopher-wimmer",
+    "https://www.gawpoe.com/christopher-wimmer",
+    "https://www.gawpoe.com/flora-vigo/",
+    "https://www.gawpoe.com/randolph-gaw/",
+    "https://www.gawpoe.com/paul-martin/",
+    "https://www.gawpoe.com/paul-martin/",
+    "https://www.gawpoe.com/kristin-menon/",
+    "https://www.gawpoe.com/kristin-menon/"
+  ],
+  "sourceFile": "75200d6cf8507031.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [
+        17
+      ],
+      "currentAnchors": [
+        2
+      ],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "5",
+        "7",
+        "16",
+        "9",
+        "8",
+        "2",
+        "11",
+        "10",
+        "3",
+        "13",
+        "12",
+        "4",
+        "15",
+        "14",
+        "5"
+      ]
+    }
+  },
+  "sourceTextHash": "4787aca36e1e0d42b6d486cac372a632c28710fad34c0ccf08863289a6dab606",
+  "sourceTextLength": 705
+}

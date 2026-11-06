@@ -1,0 +1,61 @@
+{
+  "path": "/business-litigation/",
+  "title": "Business Litigation – Gaw Poe",
+  "description": "Trial WorkTrial Work Trial Wor Trial Work",
+  "bodyClass": "page-template-default page page-id-507 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/5b923699bb560056.css",
+  "sourceLinks": [
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/business-litigation/",
+    "https://www.gawpoe.com/business-litigation/",
+    "https://www.gawpoe.com/antitrust/",
+    "https://www.gawpoe.com/antitrust/",
+    "https://www.gawpoe.com/catastrophic-injury/",
+    "https://www.gawpoe.com/catastrophic-injury/",
+    "https://www.gawpoe.com/appeals/",
+    "https://www.gawpoe.com/appeals/",
+    "https://chambers.com/law-firm/gaw-poe-5:23824568"
+  ],
+  "sourceFile": "fd8e47067e9973f2.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        16
+      ],
+      "currentAnchors": [
+        2
+      ],
+      "layoutIds": [
+        "5",
+        "7",
+        "16",
+        "9",
+        "8",
+        "2",
+        "11",
+        "10",
+        "3",
+        "13",
+        "12",
+        "4",
+        "15",
+        "14",
+        "5"
+      ]
+    }
+  },
+  "sourceTextHash": "8575bab855f28dd7a83f1caf1bc6c442743cffbcfa1fca854a9de48eb1971208",
+  "sourceTextLength": 2152
+}

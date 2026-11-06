@@ -1,3 +1,4 @@
+import { readSiteContent } from "../src/lib/page-sources.mjs";
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync, readdirSync } from 'node:fs';
@@ -5,7 +6,7 @@ import { load } from 'cheerio';
 const route='/5-hour-energy-sellers-ask-9th-circ-to-revive-antitrust-fight/';
 const title='5-Hour Energy Sellers Ask 9th Circ. To Revive Antitrust Fight';
 test('Law360 2543038 has one route, verified copy, metadata and press links',()=>{
- const capture=JSON.parse(readFileSync('src/content/generated/live-site.json'));
+ const capture=readSiteContent();
  assert.equal(capture.pages.filter(p=>p.path===route).length,1);
  const $=load(readFileSync(`out${route}index.html`));
  assert.equal($('.wp-block-post-title').text(),title);

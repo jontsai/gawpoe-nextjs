@@ -1,0 +1,61 @@
+{
+  "path": "/victor-meng/",
+  "title": "Victor Meng – Gaw Poe",
+  "description": "P +1 415-895-0862",
+  "bodyClass": "page-template-default page page-id-127 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/129e37b94c193989.css",
+  "sourceLinks": [
+    "#summary",
+    "#credentials",
+    "#rep",
+    "mailto:vmeng@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599",
+    "https://www.linkedin.com/in/victormeng/"
+  ],
+  "sourceFile": "47a7903e11a08fcd.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        39
+      ],
+      "currentAnchors": [
+        8
+      ],
+      "layoutIds": [
+        "5",
+        "11",
+        "20",
+        "13",
+        "12",
+        "2",
+        "15",
+        "14",
+        "3",
+        "17",
+        "16",
+        "4",
+        "19",
+        "18",
+        "5"
+      ]
+    },
+    "sidebar-contact-e70b0d94": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "7a95294457eea4fcbfbab2ac7934f381716432579f406c7fbc9bcad37dc54caa",
+  "sourceTextLength": 2933
+}

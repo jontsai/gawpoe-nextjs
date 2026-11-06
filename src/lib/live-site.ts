@@ -1,7 +1,8 @@
 import { readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import { renderPageHtml } from "./fragments.mjs";
-import capture from "@/content/generated/live-site.json";
+import { readSiteContent } from "./page-sources.mjs";
+const capture = readSiteContent();
 export const siteUrl = "https://www.gawpoe.com";
 const fragmentDirectory = path.join(process.cwd(), "src/content/fragments");
 const fragments: Record<string, string> = Object.fromEntries(

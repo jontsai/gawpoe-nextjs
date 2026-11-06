@@ -1,0 +1,44 @@
+{
+  "path": "/fractional-general-counsel/",
+  "title": "FRACTIONAL GENERAL COUNSEL – Gaw Poe",
+  "description": "We offer fractional General Counsel services to companies of any size. We have worked with private and publicly traded companies in a wide array of industries, from technology and finance to CPG, and ",
+  "bodyClass": "page-template-default page page-id-1453 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/0c2632515fd2fda3.css",
+  "sourceLinks": [],
+  "sourceFile": "855a1800380fe854.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "1",
+        "7",
+        "16",
+        "9",
+        "8",
+        "2",
+        "11",
+        "10",
+        "3",
+        "13",
+        "12",
+        "4",
+        "15",
+        "14",
+        "5"
+      ]
+    }
+  },
+  "sourceTextHash": "3093fcd1541e8f7085417a7e3b9a39b6655fecde74196f799eb65fa24e0d1dbf",
+  "sourceTextLength": 2339
+}

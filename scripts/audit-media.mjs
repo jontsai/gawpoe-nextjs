@@ -1,10 +1,11 @@
+import { readSiteContent } from "../src/lib/page-sources.mjs";
 // Read-only public-source audit: compare original bytes, not merely HTTP status.
 import { readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import sharp from "sharp";
 const json = async (p) => JSON.parse(await readFile(p, "utf8"));
 const catalog = await json("src/data/media-catalog.json");
-const capture = await json("src/content/generated/live-site.json");
+const capture = readSiteContent();
 const mediaUrls = [
   ...new Set(catalog.flatMap((p) => [p.source, ...p.variants])),
 ];

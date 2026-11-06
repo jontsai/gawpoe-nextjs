@@ -1,3 +1,4 @@
+import "./retired-import.mjs";
 import { validateCapture } from "./capture-validation.mjs";
 import {
   mkdir,

@@ -1,3 +1,4 @@
+import "./retired-import.mjs";
 import { mkdir, writeFile } from "node:fs/promises";
 
 const SITEMAP_INDEX = "https://www.gawpoe.com/wp-sitemap.xml";

@@ -1,0 +1,54 @@
+{
+  "path": "/practice-areas/",
+  "title": "Practice Areas – Gaw Poe",
+  "description": "Gaw | Poe handles all types and all stages of high-stakes litigation.  Below, you can learn more about our key practice areas: trials, commercial litigation, antitrust, catastrophic injuries, and appe",
+  "bodyClass": "page-template-default page page-id-98 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/9282d971937ac43e.css",
+  "sourceLinks": [
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/business-litigation/",
+    "https://www.gawpoe.com/antitrust/",
+    "https://www.gawpoe.com/catastrophic-injury/",
+    "https://www.gawpoe.com/appeals/"
+  ],
+  "sourceFile": "f8c4228f8bda6191.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [
+        14
+      ],
+      "currentAnchors": [
+        1
+      ],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "8",
+        "17",
+        "10",
+        "9",
+        "2",
+        "12",
+        "11",
+        "3",
+        "14",
+        "13",
+        "4",
+        "16",
+        "15",
+        "5"
+      ]
+    }
+  },
+  "sourceTextHash": "b7b2bf13b1a770af0bafe1712dfc0ce3eb97fb115405e4e13b4bd8d2242d8e01",
+  "sourceTextLength": 317
+}
