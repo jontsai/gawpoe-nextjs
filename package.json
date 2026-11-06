@@ -8,7 +8,6 @@
     "import:wp": "node scripts/capture-live-site.mjs && node scripts/extract-fragments.mjs && node scripts/capture-head-and-feeds.mjs",
     "sync:sitemap": "node scripts/sync-wp-sitemap.mjs",
     "build": "next build && node scripts/write-redirects.mjs && node scripts/sync-export-to-docs.mjs && npm run check:coverage",
-    "build:preview": "next build && node scripts/write-redirects.mjs && node scripts/write-preview-metadata.mjs",
     "check:coverage": "node scripts/check-content-coverage.mjs",
     "start": "npm run preview",
     "lint": "eslint src --ext .ts,.tsx",

@@ -51,17 +51,6 @@ npm run test:browser
 
 ## Publishing
 
-For pre-merge reviews without updating the committed `docs/` export:
-
-```sh
-npm run build:preview
-python3 scripts/serve-dev-preview.py
-```
-
-The preview build generates `out/` and revision metadata at `out/preview.json`.
-The Python 3.10+ preview server listens only on `http://127.0.0.1:3186` and supports
-legacy redirects, RSS content types, noindex headers, and missing-page responses.
-Run `python3 tests/dev-preview.test.py` to check the preview server.
-Preview builds do not publish the site or modify the production export.
+`npm run build` generates the static site in `out/` and copies it to `docs/`, the same export used by GitHub Pages. A static web server can serve `docs/` directly; no application server or separate preview build is required. Building a branch does not publish it to GitHub Pages.
 
 GitHub Actions runs verification on pull requests and pushes to `master`. The Pages workflow publishes the committed `docs/` export from `master`, using `www.gawpoe.com` as the custom domain. Rebuild the export when changing site content or code.
