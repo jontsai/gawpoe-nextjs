@@ -23,9 +23,14 @@ test('Law360 2543038 has one route, verified copy, metadata and press links',()=
  assert.equal($('.blk-about-gaw-poe').length,1);
  for(const f of readdirSync('src/content/fragments').filter(f=>f.startsWith('latest-press'))){
   const html=readFileSync('src/content/fragments/'+f,'utf8');
+  const fragment=load(html);
+  assert.equal(fragment('.wp-block-latest-posts__list > li').first().find('img').attr('src'),'/images/press/james-r-browning-courthouse.webp',f);
   assert.ok(html.includes(route),f);
   assert.ok(html.indexOf(route)<html.indexOf('/9th-circ-wont-rehear'),f);
  }
  const press=load(readFileSync('out/press/index.html'));
- assert.equal(press(`a[href="${route}"]`).length,1);
+ assert.equal(press(`a.wp-block-latest-posts__post-title[href="${route}"]`).length,1);
+ const item=press('.wp-block-latest-posts__list > li').first();
+ assert.equal(item.find('.wp-block-latest-posts__featured-image img').attr('src'),'/images/press/james-r-browning-courthouse.webp');
+ assert.equal(item.find('.wp-block-latest-posts__featured-image a').attr('href'),route);
 });
