@@ -7,7 +7,7 @@
     "https://www.gawpoe.com/wp-sitemap-taxonomies-category-1.xml",
     "https://www.gawpoe.com/wp-sitemap-users-1.xml"
   ],
-  "routeCount": 113,
+  "routeCount": 114,
   "routes": [
     {
       "path": "/",
@@ -26,6 +26,15 @@
       "kindLabel": "News",
       "slug": "3d-printing-company-plans-to-challenge-arbitrators-11-million-award",
       "title": "3d Printing Company Plans To Challenge Arbitrators 11 Million Award"
+    },
+    {
+      "path": "/5-hour-energy-sellers-ask-9th-circ-to-revive-antitrust-fight/",
+      "sourceUrl": "https://www.gawpoe.com/5-hour-energy-sellers-ask-9th-circ-to-revive-antitrust-fight/",
+      "sitemap": "https://www.gawpoe.com/wp-sitemap-posts-post-1.xml",
+      "kind": "post",
+      "kindLabel": "News",
+      "slug": "5-hour-energy-sellers-ask-9th-circ-to-revive-antitrust-fight",
+      "title": "5-Hour Energy Sellers Ask 9th Circ. To Revive Antitrust Fight"
     },
     {
       "path": "/9th-circ-grants-atty-fee-appeal-in-eye-drop-pricing-suit/",
