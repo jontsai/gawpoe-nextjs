@@ -19,9 +19,12 @@ test('Law360 2543038 has one route, verified copy, metadata and press links',()=
  assert.equal(image.attr('width'),'1844');
  assert.equal(image.attr('height'),'930');
  assert.match(image.attr('alt'),/James R. Browning/);
- assert.match($('figcaption').text(),/Sanfranman59 \/ Mike Hofmann/);
- assert.equal($('figcaption a').last().attr('href'),'https://creativecommons.org/licenses/by-sa/4.0/');
- assert.match($('figcaption').text(),/Converted to WebP; no crop/);
+ assert.match($('.press-photo-credit').text(),/Sanfranman59 \/ Mike Hofmann/);
+ assert.equal($('.press-photo-credit a').last().attr('href'),'https://creativecommons.org/licenses/by-sa/4.0/');
+ assert.match($('.press-photo-credit').text(),/Converted to WebP; no crop/);
+ assert.equal($('figcaption').length,0);
+ assert.equal($('.wp-block-post-content > .press-photo-credit').length,1);
+ assert.match($('.press-photo-credit').text(),/Illustrative courthouse photograph/);
  assert.equal($('.blk-about-gaw-poe').length,1);
  for(const f of readdirSync('src/content/fragments').filter(f=>f.startsWith('latest-press'))){
   const html=readFileSync('src/content/fragments/'+f,'utf8');

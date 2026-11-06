@@ -18,7 +18,15 @@ for (const width of [1440, 390]) {
   const image=page.locator('.wp-site-blocks > .wp-block-post-featured-image img');
   await expect(image).toBeVisible();
   expect(await image.evaluate((img: HTMLImageElement)=>img.complete && img.naturalWidth===1844)).toBe(true);
-  await expect(page.locator('figcaption')).toContainText('CC BY-SA 4.0');
+  await expect(page.locator('figcaption')).toHaveCount(0);
+  const credit=page.locator('.wp-block-post-content > .press-photo-credit');
+  await expect(credit).toBeVisible();
+  await expect(credit).toContainText('CC BY-SA 4.0');
+  await expect(credit.getByRole('link', {name:'CC BY-SA 4.0'})).toHaveAttribute('href','https://creativecommons.org/licenses/by-sa/4.0/');
+  const creditBox=await credit.boundingBox();
+  const readMoreBox=await page.getByRole('link', {name:'Read more',exact:true}).boundingBox();
+  expect(creditBox!.y).toBeGreaterThan(readMoreBox!.y+readMoreBox!.height);
+  expect(await credit.evaluate(el=>parseFloat(getComputedStyle(el).fontSize))).toBe(12);
   const feature=page.locator('.wp-site-blocks > .wp-block-post-featured-image');
   const actual=await feature.boundingBox();
   const heading=await page.locator('.wp-block-post-title').boundingBox();
