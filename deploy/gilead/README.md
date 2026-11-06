@@ -7,9 +7,11 @@ publishes committed `docs/` from `master`.
 ## Directory contract
 
 - Deployment user: `gawpoe` on `gilead.kebu.me`.
-- One clone/build directory: `/home/gawpoe/sites/gawpoe.dev.upinthe.xyz`.
-- Generated files served: `/home/gawpoe/sites/gawpoe.dev.upinthe.xyz/out/` only.
-- General convention: `~/sites/<hostname>`; never expose the repository root.
+- One clone/build directory: `/home/gawpoe/sites/gawpoe.com`.
+- Generated files served: `/home/gawpoe/sites/gawpoe.com/out/` only.
+- Checkout convention: `~/sites/<public-site-domain>`; never expose the repository root.
+- Dev virtual hostname: `gawpoe.dev.upinthe.xyz`, configured independently of the
+  checkout basename `gawpoe.com`. This directory is a dev checkout, not production.
 - Configuration sources: this repository's `deploy/gilead/`; active nginx and
   systemd configuration remains administrator-owned, not an included writable file.
 
@@ -34,7 +36,7 @@ its remote, branch and work instead of overwriting it. This repository is public
 so HTTPS cloning does not require GitHub credentials on the server.
 
 ```sh
-site="$HOME/sites/gawpoe.dev.upinthe.xyz"
+site="$HOME/sites/gawpoe.com"
 if test ! -e "$site"; then
   mkdir -p "$HOME/sites"
   git clone https://github.com/jontsai/gawpoe-nextjs.git "$site"
@@ -56,7 +58,7 @@ resolve it explicitly before switching; never force checkout, reset or clean.
 Choose the desired remote branch (an unmerged PR branch is fine):
 
 ```sh
-cd "$HOME/sites/gawpoe.dev.upinthe.xyz"
+cd "$HOME/sites/gawpoe.com"
 export PATH="$HOME/.local/node22/bin:$PATH"
 git status --short
 git fetch origin
