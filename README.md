@@ -51,4 +51,6 @@ npm run test:browser
 
 ## Publishing
 
+`npm run build` generates the static site in `out/` and copies it to `docs/`, the same export used by GitHub Pages. A static web server can serve `docs/` directly; no application server or separate preview build is required. Building a branch does not publish it to GitHub Pages.
+
 GitHub Actions runs verification on pull requests and pushes to `master`. The Pages workflow publishes the committed `docs/` export from `master`, using `www.gawpoe.com` as the custom domain. Rebuild the export when changing site content or code.
