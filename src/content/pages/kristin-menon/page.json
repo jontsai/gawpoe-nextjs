@@ -1,0 +1,59 @@
+{
+  "path": "/kristin-menon/",
+  "title": "Kristin Menon – Gaw Poe",
+  "description": "P +1 415-320-7671",
+  "bodyClass": "page-template-default page page-id-1632 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/a6a0e413852d1004.css",
+  "sourceLinks": [
+    "#summary",
+    "#credentials",
+    "mailto:kmenon@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599"
+  ],
+  "sourceFile": "fa29c8b5593c0e9c.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        51
+      ],
+      "currentAnchors": [
+        12
+      ],
+      "layoutIds": [
+        "4",
+        "11",
+        "20",
+        "13",
+        "12",
+        "2",
+        "15",
+        "14",
+        "3",
+        "17",
+        "16",
+        "4",
+        "19",
+        "18",
+        "5"
+      ]
+    },
+    "sidebar-contact-4334ed4e": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "038636b62524eca4cfed7778b583994c9d478271469b548862f1ac7040a29557",
+  "sourceTextLength": 2730
+}

@@ -1,0 +1,55 @@
+{
+  "path": "/",
+  "title": "Gaw Poe",
+  "description": "Gaw | Poe founders Mark Poe and Randolph Gaw are nationally recognized litigators who graduated from the same class at Stanford Law School.  Since starting their boutique firm in 2014, they have deliv",
+  "bodyClass": "home page-template-default page page-id-4 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/98865009012ebda6.css",
+  "sourceLinks": [
+    "https://chambers.com/law-firm/gaw-poe-5:23824568",
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/business-litigation/",
+    "https://www.gawpoe.com/antitrust/",
+    "https://www.gawpoe.com/catastrophic-injury/",
+    "https://www.gawpoe.com/appeals/"
+  ],
+  "sourceFile": "8a5edab282632443.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [
+        0
+      ],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [],
+      "currentAnchors": [
+        0
+      ],
+      "layoutIds": [
+        "4",
+        "10",
+        "19",
+        "12",
+        "11",
+        "2",
+        "14",
+        "13",
+        "3",
+        "16",
+        "15",
+        "4",
+        "18",
+        "17",
+        "5"
+      ]
+    }
+  },
+  "sourceTextHash": "ad402ece846a299d5442fa7ce4f49830fa11efbf0c1cbf8dc7f4b0c960c6fe54",
+  "sourceTextLength": 751
+}

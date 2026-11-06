@@ -1,0 +1,61 @@
+{
+  "path": "/antitrust/",
+  "title": "Antitrust – Gaw Poe",
+  "description": "Trial WorkTrial Work Trial Wor Trial Work",
+  "bodyClass": "page-template-default page page-id-510 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/5b923699bb560056.css",
+  "sourceLinks": [
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/business-litigation/",
+    "https://www.gawpoe.com/business-litigation/",
+    "https://www.gawpoe.com/antitrust/",
+    "https://www.gawpoe.com/antitrust/",
+    "https://www.gawpoe.com/catastrophic-injury/",
+    "https://www.gawpoe.com/catastrophic-injury/",
+    "https://www.gawpoe.com/appeals/",
+    "https://www.gawpoe.com/appeals/",
+    "https://chambers.com/law-firm/gaw-poe-5:23824568"
+  ],
+  "sourceFile": "48056083ebcb5af4.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        19
+      ],
+      "currentAnchors": [
+        3
+      ],
+      "layoutIds": [
+        "5",
+        "7",
+        "16",
+        "9",
+        "8",
+        "2",
+        "11",
+        "10",
+        "3",
+        "13",
+        "12",
+        "4",
+        "15",
+        "14",
+        "5"
+      ]
+    }
+  },
+  "sourceTextHash": "35b82632fb2817a674fe6e161072c7786a23a6b7fdb31c16be5127fa62681b19",
+  "sourceTextLength": 2043
+}

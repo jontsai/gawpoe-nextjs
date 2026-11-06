@@ -1,0 +1,62 @@
+{
+  "path": "/mark-poe/",
+  "title": "Mark Poe – Gaw Poe",
+  "description": "P +1 415-881-8216",
+  "bodyClass": "page-template-default page page-id-124 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/51a8433fcfd2c0ab.css",
+  "sourceLinks": [
+    "#summary",
+    "#credentials",
+    "#rep",
+    "mailto:mpoe@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599",
+    "https://www.linkedin.com/in/mark-poe-83713a24/",
+    "https://chambers.com/lawyer/mark-poe-5:27741633"
+  ],
+  "sourceFile": "8370230bcff995fa.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        36
+      ],
+      "currentAnchors": [
+        7
+      ],
+      "layoutIds": [
+        "6",
+        "10",
+        "19",
+        "12",
+        "11",
+        "2",
+        "14",
+        "13",
+        "3",
+        "16",
+        "15",
+        "4",
+        "18",
+        "17",
+        "5"
+      ]
+    },
+    "sidebar-contact-8640db2f": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "792f73880ab49c305599108eee573e317bf5e936bc37c5b2649706f65c66c01b",
+  "sourceTextLength": 3532
+}

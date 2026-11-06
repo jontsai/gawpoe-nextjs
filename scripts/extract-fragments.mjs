@@ -1,3 +1,4 @@
+import "./retired-import.mjs";
 import { readFile, writeFile, readdir, mkdir } from "node:fs/promises";
 import { load } from "cheerio";
 import { createHash } from "node:crypto";

@@ -1,0 +1,61 @@
+{
+  "path": "/paul-martin/",
+  "title": "Paul Martin – Gaw Poe",
+  "description": "P +1 415-343-5312",
+  "bodyClass": "page-template-default page page-id-1492 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/129e37b94c193989.css",
+  "sourceLinks": [
+    "#summary",
+    "#credentials",
+    "#rep",
+    "mailto:pmartin@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599",
+    "https://www.linkedin.com/in/paul-elliott-m-454238141/"
+  ],
+  "sourceFile": "cf93a94a04fe7a65.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        48
+      ],
+      "currentAnchors": [
+        11
+      ],
+      "layoutIds": [
+        "5",
+        "11",
+        "20",
+        "13",
+        "12",
+        "2",
+        "15",
+        "14",
+        "3",
+        "17",
+        "16",
+        "4",
+        "19",
+        "18",
+        "5"
+      ]
+    },
+    "sidebar-contact-082a8ea6": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "8c976c59f9f30eb77a38d7e48e24c2dd51459b93e9b6c94124c20751aef40fba",
+  "sourceTextLength": 1412
+}

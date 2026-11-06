@@ -1,12 +1,11 @@
+import "./retired-import.mjs";
+import { readSiteContent } from "../src/lib/page-sources.mjs";
 import { readFile, writeFile, mkdir, access } from "node:fs/promises";
 import path from "node:path";
 import { createHash } from "node:crypto";
 import { load } from "cheerio";
 const origin = "https://www.gawpoe.com";
-const capture = JSON.parse(
-  await readFile("src/content/generated/live-site.json", "utf8"),
-);
-const sharedMeta = new Map();
+const capture = readSiteContent();const sharedMeta = new Map();
 const feeds = [],
   pageFeeds = {},
   icons = [];

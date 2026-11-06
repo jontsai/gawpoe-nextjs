@@ -1,0 +1,51 @@
+{
+  "path": "/author/jgreenwalt/page/7/",
+  "title": "JGREENWALT – Page 7 – Gaw Poe",
+  "description": "—",
+  "bodyClass": "archive paged author author-jgreenwalt author-1 wp-custom-logo wp-embed-responsive paged-7 author-paged-7",
+  "cssPath": "/site-css/192376fb8bd63887.css",
+  "sourceLinks": [
+    "https://www.gawpoe.com/swisher-accused-of-anti-competitive-cigarillo-sabotage/",
+    "https://www.gawpoe.com/swisher-accused-of-anti-competitive-cigarillo-sabotage/",
+    "https://www.gawpoe.com/swisher-accused-of-anti-competitive-cigarillo-sabotage/",
+    "https://www.gawpoe.com/author/jgreenwalt/",
+    "https://www.gawpoe.com/category/uncategorized/",
+    "https://www.gawpoe.com/author/jgreenwalt/page/6/"
+  ],
+  "sourceFile": "af43e6f06e2fdcf5.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "1",
+        "10",
+        "19",
+        "12",
+        "11",
+        "2",
+        "14",
+        "13",
+        "3",
+        "16",
+        "15",
+        "4",
+        "18",
+        "17",
+        "5"
+      ]
+    }
+  },
+  "sourceTextHash": "3116a63024bb868e236f52d801e4adf0c6c3a9a74adcc3a52b1715beaab4d65f",
+  "sourceTextLength": 539
+}

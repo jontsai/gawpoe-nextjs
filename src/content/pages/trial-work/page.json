@@ -1,0 +1,56 @@
+{
+  "path": "/trial-work/",
+  "title": "Trial Work – Gaw Poe",
+  "description": "Trial WorkTrial Work Trial Wor Trial Work",
+  "bodyClass": "page-template-default page page-id-440 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/0a13f354e4126f31.css",
+  "sourceLinks": [
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/trial-work/",
+    "https://www.gawpoe.com/business-litigation/",
+    "https://www.gawpoe.com/business-litigation/",
+    "https://www.gawpoe.com/antitrust/",
+    "https://www.gawpoe.com/antitrust/",
+    "https://www.gawpoe.com/catastrophic-injury/",
+    "https://www.gawpoe.com/catastrophic-injury/",
+    "https://www.gawpoe.com/appeals/",
+    "https://www.gawpoe.com/appeals/"
+  ],
+  "sourceFile": "7e63367122059e73.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "5",
+        "7",
+        "16",
+        "9",
+        "8",
+        "2",
+        "11",
+        "10",
+        "3",
+        "13",
+        "12",
+        "4",
+        "15",
+        "14",
+        "5"
+      ]
+    }
+  },
+  "sourceTextHash": "841c6665482be96061e9c39aecca5d76dd411cf8ee2f609a6148821aa396b6f0",
+  "sourceTextLength": 1913
+}

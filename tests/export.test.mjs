@@ -1,3 +1,4 @@
+import { readSiteContent } from "../src/lib/page-sources.mjs";
 import { createHash } from "node:crypto";
 import { test } from "node:test";
 import assert from "node:assert/strict";
@@ -6,10 +7,7 @@ import { renderPageHtml } from "../src/lib/fragments.mjs";
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import path from "node:path";
 import { load } from "cheerio";
-const capture = JSON.parse(
-  readFileSync("src/content/generated/live-site.json", "utf8"),
-);
-const fragments = Object.fromEntries(
+const capture = readSiteContent();const fragments = Object.fromEntries(
   readdirSync("src/content/fragments")
     .filter((f) => f.endsWith(".html"))
     .map((f) => [

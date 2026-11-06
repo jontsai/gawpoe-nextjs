@@ -1,10 +1,8 @@
+import { readSiteContent } from "../src/lib/page-sources.mjs";
 import { chromium } from "@playwright/test";
 import { readFile, mkdir, writeFile } from "node:fs/promises";
 import sharp from "sharp";
-const capture = JSON.parse(
-  await readFile("src/content/generated/live-site.json", "utf8"),
-);
-const root = process.env.AUDIT_OUTPUT || "artifacts/page-audit";
+const capture = readSiteContent();const root = process.env.AUDIT_OUTPUT || "artifacts/page-audit";
 await mkdir(root, { recursive: true });
 const browser = await chromium.launch({ headless: true });
 const report = [];

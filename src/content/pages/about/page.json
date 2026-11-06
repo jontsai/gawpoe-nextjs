@@ -1,0 +1,74 @@
+{
+  "path": "/about/",
+  "title": "About Us – Gaw Poe",
+  "description": "We win trials. We win appeals. And we do both more efficiently than the large law firms you could hire to get worse results. That is why we are one of a handful of small firms in California to be rank",
+  "bodyClass": "page-template-default page page-id-50 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/7499b9189c3975ca.css",
+  "sourceLinks": [
+    "https://www.gawpoe.com/5-hour-energy-sellers-ask-9th-circ-to-revive-antitrust-fight/",
+    "https://www.gawpoe.com/5-hour-energy-sellers-ask-9th-circ-to-revive-antitrust-fight/",
+    "https://natlawreview.com/article/it-s-chambers-season-what-you-want-to-know-megan-braverman-and-host-sharon-berman",
+    "https://www.gawpoe.com/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/",
+    "https://www.gawpoe.com/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/",
+    "https://www.gawpoe.com/meta-hit-with-textbook-authors-ip-suit-over-ai-training/",
+    "https://www.gawpoe.com/meta-hit-with-textbook-authors-ip-suit-over-ai-training/",
+    "https://www.gawpoe.com/press/",
+    "mailto:contact@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599"
+  ],
+  "sourceFile": "4f10f17be161adfe.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [
+        20
+      ],
+      "currentAnchors": [
+        3
+      ],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        59
+      ],
+      "currentAnchors": [
+        13
+      ],
+      "layoutIds": [
+        "2",
+        "10",
+        "19",
+        "12",
+        "11",
+        "2",
+        "14",
+        "13",
+        "3",
+        "16",
+        "15",
+        "4",
+        "18",
+        "17",
+        "5"
+      ]
+    },
+    "latest-press-a5fde348": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    },
+    "sidebar-contact": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "daf9791082563cca7e8e492b48da2ee20c23e18899311b37c011812c254875ae",
+  "sourceTextLength": 3274
+}

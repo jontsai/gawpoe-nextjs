@@ -1,3 +1,4 @@
+import { readSiteContent } from "../src/lib/page-sources.mjs";
 import { readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import assert from "node:assert/strict";
@@ -6,7 +7,7 @@ import { primaryContract } from "./content-contract.mjs";
 import { locations } from "./check-sitemap-parity.mjs";
 const base = process.env.BASE_URL || "https://gawpoe.dev.upinthe.xyz";
 const readJson = async (p) => JSON.parse(await readFile(p, "utf8"));
-const pages = (await readJson("src/content/generated/live-site.json")).pages;
+const pages = readSiteContent().pages;
 const assets = (await readJson("verification/media-audit.json")).assets;
 const redirects = await readJson("public/legacy-redirects.json");
 const feeds = (await readJson("public/feed-manifest.json")).feeds;

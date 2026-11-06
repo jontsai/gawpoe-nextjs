@@ -1,0 +1,66 @@
+{
+  "path": "/the-elevator-pitch/",
+  "title": "The Elevator Pitch – Gaw Poe",
+  "description": "",
+  "bodyClass": "post-template-default single single-post postid-1201 single-format-standard wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/1fa97b21434d2d76.css",
+  "sourceLinks": [
+    "https://www.gawpoe.com/5-hour-energy-sellers-ask-9th-circ-to-revive-antitrust-fight/",
+    "https://www.gawpoe.com/5-hour-energy-sellers-ask-9th-circ-to-revive-antitrust-fight/",
+    "https://www.gawpoe.com/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/",
+    "https://www.gawpoe.com/9th-circ-wont-rehear-eye-drop-antitrust-suit-despite-dissent/",
+    "https://www.gawpoe.com/meta-hit-with-textbook-authors-ip-suit-over-ai-training/",
+    "https://www.gawpoe.com/meta-hit-with-textbook-authors-ip-suit-over-ai-training/",
+    "https://www.gawpoe.com/press/",
+    "mailto:contact@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599"
+  ],
+  "sourceFile": "f1f97935fad691a6.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "10",
+        "19",
+        "12",
+        "11",
+        "2",
+        "14",
+        "13",
+        "3",
+        "16",
+        "15",
+        "4",
+        "18",
+        "17",
+        "5"
+      ]
+    },
+    "about-firm": {},
+    "latest-press": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    },
+    "sidebar-contact": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "8e54a255def3aad30435e449414c5caa4b16c6604bd2a01d8196eac5dcce9042",
+  "sourceTextLength": 7678
+}

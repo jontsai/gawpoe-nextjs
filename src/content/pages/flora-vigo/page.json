@@ -1,0 +1,60 @@
+{
+  "path": "/flora-vigo/",
+  "title": "Flora Vigo – Gaw Poe",
+  "description": "P +1 415-862-0579",
+  "bodyClass": "page-template-default page page-id-129 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/97a647d0f43439f9.css",
+  "sourceLinks": [
+    "#summary",
+    "#credentials",
+    "#rep",
+    "mailto:fvigo@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599"
+  ],
+  "sourceFile": "654be7a8f7e100cb.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        45
+      ],
+      "currentAnchors": [
+        10
+      ],
+      "layoutIds": [
+        "5",
+        "11",
+        "20",
+        "13",
+        "12",
+        "2",
+        "15",
+        "14",
+        "3",
+        "17",
+        "16",
+        "4",
+        "19",
+        "18",
+        "5"
+      ]
+    },
+    "sidebar-contact-75ccbc86": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "ccbc6a1d030a5593b1aff605bd831909a4ba21cda62eb6c4c2154f402b2022da",
+  "sourceTextLength": 2738
+}

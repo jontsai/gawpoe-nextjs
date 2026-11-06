@@ -1,0 +1,62 @@
+{
+  "path": "/randolph-gaw/",
+  "title": "Randolph Gaw – Gaw Poe",
+  "description": "P +1 415-766-9317",
+  "bodyClass": "page-template-default page page-id-118 wp-custom-logo wp-embed-responsive",
+  "cssPath": "/site-css/51a8433fcfd2c0ab.css",
+  "sourceLinks": [
+    "#summary",
+    "#credentials",
+    "#rep",
+    "mailto:rgaw@gawpoe.com",
+    "https://www.linkedin.com/company/gaw-poe-llp/",
+    "https://www.facebook.com/profile.php?id=61560638781599",
+    "https://www.linkedin.com/in/randy-gaw-b15239/",
+    "https://chambers.com/lawyer/randolph-gaw-5:27715511"
+  ],
+  "sourceFile": "af6d97130db53e47.html",
+  "fragmentBindings": {
+    "header": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ]
+    },
+    "footer": {
+      "activeClasses": [
+        33
+      ],
+      "currentAnchors": [
+        6
+      ],
+      "layoutIds": [
+        "6",
+        "10",
+        "19",
+        "12",
+        "11",
+        "2",
+        "14",
+        "13",
+        "3",
+        "16",
+        "15",
+        "4",
+        "18",
+        "17",
+        "5"
+      ]
+    },
+    "sidebar-contact-94600f74": {
+      "activeClasses": [],
+      "currentAnchors": [],
+      "layoutIds": []
+    }
+  },
+  "sourceTextHash": "ff86dba32986e99ef1abf9dae8ace35e4a112bf9d9fd8108193e8b9fcc533aa3",
+  "sourceTextLength": 3405
+}
