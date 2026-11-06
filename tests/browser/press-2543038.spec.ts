@@ -9,6 +9,10 @@ for (const width of [1440, 390]) {
   await expect(page.locator('.wp-block-post-content')).toContainText('October 27, 2026');
   await expect(page.locator('.wp-block-post-content').getByRole('link', {name:'Read more'})).toHaveAttribute('href','https://www.law360.com/california/articles/2543038');
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
+  const image=page.locator('.wp-block-post-content img');
+  await expect(image).toBeVisible();
+  expect(await image.evaluate((img: HTMLImageElement)=>img.complete && img.naturalWidth===1844)).toBe(true);
+  await expect(page.locator('figcaption')).toContainText('CC BY-SA 4.0');
   await page.screenshot({path:`artifacts/law360-2543038-${width}.png`,fullPage:true});
  });
 }

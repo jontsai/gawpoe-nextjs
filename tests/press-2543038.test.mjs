@@ -10,8 +10,16 @@ test('Law360 2543038 has one route, verified copy, metadata and press links',()=
  const $=load(readFileSync(`out${route}index.html`));
  assert.equal($('.wp-block-post-title').text(),title);
  assert.match($('.wp-block-post-content').text(),/October 27, 2026/);
- assert.equal($('.wp-block-post-content a').attr('href'),'https://www.law360.com/california/articles/2543038');
+ assert.equal($('.wp-block-post-content a').filter((_,el)=>$(el).text()==='Read more').attr('href'),'https://www.law360.com/california/articles/2543038');
  assert.doesNotMatch($('.wp-block-post-content').text(),/Randolph|Randy|Gaw|Poe/);
+ const image=$('.wp-block-post-content img');
+ assert.equal(image.attr('src'),'/images/press/james-r-browning-courthouse.webp');
+ assert.equal(image.attr('width'),'1844');
+ assert.equal(image.attr('height'),'930');
+ assert.match(image.attr('alt'),/James R. Browning/);
+ assert.match($('figcaption').text(),/Sanfranman59 \/ Mike Hofmann/);
+ assert.equal($('figcaption a').last().attr('href'),'https://creativecommons.org/licenses/by-sa/4.0/');
+ assert.match($('figcaption').text(),/Converted to WebP; no crop/);
  assert.equal($('.blk-about-gaw-poe').length,1);
  for(const f of readdirSync('src/content/fragments').filter(f=>f.startsWith('latest-press'))){
   const html=readFileSync('src/content/fragments/'+f,'utf8');
