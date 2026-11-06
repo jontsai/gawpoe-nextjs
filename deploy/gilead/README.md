@@ -1,113 +1,139 @@
-# GawBot-owned development previews
+# One-clone development preview on Gilead
 
-This replaces the **development** host's old Zion/Apache routing with Gilead.
-Production remains GitHub Pages, publishing `docs/` from `master`. The preview
-command does not push, merge, change DNS, modify nginx, or deploy production.
+GawBot checks out the branch under review, builds it on Gilead, and serves its
+static export before approval or merge. Production is unchanged: GitHub Pages
+publishes committed `docs/` from `master`.
 
-## Publish before approving or merging
+## Directory contract
 
-On GawBot's build host, in the feature worktree:
+- Deployment user: `gawpoe` on `gilead.kebu.me`.
+- One clone/build directory: `/home/gawpoe/sites/gawpoe.dev.upinthe.xyz`.
+- Generated files served: `/home/gawpoe/sites/gawpoe.dev.upinthe.xyz/out/` only.
+- General convention: `~/sites/<hostname>`; never expose the repository root.
+- Configuration sources: this repository's `deploy/gilead/`; active nginx and
+  systemd configuration remains administrator-owned, not an included writable file.
+
+There are no release directories, current symlink, upload step, required
+worktrees, or rollback framework. Rebuilds happen in place and can temporarily
+interrupt this development preview. Other clones used for development do not
+need to move. Leave the earlier `~/previews/gawpoe` artifacts untouched; they
+are not used by this setup.
+
+## Clone once
+
+Use GawBot's existing SSH connection from its host (no key forwarding needed):
 
 ```sh
+ssh -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes \
+  -o UserKnownHostsFile="$HOME/.ssh/gawpoe-gilead-known_hosts" \
+  -i "$HOME/.ssh/gawpoe-gilead-dev" gawpoe@gilead.kebu.me
+```
+
+On Gilead, inspect the destination before cloning. If it already exists, inspect
+its remote, branch and work instead of overwriting it. This repository is public,
+so HTTPS cloning does not require GitHub credentials on the server.
+
+```sh
+site="$HOME/sites/gawpoe.dev.upinthe.xyz"
+if test ! -e "$site"; then
+  mkdir -p "$HOME/sites"
+  git clone https://github.com/jontsai/gawpoe-nextjs.git "$site"
+fi
+cd "$site"
+git remote -v
+git status --short
+```
+
+Build dependencies: Node.js 22 or newer, npm, Git, and Python 3.10+ for the static
+server. If Node is installed per-user at `~/.local/node22`, prepend
+`export PATH="$HOME/.local/node22/bin:$PATH"` for each build session. No shell rc
+or system-wide runtime changes are required.
+
+## Preview the active branch
+
+Run inside the clone on Gilead. If `git status` shows local work, preserve it and
+resolve it explicitly before switching; never force checkout, reset or clean.
+Choose the desired remote branch (an unmerged PR branch is fine):
+
+```sh
+cd "$HOME/sites/gawpoe.dev.upinthe.xyz"
+export PATH="$HOME/.local/node22/bin:$PATH"
+git status --short
+git fetch origin
+git switch feat/bot-dev-preview  # replace with the branch under review
+git merge --ff-only origin/feat/bot-dev-preview
 npm ci
-npm run build
+npm run build:preview
 npm test
-# Commit the intended source changes AND rebuilt docs/ export on the feature branch.
-python3 scripts/deploy-dev-preview.py --ref HEAD
 ```
 
-`--ref` can be any locally available commit or branch, including an unmerged PR.
-Only that revision's **committed** `docs/` tree is uploaded. Uncommitted changes
-are deliberately excluded. No Node.js installation or repository credentials are
-needed on Gilead. Python 3.10+ is required on both hosts.
+`build:preview` exports `out/`, writes legacy redirects and `out/preview.json`.
+It does not regenerate tracked `docs/`, so preview builds do not dirty the
+production export. For a branch predating this helper, the equivalent is:
+`npx next build && node scripts/write-redirects.mjs`; that older branch will not
+produce revision metadata. Do not merge the preview tooling just to preview it.
 
-The SSH defaults use GawBot's existing dedicated key and pinned known-host file:
-`~/.ssh/gawpoe-gilead-dev` and `~/.ssh/gawpoe-gilead-known_hosts`. Alternate paths
-can be supplied with `--key` and `--known-hosts`; never copy private keys into
-the repository or disable host-key checking. Agent forwarding is not needed.
-
-Uploads are checksum-verified and extracted into new release directories under
-`/home/gawpoe/previews/gawpoe/releases/`. Unsafe archive entries and incomplete
-exports are rejected without replacing the current site. Publication switches
-`current` atomically, with a deployment lock to serialize concurrent uploads.
-Previous releases are retained. A dev-only robots file and response headers
-discourage indexing; the host is **public**, not an authenticated private preview.
-
-The command checks the public `/preview.json` endpoint for the exact revision and
-release ID. Exit 0 means it matched. **Exit 2 means the files were activated on
-Gilead but public routing/verification failed**; do not call that a live preview.
-Report the preview URL, revision, and verification result for review separately
-from PR/merge and production status. Existing pages and source attribution are
-unchanged; legacy redirects, RSS content types and true 404s are preserved.
-
-### Rollback
+After the persistent service is installed, it reads rebuilt files without a
+restart. For a temporary loopback-only check, run:
 
 ```sh
-python3 scripts/deploy-dev-preview.py --rollback <release-id>
+python3 scripts/serve-dev-preview.py --root "$PWD/out" --port 3186
 ```
 
-Use the prior release ID reported by a previous deployment (`previous` contains
-`releases/<release-id>`). Rollback also verifies the public endpoint. Do not delete
-the active release or its predecessor. Releases are not automatically pruned.
+Confirm `git branch --show-current` and `git rev-parse HEAD`, then inspect:
 
-## One-time administrator setup (not yet applied by the PR)
+```sh
+curl --fail http://127.0.0.1:3186/preview.json
+curl --fail https://gawpoe.dev.upinthe.xyz/preview.json
+```
 
-Initial inspection on 2026-11-06 found the dev name resolving through
-`upinthe.xyz` to `66.175.220.156`; Gilead resolves to `23.239.23.64`.
-Gilead's nginx includes root-owned `/etc/nginx/gilead/sites/*.conf`.
-GawBot can SSH as `gawpoe`, but cannot administer nginx/systemd. Preserve the
-existing Zion site until the new HTTPS route passes verification.
+The public revision must match the clone's HEAD and `dirty` should be false for
+a committed review. Verify `/press/`, the article and image, RSS, a legacy
+redirect and an unknown-path 404. Report the branch/commit and verified URL
+separately from PR/merge and production status. A loopback success alone does
+not establish public activation. The preview is public, with noindex headers.
 
-1. Stage these reviewed files on Gilead in `/home/gawpoe/preview-setup/`:
-   `gawpoe-preview.service`, `gawpoe-dev.conf`, and `serve-dev-preview.py`.
-   Upload an initial committed export with the deploy command. Exit 2 is expected
-   until public DNS/HTTPS is configured.
-2. As an administrator, inspect `sudo nginx -T`, the existing systemd units, and
-   port 3186. Ensure no existing vhost claims this hostname and nothing else owns
-   that loopback port. If either destination below exists, inspect and merge it;
-   do not blindly overwrite existing configuration.
-3. Install root-owned copies (nginx must never include an agent-writable file):
+## One-time administrator setup
+
+The earlier inspection found the dev hostname resolving to Zion (`66.175.220.156`),
+not Gilead (`23.239.23.64`). Inspect current DNS before acting. GawBot can build as
+`gawpoe` but does not have sudo. Preserve existing service/vhost configuration.
+
+1. Inspect `sudo nginx -T`, existing systemd units and port 3186. Stop and resolve
+   any conflicting owner or hostname. The default paths below can be changed by
+   editing the reviewed service's `User`, `Group`, `WorkingDirectory`, and
+   `ExecStart --root/--port`; keep the nginx upstream port consistent.
+2. From the clone, install root-owned server/config copies. Inspect and merge if
+   these destinations already exist; do not blindly overwrite them:
 
    ```sh
    sudo install -d -o root -g root -m 755 /usr/local/lib/gawpoe-preview
-   sudo install -o root -g root -m 644 /home/gawpoe/preview-setup/serve-dev-preview.py /usr/local/lib/gawpoe-preview/serve-dev-preview.py
-   sudo install -o root -g root -m 644 /home/gawpoe/preview-setup/gawpoe-preview.service /etc/systemd/system/gawpoe-preview.service
-   sudo install -o root -g root -m 644 /home/gawpoe/preview-setup/gawpoe-dev.conf /etc/nginx/gilead/sites/gawpoe-dev.conf
+   sudo install -o root -g root -m 644 scripts/serve-dev-preview.py /usr/local/lib/gawpoe-preview/serve-dev-preview.py
+   sudo install -o root -g root -m 644 deploy/gilead/gawpoe-preview.service /etc/systemd/system/gawpoe-preview.service
+   sudo install -o root -g root -m 644 deploy/gilead/gawpoe-dev.conf /etc/nginx/gilead/sites/gawpoe-dev.conf
    sudo systemctl daemon-reload
    sudo systemctl enable --now gawpoe-preview
    sudo nginx -t && sudo systemctl reload nginx
    curl --fail -H 'Host: gawpoe.dev.upinthe.xyz' http://127.0.0.1/preview.json
    ```
 
-   The service runs as `gawpoe`, binds only `127.0.0.1:3186`, and reads the current
-   static release. Ordinary uploads need neither sudo nor a service restart.
-4. In the authoritative DNS provider, change **only** the exact
-   `gawpoe.dev.upinthe.xyz` record to an A record for `23.239.23.64`. Remove a
-   conflicting exact CNAME/AAAA if present; do not change the `upinthe.xyz` apex,
-   wildcard, or production `gawpoe.com` records. Confirm authoritative and public
-   resolution before certificate issuance. Plan a short dev-only cutover window:
-   HTTPS is not ready on the new host until the next step completes.
-5. Use the host's existing Certbot/ACME account to issue and install HTTPS:
+3. Change only the exact `gawpoe.dev.upinthe.xyz` DNS record to an A record for
+   `23.239.23.64`, resolving any conflicting exact CNAME/AAAA. Do not change apex,
+   wildcard, or production `gawpoe.com` records. Preserve the previous dev route
+   until verification succeeds.
+4. Confirm DNS and use the existing Certbot account for HTTPS:
 
    ```sh
    sudo certbot --nginx -d gawpoe.dev.upinthe.xyz --redirect
    sudo nginx -t
    sudo systemctl status gawpoe-preview --no-pager
    curl --fail https://gawpoe.dev.upinthe.xyz/preview.json
-   curl -I https://gawpoe.dev.upinthe.xyz/press/
    ```
 
-   Then rerun the deploy command and confirm the exact public revision, the press
-   listing, article and image, a legacy redirect, RSS and an unknown-path 404.
-   Never skip TLS verification. If cutover fails, restore the previous exact DNS
-   record so the retained Zion deployment serves the dev hostname again.
+   Do not skip TLS verification. If cutover fails, restore the prior exact dev
+   DNS record to retain the old preview. Production remains untouched.
 
 ## Verification
 
-```sh
-python3 tests/dev-preview.test.py
-```
-
-The integration suite checks release switching/rollback, failed-upload isolation,
-archive traversal/link rejection, redirects, RSS MIME, noindex, revision metadata,
-404s and serving a new release without restarting the HTTP process.
+`python3 tests/dev-preview.test.py` checks static-only serving, redirects, RSS
+content types, noindex, missing pages and rebuilt files served without restart.

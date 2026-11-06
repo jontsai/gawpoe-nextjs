@@ -9,8 +9,8 @@ import urllib.parse
 
 class PreviewHandler(SimpleHTTPRequestHandler):
     def __init__(self, *args, root, **kwargs):
-        self.release_root = Path(root).resolve()
-        super().__init__(*args, directory=str(self.release_root), **kwargs)
+        self.export_root = Path(root).resolve()
+        super().__init__(*args, directory=str(self.export_root), **kwargs)
 
     def end_headers(self):
         self.send_header("X-Robots-Tag", "noindex, nofollow")
@@ -27,12 +27,12 @@ class PreviewHandler(SimpleHTTPRequestHandler):
         if any(part.startswith(".") for part in Path(decoded).parts if part not in ("/", "")):
             self.send_error(404)
             return None
-        candidate = (self.release_root / decoded.lstrip("/")).resolve()
-        if not candidate.is_relative_to(self.release_root):
+        candidate = (self.export_root / decoded.lstrip("/")).resolve()
+        if not candidate.is_relative_to(self.export_root):
             self.send_error(404)
             return None
         try:
-            redirects = json.loads((self.release_root / "legacy-redirects.json").read_text())
+            redirects = json.loads((self.export_root / "legacy-redirects.json").read_text())
         except FileNotFoundError:
             redirects = {}
         target = redirects.get(url.path)
@@ -51,7 +51,7 @@ class PreviewHandler(SimpleHTTPRequestHandler):
             self.end_headers()
             return None
         if not candidate.exists():
-            page = self.release_root / "404.html"
+            page = self.export_root / "404.html"
             if page.is_file():
                 self.send_response(404)
                 self.send_header("Content-Type", "text/html; charset=utf-8")
@@ -62,10 +62,10 @@ class PreviewHandler(SimpleHTTPRequestHandler):
 
     def guess_type(self, path):
         try:
-            feeds = json.loads((self.release_root / "feed-manifest.json").read_text())["feeds"]
+            feeds = json.loads((self.export_root / "feed-manifest.json").read_text())["feeds"]
         except FileNotFoundError:
             feeds = []
-        relative = "/" + Path(path).relative_to(self.release_root).as_posix()
+        relative = "/" + Path(path).relative_to(self.export_root).as_posix()
         if any(relative in (item["path"], item["file"], item["path"] + "index.html") for item in feeds):
             return "application/rss+xml; charset=utf-8"
         return super().guess_type(path)
@@ -73,7 +73,7 @@ class PreviewHandler(SimpleHTTPRequestHandler):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--root", default=str(Path.home() / "previews/gawpoe/current"))
+    parser.add_argument("--root", default=str(Path.cwd() / "out"))
     parser.add_argument("--port", type=int, default=3186)
     args = parser.parse_args()
     ThreadingHTTPServer(("127.0.0.1", args.port), functools.partial(PreviewHandler, root=args.root)).serve_forever()
