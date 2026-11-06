@@ -12,8 +12,10 @@ test('Law360 2543038 has one route, verified copy, metadata and press links',()=
  assert.match($('.wp-block-post-content').text(),/October 27, 2026/);
  assert.equal($('.wp-block-post-content a').filter((_,el)=>$(el).text()==='Read more').attr('href'),'https://www.law360.com/california/articles/2543038');
  assert.doesNotMatch($('.wp-block-post-content').text(),/Randolph|Randy|Gaw|Poe/);
- const image=$('.wp-block-post-content img');
+ const image=$('.wp-site-blocks > .wp-block-post-featured-image img');
  assert.equal(image.attr('src'),'/images/press/james-r-browning-courthouse.webp');
+ assert.equal($('.wp-block-post-content img').length,0);
+ assert.equal(image.attr('style'),'object-fit:cover;');
  assert.equal(image.attr('width'),'1844');
  assert.equal(image.attr('height'),'930');
  assert.match(image.attr('alt'),/James R. Browning/);
@@ -25,6 +27,7 @@ test('Law360 2543038 has one route, verified copy, metadata and press links',()=
   const html=readFileSync('src/content/fragments/'+f,'utf8');
   const fragment=load(html);
   assert.equal(fragment('.wp-block-latest-posts__list > li').first().find('img').attr('src'),'/images/press/james-r-browning-courthouse.webp',f);
+  assert.equal(fragment('.wp-block-latest-posts__list > li').first().find('img').attr('style'),'',f);
   assert.ok(html.includes(route),f);
   assert.ok(html.indexOf(route)<html.indexOf('/9th-circ-wont-rehear'),f);
  }

@@ -15,10 +15,19 @@ for (const width of [1440, 390]) {
   await expect(page.locator('.wp-block-post-content')).toContainText('October 27, 2026');
   await expect(page.locator('.wp-block-post-content').getByRole('link', {name:'Read more'})).toHaveAttribute('href','https://www.law360.com/california/articles/2543038');
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
-  const image=page.locator('.wp-block-post-content img');
+  const image=page.locator('.wp-site-blocks > .wp-block-post-featured-image img');
   await expect(image).toBeVisible();
   expect(await image.evaluate((img: HTMLImageElement)=>img.complete && img.naturalWidth===1844)).toBe(true);
   await expect(page.locator('figcaption')).toContainText('CC BY-SA 4.0');
+  const feature=page.locator('.wp-site-blocks > .wp-block-post-featured-image');
+  const actual=await feature.boundingBox();
+  const heading=await page.locator('.wp-block-post-title').boundingBox();
+  expect(actual!.y+actual!.height).toBeLessThan(heading!.y);
+  expect(actual!.width).toBeLessThanOrEqual(1000);
+  expect(await image.evaluate(el=>getComputedStyle(el).borderRadius)).toBe('0px');
+  // The new thumbnail must inherit the same 110px sidebar image height as its neighbor.
+  const sidebarImages=page.locator('.sidebar .wp-block-latest-posts__featured-image img');
+  expect(await sidebarImages.first().evaluate(el=>getComputedStyle(el).height)).toBe(await sidebarImages.nth(1).evaluate(el=>getComputedStyle(el).height));
   await page.screenshot({path:`artifacts/law360-2543038-${width}.png`,fullPage:true});
  });
 }
